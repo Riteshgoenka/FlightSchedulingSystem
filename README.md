@@ -1,9 +1,9 @@
 # FlightSchedulingSystem
-Course Project
-Ritesh(160050047)
-Manoj(160050075)
-Sathvik(160050077)
-Saiteja N(160050089)
+Course Project <br>
+Ritesh(160050047) <br>
+Manoj(160050075)<br>
+Sathvik(160050077)<br>
+Saiteja N(160050089)<br>
 
 ## Instructions 
 - open project in eclipse and add mysql_connector in classpath of run configurations <br>
