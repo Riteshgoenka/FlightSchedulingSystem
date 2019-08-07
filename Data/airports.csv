@@ -1,0 +1,3373 @@
+iata,airport,city,state,country,man_res,runways,gates
+00M,Thigpen ,Bay Springs,MS,USA,1,1,1
+00R,Livingston Municipal,Livingston,TX,USA,2,2,2
+00V,Meadow Lake,Colorado Springs,CO,USA,3,3,3
+01G,Perry-Warsaw,Perry,NY,USA,4,4,4
+01J,Hilliard Airpark,Hilliard,FL,USA,5,5,5
+01M,Tishomingo County,Belmont,MS,USA,6,6,6
+02A,Gragg-Wade ,Clanton,AL,USA,7,7,7
+02C,Capitol,Brookfield,WI,USA,8,8,8
+02G,Columbiana County,East Liverpool,OH,USA,9,9,9
+03D,Memphis Memorial,Memphis,MO,USA,10,10,10
+04M,Calhoun County,Pittsboro,MS,USA,11,11,11
+04Y,Hawley Municipal,Hawley,MN,USA,12,12,12
+05C,Griffith-Merrillville ,Griffith,IN,USA,13,13,13
+05F,Gatesville - City/County,Gatesville,TX,USA,14,14,14
+05U,Eureka,Eureka,NV,USA,15,15,15
+06A,Moton  Municipal,Tuskegee,AL,USA,16,16,16
+06C,Schaumburg,Chicago/Schaumburg,IL,USA,17,17,17
+06D,Rolla Municipal,Rolla,ND,USA,18,18,18
+06M,Eupora Municipal,Eupora,MS,USA,19,19,19
+06N,Randall ,Middletown,NY,USA,20,20,20
+06U,Jackpot/Hayden ,Jackpot,NV,USA,21,21,21
+07C,Dekalb County,Auburn,IN,USA,22,22,22
+07F,Gladewater Municipal,Gladewater,TX,USA,23,23,23
+07G,Fitch H Beach,Charlotte,MI,USA,24,24,24
+07K,Central City Municipal,Central City,NE,USA,25,25,25
+08A,Wetumpka Municipal,Wetumpka,AL,USA,26,26,26
+08D,Stanley Municipal,Stanley,ND,USA,27,27,27
+08K,Harvard State,Harvard,NE,USA,28,28,28
+08M,Carthage-Leake County,Carthage,MS,USA,29,29,29
+09A,Butler-Choctaw County,Butler,AL,USA,30,30,30
+09J,Jekyll Island,Jekyll Island,GA,USA,31,31,31
+09K,Sargent Municipal,Sargent,NE,USA,32,32,32
+09M,Charleston Municipal,Charleston,MS,USA,33,33,33
+09W,South Capitol Street,Washington,DC,USA,34,34,34
+0A3,Smithville Municipal,Smithville,TN,USA,35,35,35
+0A8,Bibb County,Centreville,AL,USA,36,36,36
+0A9,Elizabethton Municipal,Elizabethton,TN,USA,37,37,37
+0AK,Pilot Station,Pilot Station,AK,USA,38,38,38
+0B1,Col. Dyke ,Bethel,ME,USA,39,39,39
+0B4,Hartington Municipal,Hartington,NE,USA,40,40,40
+0B5,Turners Falls,Montague,MA,USA,41,41,41
+0B7,Warren-Sugar Bush,Warren,VT,USA,42,42,42
+0B8,Elizabeth ,Fishers Island,NY,USA,43,43,43
+0C0,Dacy,Chicago/Harvard,IL,USA,44,44,44
+0C4,Pender Municipal,Pender,NE,USA,45,45,45
+0D1,South Haven Municipal,South Haven,MI,USA,46,46,46
+0D8,Gettysburg Municipal,Gettysburg,SD,USA,47,47,47
+0**,Moriarty,Moriarty,NM,USA,48,48,48
+1**,Crownpoint,Crownpoint,NM,USA,49,49,49
+0F2,Bowie Municipal,Bowie,TX,USA,50,50,50
+0F4,Loup City Municipal,Loup City,NE,USA,51,51,51
+0F7,Fountainhead Lodge Airpark,Eufaula,OK,USA,52,52,52
+0F8,William R Pogue Municipal,Sand Springs,OK,USA,53,53,53
+0F9,Tishomingo Airpark,Tishomingo,OK,USA,54,54,54
+0G0,North Buffalo Suburban,Lockport,NY,USA,55,55,55
+0G3,Tecumseh Municipal,Tecumseh,NE,USA,56,56,56
+0G6,Williams County,Bryan,OH,USA,57,57,57
+0G7,Finger Lakes Regional,Seneca Falls,NY,USA,58,58,58
+0H1,Trego Wakeeney ,Wakeeney,KS,USA,59,59,59
+0I8,Cynthiana-Harrison County,Cynthiana,KY,USA,60,60,60
+0J0,Abbeville Municipal,Abbeville,AL,USA,61,61,61
+0J4,Florala Municipal,Florala,AL,USA,62,62,62
+0J6,Headland Municipal,Headland,AL,USA,63,63,63
+0K7,Humboldt Municipal,Humboldt,IA,USA,64,64,64
+0L5,Goldfield,Goldfield,NV,USA,65,65,65
+0L7,Jean,Jean,NV,USA,66,66,66
+0L9,Echo Bay,Overton,NV,USA,67,67,67
+0M0,Dumas Municipal,Dumas,AR,USA,68,68,68
+0M1,Scott ,Parsons,TN,USA,69,69,69
+0M4,Benton County,Camden,TN,USA,70,70,70
+0M5,Humphreys County,Waverly,TN,USA,71,71,71
+0M6,Panola County,Batesville,MS,USA,72,72,72
+0M8,Byerley,Lake Providence,LA,USA,73,73,73
+0O3,Calaveras Co-Maury Rasmussen ,San Andreas,CA,USA,74,74,74
+0O4,Corning Municipal,Corning,CA,USA,75,75,75
+0O5,University,Davis,CA,USA,76,76,76
+0Q5,Shelter Cove,Shelter Cove,CA,USA,77,77,77
+0Q6,Shingletown,Shingletown,CA,USA,78,78,78
+0R0,Columbia-Marion County,Columbia,MS,USA,79,79,79
+0R1,Atmore Municipal,Atmore,AL,USA,80,80,80
+0R3,Abbeville Chris Crusta Memorial,Abbeville,LA,USA,81,81,81
+0R4,Concordia Parish,Vidalia,LA,USA,82,82,82
+0R5,David G Joyce,Winnfield,LA,USA,83,83,83
+0R7,Red River,Coushatta,LA,USA,84,84,84
+0S7,Dorothy Scott,Oroville,WA,USA,85,85,85
+0S9,Jefferson County International,Port Townsend,WA,USA,86,86,86
+0V2,Harriet Alexander ,Salida,CO,USA,87,87,87
+0V3,Pioneer Village ,Minden,NE,USA,88,88,88
+0V4,Brookneal/Campbell County,Brookneal,VA,USA,89,89,89
+0V6,Mission Sioux,Mission,SD,USA,90,90,90
+0V7,Kayenta,Kayenta,AZ,USA,91,91,91
+10C,Galt,Chicago/Greenwood/Wonderlake,IL,USA,92,92,92
+10D,Winsted Municipal,Winsted,MN,USA,93,93,93
+10G,Holmes County,Millersburg,OH,USA,94,94,94
+10N,Wallkill,Wallkill,NY,USA,95,95,95
+10U,Owyhee,Owyhee,NV,USA,96,96,96
+11A,Clayton Municipal,Clayton,AL,USA,97,97,97
+11D,Clarion Cty,Clarion,PA,USA,98,98,98
+11IS,Schaumburg Heliport,Chicago/Schaumburg,IL,USA,99,99,99
+11J,Early County,Blakely,GA,USA,100,100,100
+11R,Brenham Municipal,Brenham,TX,USA,101,101,101
+12C,Rochelle Municipal,Rochelle,IL,USA,102,102,102
+12D,Tower Municipal,Tower,MN,USA,103,103,103
+12J,Brewton Municipal,Brewton,AL,USA,104,104,104
+12K,Superior Municipal,Superior,NE,USA,105,105,105
+12Y,Le Sueur Municipal,Le Sueur,MN,USA,106,106,106
+13C,Lakeview,Lakeview,MI,USA,107,107,107
+13K,Eureka Municipal,Eureka,KS,USA,108,108,108
+13N,Trinca,Andover,NJ,USA,109,109,109
+14J,Carl Folsom,Elba,AL,USA,110,110,110
+14M,Hollandale Municipal,Hollandale,MS,USA,111,111,111
+14Y,Todd Field ,Long Prairie,MN,USA,112,112,112
+15F,Haskell Municipal,Haskell,TX,USA,113,113,113
+15J,Cook County,Adel,GA,USA,114,114,114
+15M,Luka ,Luka,MS,USA,115,115,115
+15Z,McCarthy 2,McCarthy,AK,USA,116,116,116
+16A,Nunapitchuk,Nunapitchuk,AK,USA,117,117,117
+16G,Seneca County,Tiffin,OH,USA,118,118,118
+16J,Dawson Municipal,Dawson,GA,USA,119,119,119
+16S,Myrtle Creek Municipal,Myrtle Creek,OR,USA,120,120,120
+17G,Port Bucyrus-Crawford County,Bucyrus,OH,USA,121,121,121
+17J,Donalsonville Municipal,Donalsonville,GA,USA,122,122,122
+17K,Boise City,Boise City,OK,USA,123,123,123
+17M,Magee Municipal,Magee,MS,USA,124,124,124
+17N,Cross Keys,Cross Keys,NJ,USA,125,125,125
+17Z,Manokotak,Manokotak,AK,USA,126,126,126
+18A,Franklin County,Canon,GA,USA,127,127,127
+18I,McCreary County ,Pine Knot,KY,USA,128,128,128
+19A,Jackson County,Jefferson,GA,USA,129,129,129
+19M,C A Moore,Lexington,MS,USA,130,130,130
+19N,Camden,Berlin,NJ,USA,131,131,131
+19P,Port Protection SPB,Port Protection,AK,USA,132,132,132
+1A3,Martin Campbell ,Copperhill,TN,USA,133,133,133
+1A5,Macon County,Franklin,NC,USA,134,134,134
+1A6,Middlesboro-Bell County,Middlesboro,KY,USA,135,135,135
+1A7,Jackson County,Gainesboro,TN,USA,136,136,136
+1A9,Autauga County,Prattville,AL,USA,137,137,137
+1B0,Dexter Regional,Dexter,ME,USA,138,138,138
+1B1,Columbia Cty,Hudson,NY,USA,139,139,139
+1B3,Fair Haven,Fair Haven,VT,USA,140,140,140
+1B9,Mansfield Municipal,Mansfield,MA,USA,141,141,141
+1C5,Clow,Chicago/Plainfield,IL,USA,142,142,142
+1D1,Milbank Municipal,Milbank,SD,USA,143,143,143
+1D2,Canton -Plymouth -  Mettetal,Plymouth,MI,USA,144,144,144
+1D3,Platte Municipal,Platte,SD,USA,145,145,145
+1D6,Hector Municipal,Hector,MN,USA,146,146,146
+1D7,Webster Municipal,Webster,SD,USA,147,147,147
+1D8,Redfield Municipal,Redfield,SD,USA,148,148,148
+1F0,Downtown Ardmore,Ardmore,OK,USA,149,149,149
+1F1,Lake Murray State Park,Overbrook,OK,USA,150,150,150
+1F4,Madill Municipal,Madill,OK,USA,151,151,151
+1F9,Bridgeport Municipal,Bridgeport,TX,USA,152,152,152
+1G0,Wood County,Bowling Green,OH,USA,153,153,153
+1G3,Kent State University,Kent,OH,USA,154,154,154
+1G4,Grand Canyon West,Peach Springs,AZ,USA,155,155,155
+1G5,Freedom ,Medina,OH,USA,156,156,156
+1G6,Michael ,Cicero,NY,USA,157,157,157
+1H0,Creve Coeur,St Louis,MO,USA,158,158,158
+1H2,Effingham County Memorial,Effingham,IL,USA,159,159,159
+1H3,Linn State Tech. College,Linn,MO,USA,160,160,160
+1H8,Casey Municipal,Casey,IL,USA,161,161,161
+1I5,Freehold,Freehold,NY,USA,162,162,162
+1I9,Delphi Municipal,Delphi,IN,USA,163,163,163
+1J0,Tri-County,Bonifay,FL,USA,164,164,164
+1K2,Lindsay Municipal,Lindsay,OK,USA,165,165,165
+1K4,David J. Perry,Goldsby,OK,USA,166,166,166
+1K5,Waynoka Municipal,Waynoka,OK,USA,167,167,167
+1K9,Satanta Municipal,Satanta,KS,USA,168,168,168
+1L0,St. John the Baptist Parish,Reserve,LA,USA,169,169,169
+1L1,Lincoln Co,Panaca,NV,USA,170,170,170
+1L7,Escalante Municipal,Escalante,UT,USA,171,171,171
+1L9,Parowan,Parowan,UT,USA,172,172,172
+1M1,North Little Rock Municipal,No Lit Rock,AR,USA,173,173,173
+1M2,Belzoni Municipal,Belzoni,MS,USA,174,174,174
+1M4,Posey ,Haleyville,AL,USA,175,175,175
+1M5,Portland Municipal,Portland,TN,USA,176,176,176
+1M7,Fulton,Fulton,KY,USA,177,177,177
+1MO,Mountain Grove Memorial,Mountain Grove,MO,USA,178,178,178
+1N2,Spadaro ,East Moriches,NY,USA,179,179,179
+1N4,Woodbine Muni ,Woodbine,NJ,USA,180,180,180
+1N7,Blairstown,Blairstown,NJ,USA,181,181,181
+1N9,Allentown Queen City Muni,Allentown,PA,USA,182,182,182
+1ND3,Hamry ,Kindred,ND,USA,183,183,183
+1O1,Grandfield Municipal,Grandfield,OK,USA,184,184,184
+1O2,Lampson ,Lakeport,CA,USA,185,185,185
+1O3,Lodi,Lodi,CA,USA,186,186,186
+1O4,Thomas Municipal,Thomas,OK,USA,187,187,187
+1O6,Dunsmuir Municipal-Mott,Dunsmuir,CA,USA,188,188,188
+1R1,Jena,Jena,LA,USA,189,189,189
+1R7,Brookhaven-Lincoln County,Brookhaven,MS,USA,190,190,190
+1R8,Bay Minette Municipal,Bay Minette,AL,USA,191,191,191
+1S0,Pierce County ,Puyallup,WA,USA,192,192,192
+1S3,Tillitt ,Forsyth,MT,USA,193,193,193
+1S5,Sunnyside Municipal,Sunnyside,WA,USA,194,194,194
+1S6,Priest River Muni,Priest River,ID,USA,195,195,195
+1U7,Bear Lake County,Paris,ID,USA,196,196,196
+1V0,Navajo State Park ,Navajo Dam,NM,USA,197,197,197
+1V2,Grant County ,Hyannis,NE,USA,198,198,198
+1V5,Boulder Muni,Boulder,CO,USA,199,199,199
+1V6,Fremont County,Canon City,CO,USA,200,200,200
+1V9,Blake ,Delta,CO,USA,201,201,201
+20A,Robbins ,Oneonta,AL,USA,202,202,202
+20M,Macon Municipal,Macon,MS,USA,203,203,203
+20N,Kingston-Ulster,Kingston,NY,USA,204,204,204
+20U,Beach,Beach,ND,USA,205,205,205
+20V,McElroy Airfield,Kremmling,CO,USA,206,206,206
+21D,Lake Elmo,St Paul,MN,USA,207,207,207
+21F,Jacksboro Municipal,Jacksboro,TX,USA,208,208,208
+22B,Mountain Meadow Airstrip,Burlington,CT,USA,209,209,209
+22I,Vinton County,McArthur,OH,USA,210,210,210
+22M,Pontotoc County,Pontotoc,MS,USA,211,211,211
+22N,Carbon Cty-Jake Arner Memorial,Lehighton,PA,USA,212,212,212
+23J,Herlong,Jacksonville,FL,USA,213,213,213
+23M,Clarke County,Quitman,MS,USA,214,214,214
+23N,Bayport Aerodrome,Bayport,NY,USA,215,215,215
+23R,Devine Municipal,Devine,TX,USA,216,216,216
+24A,Jackson County,Sylva,NC,USA,217,217,217
+24J,Suwannee County,Live Oak,FL,USA,218,218,218
+24N,Jicarilla Apache Nation,Dulce,NM,USA,219,219,219
+25J,Cuthbert-Randolph,Cuthbert,GA,USA,220,220,220
+25M,Ripley ,Ripley,MS,USA,221,221,221
+25R,International,Edinburg,TX,USA,222,222,222
+26A,Ashland/Lineville,Ashland/Lineville,AL,USA,223,223,223
+26N,Ocean City Muni cipal,Ocean City,NJ,USA,224,224,224
+26R,Jackson County,Edna/Ganado,TX,USA,225,225,225
+26U,McDermitt State,McDermitt,OR,USA,226,226,226
+27A,Elbert County-Patz ,Elberton,GA,USA,227,227,227
+27D,Myers ,Canby,MN,USA,228,228,228
+27J,Newberry Municipal,Newberry,SC,USA,229,229,229
+27K,Georgetown-Scott County,Georgetown,KY,USA,230,230,230
+28J,Kay Larkin,Palatka,FL,USA,231,231,231
+29D,Grove City,Grove City,PA,USA,232,232,232
+29G,Portage County,Ravenna,OH,USA,233,233,233
+29S,Gardiner,Gardiner,MT,USA,234,234,234
+2A0,Mark Anton,Dayton,TN,USA,235,235,235
+2A1,Jamestown Municipal,Jamestown,TN,USA,236,236,236
+2A3,Larsen Bay,Larsen Bay,AK,USA,237,237,237
+2A9,Kotlik,Kotlik,AK,USA,238,238,238
+2AK,Lime Village,Lime Village,AK,USA,239,239,239
+2B3,Parlin ,Newport,NH,USA,240,240,240
+2B7,Pittsfield Municipal,Pittsfield,ME,USA,241,241,241
+2B9,Post Mills,Post Mills,VT,USA,242,242,242
+2D1,Barber,Alliance,OH,USA,243,243,243
+2D5,Oakes Municipal,Oakes,ND,USA,244,244,244
+2F5,Lamesa Municipal,Lamesa,TX,USA,245,245,245
+2F6,Skiatook Municipal,Skiatook,OK,USA,246,246,246
+2F7,Commerce Municipal,Commerce,TX,USA,247,247,247
+2F8,Morehouse Memorial,Bastrop,LA,USA,248,248,248
+2G2,Jefferson County Airpark,Steubenville,OH,USA,249,249,249
+2G3,Connellsville,Connellsville,PA,USA,250,250,250
+2G4,Garrett County,Oakland,MD,USA,251,251,251
+2G9,Somerset County,Somerset,PA,USA,252,252,252
+2H0,Shelby County,Shelbyville,IL,USA,253,253,253
+2H2,Aurora Memorial Municipal,Aurora,MO,USA,254,254,254
+2I0,Madisonville Municipal,Madisonville,KY,USA,255,255,255
+2I5,Chanute,Rantoul,IL,USA,256,256,256
+2IS,Airglades,Clewiston,FL,USA,257,257,257
+2J2,Liberty County,Hinesville,GA,USA,258,258,258
+2J3,Louisville Municipal,Louisville,GA,USA,259,259,259
+2J5,Millen,Millen,GA,USA,260,260,260
+2J9,Quincy Municipal,Quincy,FL,USA,261,261,261
+2K3,Stanton County Municipal,Johnson,KS,USA,262,262,262
+2K4,Scott ,Mangum,OK,USA,263,263,263
+2K5,Telida,Telida,AK,USA,264,264,264
+2M0,Princeton-Caldwell County,Princeton,KY,USA,265,265,265
+2M2,Lawrenceburg Municipal,Lawrenceburg,TN,USA,266,266,266
+2M3,Sallisaw Municipal,Sallisaw,OK,USA,267,267,267
+2M4,G. V. Montgomery,Forest,MS,USA,268,268,268
+2M8,Charles W. Baker,Millington,TN,USA,269,269,269
+2O1,Gansner ,Quincy,CA,USA,270,270,270
+2O3,Angwin-Parrett ,Angwin,CA,USA,271,271,271
+2O6,Chowchilla,Chowchilla,CA,USA,272,272,272
+2O7,Independence,Independence,CA,USA,273,273,273
+2O8,Hinton Municipal,Hinton,OK,USA,274,274,274
+2P2,Washington Island,Washington Island,WI,USA,275,275,275
+2Q3,Yolo Co-Davis/Woodland/Winters,Davis/Woodland/Winters,CA,USA,276,276,276
+2R0,Waynesboro Municipal,Waynesboro,MS,USA,277,277,277
+2R4,Peter Prince ,Milton,FL,USA,278,278,278
+2R5,St Elmo,St Elmo,AL,USA,279,279,279
+2R9,Karnes County,Kenedy,TX,USA,280,280,280
+2S1,Vashon Municipal,Vashon,WA,USA,281,281,281
+2S6,Sportsman Airpark,Newberg,OR,USA,282,282,282
+2S7,Chiloquin State,Chiloquin,OR,USA,283,283,283
+2S8,Wilbur,Wilbur,WA,USA,284,284,284
+2T1,Muleshoe Municipal,Muleshoe,TX,USA,285,285,285
+2V1,Stevens ,Pagosa Springs,CO,USA,286,286,286
+2V2,Vance Brand,Longmont,CO,USA,287,287,287
+2V5,Wray Municipal,Wray,CO,USA,288,288,288
+2V6,Yuma Municipal,Yuma,CO,USA,289,289,289
+2W5,Maryland,Indian Head,MD,USA,290,290,290
+2W6,Captain Walter Francis Duke Regional ,Leonardtown,MD,USA,291,291,291
+2Y3,Yakutat SPB,Yakutat,AK,USA,292,292,292
+2Y4,Rockwell City Municipal,Rockwell City,IA,USA,293,293,293
+31F,Gaines County,Seminole,TX,USA,294,294,294
+32M,Norfolk,Norfolk,MA,USA,295,295,295
+32S,Stevensville,Stevensville,MT,USA,296,296,296
+33J,Geneva Municipal,Geneva,AL,USA,297,297,297
+33M,Water Valley ,Water Valley,MS,USA,298,298,298
+33N,Delaware Airpark,Dover,DE,USA,299,299,299
+33S,Pru ,Ritzville,WA,USA,300,300,300
+34A,Laurens County,Laurens,SC,USA,301,301,301
+35A,"Union County, Troy Shelton ",Union,SC,USA,302,302,302
+35D,Padgham ,Allegan,MI,USA,303,303,303
+35S,Wasco State,Wasco,OR,USA,304,304,304
+36K,Lakin,Lakin,KS,USA,305,305,305
+36S,Happy Camp,Happy Camp,CA,USA,306,306,306
+36U,Heber City Municipal/Russ McDonald ,Heber,UT,USA,307,307,307
+37T,Calico Rock-Izard County,Calico Rock,AR,USA,308,308,308
+37W,Harnett County,Erwin,NC,USA,309,309,309
+38A,Shaktoolik,Shaktoolik,AK,USA,310,310,310
+38S,Deer Lodge-City-County,Deer Lodge,MT,USA,311,311,311
+38U,Wayne Wonderland,Loa,UT,USA,312,312,312
+39N,Princeton,Princeton,NJ,USA,313,313,313
+3A0,Grove Hill Municipal,Grove Hill,AL,USA,314,314,314
+3A1,Folsom ,Cullman,AL,USA,315,315,315
+3A2,New Tazewell Municipal,Tazewell,TN,USA,316,316,316
+3A3,Anson County,Wadesboro,NC,USA,317,317,317
+3AU,Augusta Municipal,Augusta,KS,USA,318,318,318
+3B0,Southbridge Municipal,Southbridge,MA,USA,319,319,319
+3B1,Greenville Municipal,Greenville,ME,USA,320,320,320
+3B2,Marshfield,Marshfield,MA,USA,321,321,321
+3B9,Chester,Chester,CT,USA,322,322,322
+3BS,Jack Barstow,Midland,MI,USA,323,323,323
+3CK,Lake In The Hills,Lake In The Hills,IL,USA,324,324,324
+3CM,James Clements Municipal,Bay City,MI,USA,325,325,325
+3CU,Cable Union,Cable,WI,USA,326,326,326
+3D2,Ephraim/Gibraltar,Ephraim,WI,USA,327,327,327
+3D4,Frankfort Dow Memorial,Frankfort,MI,USA,328,328,328
+3F3,De Soto Parish,Mansfield,LA,USA,329,329,329
+3F4,Vivian,Vivian,LA,USA,330,330,330
+3F7,Jones Memorial,Bristow,OK,USA,331,331,331
+3FM,Fremont Municipal,Fremont,MI,USA,332,332,332
+3FU,Faulkton Municipal,Faulkton,SD,USA,333,333,333
+3G3,Wadsworth Municipal,Wadsworth,OH,USA,334,334,334
+3G4,Ashland County,Ashland,OH,USA,335,335,335
+3G7,Williamson/Sodus,Williamson,NY,USA,336,336,336
+3GM,Grand Haven Memorial Airpark,Grand Haven,MI,USA,337,337,337
+3I2,Mason County,Point Pleasant,WV,USA,338,338,338
+3I7,Phillipsburg,Phillipsburg,OH,USA,339,339,339
+3J1,Ridgeland,Ridgeland,SC,USA,340,340,340
+3J7,Greene County Airpark,Greensboro,GA,USA,341,341,341
+3JC,Freeman ,Junction City,KS,USA,342,342,342
+3K3,Syracuse-Hamilton County Municipal,Syracuse,KS,USA,343,343,343
+3K6,St Louis-Metro East,Troy/Marine/St. Louis,IL,USA,344,344,344
+3K7,Mark Hoard Memorial,Leoti,KS,USA,345,345,345
+3LC,Logan County,Lincoln,IL,USA,346,346,346
+3LF,Litchfield Municipal,Litchfield,IL,USA,347,347,347
+3M7,Lafayette Municipal,Lafayette,TN,USA,348,348,348
+3M8,North Pickens ,Reform,AL,USA,349,349,349
+3M9,Warren Municipal,Warren,AR,USA,350,350,350
+3MY,Mt. Hawley Auxiliary,Peoria,IL,USA,351,351,351
+3N6,Old Bridge,Old Bridge,NJ,USA,352,352,352
+3N8,Mahnomen County ,Mahnomen,MN,USA,353,353,353
+3ND0,Northwood Municipal,Northwood,ND,USA,354,354,354
+3O1,Gustine,Gustine,CA,USA,355,355,355
+3O3,Municipal,Purcell,OK,USA,356,356,356
+3O4,Sayre Municipal,Sayre,OK,USA,357,357,357
+3O5,Walters Municipal,Walters,OK,USA,358,358,358
+3O7,Hollister Municipal,Hollister,CA,USA,359,359,359
+3O9,Grand Lake Regional,Afton,OK,USA,360,360,360
+3R0,Beeville Municipal,Beeville,TX,USA,361,361,361
+3R1,Bay City Municipal,Bay City,TX,USA,362,362,362
+3R2,Le Gros Memorial,Crowley,LA,USA,363,363,363
+3R4,Hart,Many,LA,USA,364,364,364
+3R7,Jennings,Jennings,LA,USA,365,365,365
+3S4,Illinois Valley,Illinois Valley (Cave Junction),OR,USA,366,366,366
+3S8,Grants Pass,Grants Pass,OR,USA,367,367,367
+3S9,Condon State-Pauling ,Condon,OR,USA,368,368,368
+3SG,Harry W Browne,Saginaw - H.Browne,MI,USA,369,369,369
+3SQ,St Charles,St Charles,MO,USA,370,370,370
+3T3,Boyceville Municipal ,Boyceville,WI,USA,371,371,371
+3T5,Fayette Regional Air Center,La Grange,TX,USA,372,372,372
+3TR,Jerry Tyler Memorial,Niles,MI,USA,373,373,373
+3U3,Bowman ,Anaconda,MT,USA,374,374,374
+3U7,Benchmark,Benchmark,MT,USA,375,375,375
+3U8,Big Sandy,Big Sandy,MT,USA,376,376,376
+3V4,Fort Morgan Municipal,Fort Morgan,CO,USA,377,377,377
+3WO,Shawano Municipal,Shawano,WI,USA,378,378,378
+3Y2,George L Scott Municipal,West Union,IA,USA,379,379,379
+3Y3,Winterset Madison County,Winterset,IA,USA,380,380,380
+3Z9,Haines SPB,Haines,AK,USA,381,381,381
+40J,Perry-Foley,Perry,FL,USA,382,382,382
+40N,Chester Cty-G O Carlson,Coatesville,PA,USA,383,383,383
+40U,Manila,Manila,UT,USA,384,384,384
+41U,Manti-Ephraim,Manti,UT,USA,385,385,385
+42A,Melbourne Municipal,Melbourne,AR,USA,386,386,386
+42C,White Cloud,White Cloud,MI,USA,387,387,387
+42J,Keystone Airpark,Keystone Heights,FL,USA,388,388,388
+42S,Poplar,Poplar,MT,USA,389,389,389
+43A,Montgomery County,Star,NC,USA,390,390,390
+44B,Dover/Foxcroft,Dover-Foxcroft,ME,USA,391,391,391
+44N,Sky Acres,Millbrook,NY,USA,392,392,392
+45J,Rockingham-Hamlet,Rockingham,NC,USA,393,393,393
+45OH,North Bass Island,North Bass Island,OH,USA,394,394,394
+45R,Kountz - Hawthorne ,Kountze/Silsbee,TX,USA,395,395,395
+46A,Blairsville,Blairsville,GA,USA,396,396,396
+46D,Carrington Municipal,Carrington,ND,USA,397,397,397
+46N,Sky Park,Red Hook,NY,USA,398,398,398
+47A,Cherokee County,Canton,GA,USA,399,399,399
+47J,Cheraw Municipal,Cheraw,SC,USA,400,400,400
+47N,Central Jersey Regional,Manville,NJ,USA,401,401,401
+47V,Curtis Municipal,Curtis,NE,USA,402,402,402
+48A,Cochran,Cochran,GA,USA,403,403,403
+48D,Clare Municipal,Clare,MI,USA,404,404,404
+48I,Braxton County,Sutton,WV,USA,405,405,405
+48K,Ness City Municipal,Ness City,KS,USA,406,406,406
+48S,Harlem,Harlem,MT,USA,407,407,407
+48V,Tri-County,Erie,CO,USA,408,408,408
+49A,Gilmer County,Ellijay,GA,USA,409,409,409
+49T,Downtown Heliport,Dallas,TX,USA,410,410,410
+49X,Chemehuevi Valley,Chemehuevi Valley,CA,USA,411,411,411
+49Y,Fillmore County,Preston,MN,USA,412,412,412
+4A2,Atmautluak,Atmautluak,AK,USA,413,413,413
+4A4,Cornelius-Moore ,Cedartown,GA,USA,414,414,414
+4A5,Marshall-Searcy County,Marshall,AR,USA,415,415,415
+4A6,Scottsboro Municipal,Scottsboro,AL,USA,416,416,416
+4A7,Clayton County,Hampton,GA,USA,417,417,417
+4A9,Isbell ,Fort Payne,AL,USA,418,418,418
+4B0,South Albany,South Bethlehem,NY,USA,419,419,419
+4B1,Duanesburg,Duanesburg,NY,USA,420,420,420
+4B6,Ticonderoga Muni,Ticonderoga,NY,USA,421,421,421
+4B7,Schroon Lake,Schroon Lake,NY,USA,422,422,422
+4B8,Robertson ,Plainville,CT,USA,423,423,423
+4B9,Simsbury Tri-Town,Simsbury,CT,USA,424,424,424
+4C8,Albia Municipal,Albia,IA,USA,425,425,425
+4D0,Abrams Municipal,Grandledge,MI,USA,426,426,426
+4D9,Alma Municipal,Alma,NE,USA,427,427,427
+4F2,Panola County-Sharpe ,Carthage,TX,USA,428,428,428
+4F4,Gilmer-Upshur County,Gilmer,TX,USA,429,429,429
+4G1,Greenville Muni,Greenville,PA,USA,430,430,430
+4G2,Hamburg Inc.,Hamburg,NY,USA,431,431,431
+4G5,Monroe County,Woodsfield,OH,USA,432,432,432
+4G6,Hornell Muni,Hornell,NY,USA,433,433,433
+4G7,Fairmont Muni,Fairmont,WV,USA,434,434,434
+4I0,Mingo County,Williamson,WV,USA,435,435,435
+4I3,Knox County,Mount Vernon,OH,USA,436,436,436
+4I7,Putnam County,Greencastle,IN,USA,437,437,437
+4I9,Morrow County,Mt. Gilead,OH,USA,438,438,438
+4J1,Brantley County,Nahunta,GA,USA,439,439,439
+4J2,Berrien County,Nashville,GA,USA,440,440,440
+4J5,Quitman-Brooks County,Quitman,GA,USA,441,441,441
+4J6,St Marys,St Marys,GA,USA,442,442,442
+4K0,Pedro Bay,Pedro Bay,AK,USA,443,443,443
+4K5,Ouzinkie,Ouzinkie,AK,USA,444,444,444
+4K6,Bloomfield Municipal,Bloomfield,IA,USA,445,445,445
+4KA,Tununak,Tununak,AK,USA,446,446,446
+4M1,Carroll County,Berryville,AR,USA,447,447,447
+4M3,Carlisle Municipal,Carlisle,AR,USA,448,448,448
+4M4,Clinton Municipal,Clinton,AR,USA,449,449,449
+4M7,Russellville-Logan County,Russellville,KY,USA,450,450,450
+4M8,Clarendon Municipal,Clarendon,AR,USA,451,451,451
+4M9,Corning Municipal,Corning,AR,USA,452,452,452
+4N1,Greenwood Lake,West Milford,NJ,USA,453,453,453
+4O3,Blackwell-Tonkawa Municipal,Blackwell-Tonkawa,OK,USA,454,454,454
+4O4,McCurtain County Regional,Idabel,OK,USA,455,455,455
+4O5,Cherokee Municipal,Cherokee,OK,USA,456,456,456
+4PH,Polacca,Polacca,AZ,USA,457,457,457
+4R1,I H Bass Jr Memorial,Lumberton,MS,USA,458,458,458
+4R3,Jackson Municipal,Jackson,AL,USA,459,459,459
+4R4,Fairhope Municipal,Fairhope,AL,USA,460,460,460
+4R5,Madeline Island,La Pointe,WI,USA,461,461,461
+4R7,Eunice,Eunice,LA,USA,462,462,462
+4R9,Dauphin Island,Dauphin Island,AL,USA,463,463,463
+4S1,Gold Beach Muni,Gold Beach,OR,USA,464,464,464
+4S2,Hood River,Hood River,OR,USA,465,465,465
+4S3,Joseph State,Joseph,OR,USA,466,466,466
+4S9,Portland-Mulino,Mulino (Portland),OR,USA,467,467,467
+4SD,Reno/Stead,Reno,NV,USA,468,468,468
+4T6,Mid-Way,Midlothian-Waxahachie,TX,USA,469,469,469
+4U3,Liberty County,Chester,MT,USA,470,470,470
+4U6,Circle Town County,Circle,MT,USA,471,471,471
+4V0,Rangely,Rangely,CO,USA,472,472,472
+4V1,Johnson ,Walsenburg,CO,USA,473,473,473
+4V9,Antelope County,Neligh,NE,USA,474,474,474
+4W1,Elizabethtown Municipal,Elizabethtown,NC,USA,475,475,475
+4Z4,Holy Cross,Holy Cross,AK,USA,476,476,476
+4Z7,Hyder SPB,Hyder,AK,USA,477,477,477
+50I,Kentland Municipal,Kentland,IN,USA,478,478,478
+50J,Berkeley County,Moncks Corner,SC,USA,479,479,479
+50K,Pawnee City Municipal,Pawnee City,NE,USA,480,480,480
+50R,Lockhart Municipal,Lockhart,TX,USA,481,481,481
+51D,Edgeley Municipal ,Edgeley,ND,USA,482,482,482
+51Z,Minto (New),Minto,AK,USA,483,483,483
+52A,Madison Municipal,Madison,GA,USA,484,484,484
+52E,Timberon ,Timberon,NM,USA,485,485,485
+52J,Lee County,Bishopville,SC,USA,486,486,486
+53A,"Dr. C.P. Savage, Sr.",Montezuma,GA,USA,487,487,487
+53K,Osage City Municipal,Osage City,KS,USA,488,488,488
+54J,Defuniak Springs,Defuniak Springs,FL,USA,489,489,489
+55D,Grayling Army Airfield,Grayling,MI,USA,490,490,490
+55J,Fernandina Beach Municipal,Fernandina Beach,FL,USA,491,491,491
+55S,Packwood,Packwood,WA,USA,492,492,492
+56D,Wyandot County,Upper Sandusky,OH,USA,493,493,493
+56M,Warsaw Municipal,Warsaw,MO,USA,494,494,494
+56S,Seaside Municipal,Seaside,OR,USA,495,495,495
+57B,Islesboro,Islesboro,ME,USA,496,496,496
+57C,East Troy Municipal,East Troy,WI,USA,497,497,497
+59B,Newton ,Jackman,ME,USA,498,498,498
+5A4,Okolona Mun.-Richard M. Stovall ,Okolona,MS,USA,499,499,499
+5A6,Winona-Montgomery County,Winona,MS,USA,500,500,500
+5A8,Aleknagik,Aleknagik,AK,USA,501,501,501
+5A9,Roosevelt Memorial,Warm Springs,GA,USA,502,502,502
+5B2,Saratoga Cty,Saratoga Springs,NY,USA,503,503,503
+5B3,Danielson,Danielson,CT,USA,504,504,504
+5B7,Rensselaer Air Park,Troy,NY,USA,505,505,505
+5CD,Chandalar Shelf,Chandalar Camp,AK,USA,506,506,506
+5D3,Owosso Community,Owosso,MI,USA,507,507,507
+5F1,Post-Garza County Municipal,Post,TX,USA,508,508,508
+5F4,Homer Municipal,Homer,LA,USA,509,509,509
+5G0,Leroy ,Le Roy,NY,USA,510,510,510
+5G7,Bluffton,Bluffton,OH,USA,511,511,511
+5G8,Pittsburgh Boquet Airpark,Jeanette,PA,USA,512,512,512
+5G9,Toledo Suburban,Lambertville,MI,USA,513,513,513
+5HO,Hope,Hope,AK,USA,514,514,514
+5I4,Sheridan,Sheridan,IN,USA,515,515,515
+5J0,John Day State,John Day,OR,USA,516,516,516
+5J9,Twin City,Loris,SC,USA,517,517,517
+5K2,Tribune Municipal,Tribune,KS,USA,518,518,518
+5M0,Rountree ,Hartselle,AL,USA,519,519,519
+5M1,De Witt Municipal,De Witt,AR,USA,520,520,520
+5M4,Fordyce Municipal,Fordyce,AR,USA,521,521,521
+5M9,Marion-Crittenden County,Marion,KY,USA,522,522,522
+5N8,Casselton Regional,Casselton,ND,USA,523,523,523
+5ND6,Hillsboro Municipal,Hillsboro,ND,USA,524,524,524
+5NI,Nikolai,Nikolai,AK,USA,525,525,525
+5NK,Naknek,Naknek,AK,USA,526,526,526
+5NN,Nondalton,Nondalton,AK,USA,527,527,527
+5R3,Rusty Allen ,Lago Vista,TX,USA,528,528,528
+5R4,Foley Municipal,Foley,AL,USA,529,529,529
+5R5,Wharton Municipal,Wharton,TX,USA,530,530,530
+5R8,De Quincy Industrial Airpark,De Quincy,LA,USA,531,531,531
+5S8,St. Michael,St. Michael,AK,USA,532,532,532
+5T5,Hillsboro Municipal,Hillsboro,TX,USA,533,533,533
+5T6,Dona Ana County  At Santa Teresa,Santa Teresa,NM,USA,534,534,534
+5T9,Maverick County Meml Intl,Eagle Pass,TX,USA,535,535,535
+5TE,Tetlin,Tetlin,AK,USA,536,536,536
+5U3,Ennis - Big Sky,Ennis,MT,USA,537,537,537
+5U8,Geraldine,Geraldine,MT,USA,538,538,538
+5V5,Shiprock Airstrip,Shiprock,NM,USA,539,539,539
+5V8,Kadoka Municipal,Kadoka,SD,USA,540,540,540
+5W8,Siler City Municipal,Siler City,NC,USA,541,541,541
+5Z1,Juneau Harbor,Juneau,AK,USA,542,542,542
+5Z5,Kantishna,Kantishna,AK,USA,543,543,543
+60F,Seymour Municipal,Seymour,TX,USA,544,544,544
+60J,Ocean Isle,Ocean Isle Beach,NC,USA,545,545,545
+61A,Camden Municipal,Camden,AL,USA,546,546,546
+61B,Boulder City Municipal,Boulder City,NV,USA,547,547,547
+61C,Fort Atkinson Municipal,Fort Atkinson,WI,USA,548,548,548
+61J,Portland Downtown Heliport,Portland,OR,USA,549,549,549
+61S,Cottage Grove State,Cottage Grove,OR,USA,550,550,550
+62D,Warren,Warren,OH,USA,551,551,551
+62H,Giddings-Lee County,Giddings,TX,USA,552,552,552
+62S,Christmas Valley,Christmas Valley,OR,USA,553,553,553
+63A,Lloyd R. Roundtree Seaplane Facility,Petersburg,AK,USA,554,554,554
+63C,Adams County Legion ,Adams/Friendship,WI,USA,555,555,555
+63S,Colville Municipal,Colville,WA,USA,556,556,556
+65J,Wrens Memorial,Wrens,GA,USA,557,557,557
+65S,Boundary County,Bonners Ferry,ID,USA,558,558,558
+66D,Sturgis Municipal,Sturgis,SD,USA,559,559,559
+67L,Mesquite,Mesquite,NV,USA,560,560,560
+68A,Wrangell SPB,Wrangell,AK,USA,561,561,561
+68S,Davenport,Davenport,WA,USA,562,562,562
+6A1,Butler Municipal,Butler,GA,USA,563,563,563
+6A2,Griffin-Spaulding County ,Griffin,GA,USA,564,564,564
+6A3,Andrews-Murphy,Andrews,NC,USA,565,565,565
+6A4,Johnson County,Mountain City,TN,USA,566,566,566
+6A8,Allakaket,Allakaket,AK,USA,567,567,567
+6B0,Middlebury State,Middlebury,VT,USA,568,568,568
+6B4,Frankfort-Highland,Utica/Frankfort,NY,USA,569,569,569
+6B6,Minute Man Airfield,Stow,MA,USA,570,570,570
+6B8,Caledonia County State,Lyndonville,VT,USA,571,571,571
+6B9,Skaneateles Aero Drome,Skaneateles,NY,USA,572,572,572
+6D6,Greenville Municipal,Greenville,MI,USA,573,573,573
+6D8,Barnes County Municipal,Valley City,ND,USA,574,574,574
+6F1,Talihina Municipal,Talihina,OK,USA,575,575,575
+6G1,Titusville,Titusville,PA,USA,576,576,576
+6G5,Barnesville - Bradfield,Barnesville,OH,USA,577,577,577
+6I2,Lebanon-Springfield,Springfield,KY,USA,578,578,578
+6J0,Corporate,Pelion,SC,USA,579,579,579
+6J2,St George,St George,SC,USA,580,580,580
+6J4,Saluda County,Saluda,SC,USA,581,581,581
+6K3,Creighton Municipal,Creighton,NE,USA,582,582,582
+6K4,Fairview Municipal,Fairview,OK,USA,583,583,583
+6K8,Tok Junction,Tok,AK,USA,584,584,584
+6L4,Logan County,Logan,WV,USA,585,585,585
+6M2,Horseshoe Bend,Horseshoe Bend,AR,USA,586,586,586
+6M6,Lewis County Regional,Monticello,MO,USA,587,587,587
+6M7,Lee County-Marianna,Marianna,AR,USA,588,588,588
+6M8,Marked Tree Municipal,Marked Tree,AR,USA,589,589,589
+6N5,E 34th St Heliport,New York,NY,USA,590,590,590
+6N7,New York Skyports Inc. SPB,New York,NY,USA,591,591,591
+6N8,Thomas County ,Thedford,NE,USA,592,592,592
+6R3,Cleveland Municipal,Cleveland,TX,USA,593,593,593
+6R7,Old Harbor (New),Old Harbor,AK,USA,594,594,594
+6R9,Llano Municipal,Llano,TX,USA,595,595,595
+6S0,Big Timber,Big Timber,MT,USA,596,596,596
+6S2,Florence Muni,Florence,OR,USA,597,597,597
+6S3,Columbus,Columbus,MT,USA,598,598,598
+6S5,Ravalli County,Hamilton,MT,USA,599,599,599
+6S8,Laurel Municipal,Laurel,MT,USA,600,600,600
+6V0,Edgemont Municipal,Edgemont,SD,USA,601,601,601
+6V3,Tazewell County,Richlands,VA,USA,602,602,602
+6V4,Wall Municipal,Wall,SD,USA,603,603,603
+6V6,Hopkins ,Nucla,CO,USA,604,604,604
+70J,Cairo-Grady County,Cairo,GA,USA,605,605,605
+71J,Blackwell ,Ozark,AL,USA,606,606,606
+72S,Rosalia Municipal,Rosalia,WA,USA,607,607,607
+73C,Lancaster,Lancaster,WI,USA,608,608,608
+73J,Beaufort County,Beaufort,SC,USA,609,609,609
+74D,Marshall Cty,Moundsville,WV,USA,610,610,610
+74S,Anacortes,Anacortes,WA,USA,611,611,611
+74V,Roosevelt Municipal,Roosevelt,UT,USA,612,612,612
+75J,Turner County,Ashburn,GA,USA,613,613,613
+76G,Marine City,Marine City,MI,USA,614,614,614
+77G,Marlette Township,Marlette,MI,USA,615,615,615
+77S,Hobby ,Creswell,OR,USA,616,616,616
+78D,Caro Municipal,Caro,MI,USA,617,617,617
+79D,Philippi-Barbour County Regional,Philippi,WV,USA,618,618,618
+79J,Andalusia,Andalusia,AL,USA,619,619,619
+79S,Fort Benton,Fort Benton,MT,USA,620,620,620
+7A0,Greensboro Municipal,Greensboro,AL,USA,621,621,621
+7A2,Demopolis Municipal,Demopolis,AL,USA,622,622,622
+7A3,Lanett Municipal,Lanett,AL,USA,623,623,623
+7A5,Roanoke Municipal,Roanoke,AL,USA,624,624,624
+7A8,Avery County/Morrison ,Spruce Pine,NC,USA,625,625,625
+7B2,La Fleur,Northampton,MA,USA,626,626,626
+7D2,Troy-Oakland,Troy,MI,USA,627,627,627
+7F3,Caddo Mills Municipal,Caddo Mills,TX,USA,628,628,628
+7F6,Clarksville-Red River County,Clarksville,TX,USA,629,629,629
+7F7,Clifton Municipal,Clifton,TX,USA,630,630,630
+7F9,Comanche County-City,Comanche,TX,USA,631,631,631
+7G0,Ledgedale Airpark,Brockport,NY,USA,632,632,632
+7G8,Geauga County,Middlefield,OH,USA,633,633,633
+7I7,Bellefontaine Municipal,Bellefontaine,OH,USA,634,634,634
+7K0,Pike County-Hatcher ,Pikeville,KY,USA,635,635,635
+7K2,Skagway SPB,Skagway,AK,USA,636,636,636
+7K4,Ohio County ,Hartford,KY,USA,637,637,637
+7K8,Martin ,South Sioux City,NE,USA,638,638,638
+7KA,Tatitlek,Tatitlek,AK,USA,639,639,639
+7M1,McGehee Municipal,McGehee,AR,USA,640,640,640
+7M3,Bearce,Mount Ida,AR,USA,641,641,641
+7M4,Osceola Municipal,Osceola,AR,USA,642,642,642
+7M5,Ozark-Franklin County,Ozark,AR,USA,643,643,643
+7M7,Piggott Municipal,Piggott,AR,USA,644,644,644
+7N0,New Orleans Downtown Heliport,New Orleans,LA,USA,645,645,645
+7N1,Corning-Painted Post,Corning,NY,USA,646,646,646
+7N7,Spitfire Aerodrome,Pedrictown,NJ,USA,647,647,647
+7S0,Ronan,Ronan,MT,USA,648,648,648
+7S1,Twin Bridges,Twin Bridges,MT,USA,649,649,649
+7S5,Independence State,Independence,OR,USA,650,650,650
+7S6,White Sulphur Springs,White Sulphur Springs,MT,USA,651,651,651
+7S7,Valier,Valier,MT,USA,652,652,652
+7V1,Buena Vista Muni,Buena Vista,CO,USA,653,653,653
+7V7,Red Cloud Municipal,Red Cloud,NE,USA,654,654,654
+7W6,Hyde County,Englehard,NC,USA,655,655,655
+80F,Antlers Municipal,Antlers,OK,USA,656,656,656
+81B,Oxford County Regional,Norway,ME,USA,657,657,657
+82C,Mauston-New Lisbon Union,New Lisbon,WI,USA,658,658,658
+82V,Pine Bluffs Municipal,Pine Bluffs,WY,USA,659,659,659
+83D,Mackinac County,St Ignace,MI,USA,660,660,660
+84D,Cheyenne Eagle Butte,Eagle Butte,SD,USA,661,661,661
+84K,Meyers Chuck SPB,Meyers Chuck,AK,USA,662,662,662
+84R,Smithville Municipal,Smithville,TX,USA,663,663,663
+85V,Ganado,Ganado,AZ,USA,664,664,664
+86F,Carnegie Municipal,Carnegie,OK,USA,665,665,665
+87I,Yazoo County,Yazoo City,MS,USA,666,666,666
+87Y,Blackhawk Airfield,Madison,WI,USA,667,667,667
+88C,Palmyra Municipal,Palmyra,WI,USA,668,668,668
+88J,Allendale County,Allendale,SC,USA,669,669,669
+88M,Eureka,Eureka,MT,USA,670,670,670
+89D,Kelleys Island Land ,Kelleys Island,OH,USA,671,671,671
+8A0,Albertville Municipal ,Albertville,AL,USA,672,672,672
+8A1,Guntersville Municipal,Guntersville,AL,USA,673,673,673
+8A3,Livingston Municipal,Livingston,TN,USA,674,674,674
+8B0,Rangeley Municipal,Rangeley,ME,USA,675,675,675
+8D1,New Holstein Municipal,New Holstein,WI,USA,676,676,676
+8D3,Sisseton Municipal,Sisseton,SD,USA,677,677,677
+8D4,Sparta,Sparta,MI,USA,678,678,678
+8D7,Clark County,Clark,SD,USA,679,679,679
+8D9,Howard Municipal,Howard,SD,USA,680,680,680
+8F7,Decatur Municipal,Decatur,TX,USA,681,681,681
+8G2,Lawrence,Corry,PA,USA,682,682,682
+8G6,Harrison County,Cadiz,OH,USA,683,683,683
+8G7,Zelienople,Zelienople,PA,USA,684,684,684
+8K8,Cimarron Municipal,Cimarron,KS,USA,685,685,685
+8K9,Murphys Pullout SPB,Ketchikan,AK,USA,686,686,686
+8M1,Booneville-Baldwyn,Booneville,MS,USA,687,687,687
+8S1,Polson,Polson,MT,USA,688,688,688
+8S2,Cashmere-Dryden,Cashmere,WA,USA,689,689,689
+8S5,East Cooper,Mt Pleasant,SC,USA,690,690,690
+8U6,Terry,Terry,MT,USA,691,691,691
+8U8,Townsend,Townsend,MT,USA,692,692,692
+8V2,Stuart-Atkinson Municipal,Atkinson,NE,USA,693,693,693
+8Y2,Buffalo Municipal,Buffalo,MN,USA,694,694,694
+91C,Sauk - Prairie,Prairie Du Sac,WI,USA,695,695,695
+91F,Arrowhead,Canadian,OK,USA,696,696,696
+93B,Stonington,Stonington,ME,USA,697,697,697
+93C,Richland,Richland Center,WI,USA,698,698,698
+93F,Mignon Laird Municipal,Cheyenne,OK,USA,699,699,699
+93Y,David City Municipal,David City,NE,USA,700,700,700
+94K,Cassville Municipal,Cassville,MO,USA,701,701,701
+95F,Cleveland Municipal,Cleveland,OK,USA,702,702,702
+96D,Walhalla Municipal,Walhalla,ND,USA,703,703,703
+96Z,North Whale SPB,North Whale Pass,AK,USA,704,704,704
+97M,Ekalaka,Ekalaka,MT,USA,705,705,705
+98D,Onida Municipal,Onida,SD,USA,706,706,706
+99N,Bamburg County,Bamburg,SC,USA,707,707,707
+99Y,Greeley Municipal,Greeley,NE,USA,708,708,708
+9A1,Covington Municipal,Covington,GA,USA,709,709,709
+9A3,Chuathbaluk,Chuathbaluk,AK,USA,710,710,710
+9A4,Lawrence County ,Courtland,AL,USA,711,711,711
+9A5,Barwick-LaFayette ,LaFayette,GA,USA,712,712,712
+9A6,Chester Municipal,Chester,SC,USA,713,713,713
+9A8,Ugashik,Ugashik,AK,USA,714,714,714
+9C8,Evart Municipal,Evart,MI,USA,715,715,715
+9D0,Highmore Municipal,Highmore,SD,USA,716,716,716
+9D1,Gregory Municipal,Gregory,SD,USA,717,717,717
+9D2,Harding County,Buffalo,SD,USA,718,718,718
+9D7,Cando Municipal,Cando,ND,USA,719,719,719
+9D9,Hastings Municipal,Hastings,MI,USA,720,720,720
+9G0,Buffalo Airfield,Buffalo,NY,USA,721,721,721
+9G1,West Penn,Tarentum,PA,USA,722,722,722
+9G3,Akron,Akron,NY,USA,723,723,723
+9G5,Royalton,Gasport,NY,USA,724,724,724
+9G8,Ebensburg,Ebensburg,PA,USA,725,725,725
+9I0,Havana Regional,Havana,IL,USA,726,726,726
+9I3,West Liberty,West Liberty,KY,USA,727,727,727
+9K2,Kokhanok,Kokhanok,AK,USA,728,728,728
+9K4,Skyhaven,Warrensburg,MO,USA,729,729,729
+9K7,Ellsworth Municipal ,Ellsworth,KS,USA,730,730,730
+9K8,Kingman Municipal,Kingman,KS,USA,731,731,731
+9M4,Ackerman-Choctaw County,Ackerman,MS,USA,732,732,732
+9M6,Kelly,Oak Grove,LA,USA,733,733,733
+9M8,Sheridan-Grant County Regional,Sheridan,AR,USA,734,734,734
+9S2,Scobey,Scobey,MT,USA,735,735,735
+9S4,Mineral County,Superior,MT,USA,736,736,736
+9S5,Three Forks,Three Forks,MT,USA,737,737,737
+9S7,Winifred,Winifred,MT,USA,738,738,738
+9S9,Lexington,Lexington,OR,USA,739,739,739
+9U0,Turner,Turner,MT,USA,740,740,740
+9U3,Austin,Austin,NV,USA,741,741,741
+9U4,Dixon,Dixon,WY,USA,742,742,742
+9V5,Modisett ,Rushville,NE,USA,743,743,743
+9V6,Martin Municipal,Martin,SD,USA,744,744,744
+9V9,Chamberlain Municipal,Chamberlain,SD,USA,745,745,745
+9W7,Currituck County,Currituck,NC,USA,746,746,746
+A04,Centre Municipal,Centre,AL,USA,747,747,747
+A14,Portage Creek,Portage Creek,AK,USA,748,748,748
+A29,Sitka SPB,Sitka,AK,USA,749,749,749
+A30,Scott Valley,Fort Jones,CA,USA,750,750,750
+A32,Butte Valley,Dorris,CA,USA,751,751,751
+A61,Tuntutuliak,Tuntutuliak,AK,USA,752,752,752
+A63,Twin Hills,Twin Hills,AK,USA,753,753,753
+A79,Chignik Lake,Chignik Lake,AK,USA,754,754,754
+A85,Kwigillingok,Kwigillingok,AK,USA,755,755,755
+AAF,Apalachicola Municipal,Apalachicola,FL,USA,756,756,756
+AAO,Colonel James Jabara,Wichita,KS,USA,757,757,757
+AAS,Taylor County,Cambellsville,KY,USA,758,758,758
+AAT,Alturas Municipal,Alturas,CA,USA,759,759,759
+ABE,Lehigh Valley International,Allentown,PA,USA,760,760,760
+ABI,Abilene Regional,Abilene,TX,USA,761,761,761
+ABO,Antonio (Nery) Juarbe Pol,Arecibo,PR,USA,762,762,762
+ABQ,Albuquerque International,Albuquerque,NM,USA,763,763,763
+ABR,Aberdeen Regional,Aberdeen,SD,USA,764,764,764
+ABY,Southwest Georgia Regional,Albany,GA,USA,765,765,765
+ACB,Antrim County,Bellaire,MI,USA,766,766,766
+ACJ,Souther ,Americus,GA,USA,767,767,767
+ACK,Nantucket Memorial,Nantucket,MA,USA,768,768,768
+ACQ,Waseca Municipal,Waseca,MN,USA,769,769,769
+ACT,Waco Regional,Waco,TX,USA,770,770,770
+ACV,Arcata,Arcata/Eureka,CA,USA,771,771,771
+ACY,Atlantic City International,Atlantic City,NJ,USA,772,772,772
+ACZ,Henderson ,Wallace,NC,USA,773,773,773
+ADC,Wadena Municipal ,Wadena,MN,USA,774,774,774
+ADG,Lenawee County,Adrian,MI,USA,775,775,775
+ADH,Ada Municipal,Ada,OK,USA,776,776,776
+ADK,Adak,Adak,AK,USA,777,777,777
+ADM,Ardmore Municipal,Ardmore,OK,USA,778,778,778
+ADQ,Kodiak ,Kodiak,AK,USA,779,779,779
+ADS,Addison,Dallas/Addison,TX,USA,780,780,780
+ADT,Atwood-Rawlins County City-County,Atwood,KS,USA,781,781,781
+ADU,Audubon Municipal,Audubon,IA,USA,782,782,782
+AEG,Double Eagle II,Albuquerque,NM,USA,783,783,783
+AEL,Albert Lea Municipal,Albert Lea,MN,USA,784,784,784
+AEX,Alexandria International,Alexandria,LA,USA,785,785,785
+AFE,Kake,Kake,AK,USA,786,786,786
+AFJ,Washington County,Washington,PA,USA,787,787,787
+AFK,Nebraska City Municipal,Nebraska City,NE,USA,788,788,788
+AFM,Ambler,Ambler,AK,USA,789,789,789
+AFN,Jaffrey Municipal Silver Ranch,Jaffrey,NH,USA,790,790,790
+AFO,Afton Municipal,Afton,WY,USA,791,791,791
+AFW,Fort Worth Alliance,Fort Worth,TX,USA,792,792,792
+AGC,Allegheny Cty,Pittsburgh,PA,USA,793,793,793
+AGN,Angoon SPB,Angoon,AK,USA,794,794,794
+AGO,Magnolia Municipal,Magnolia,AR,USA,795,795,795
+AGS,Bush ,Augusta,GA,USA,796,796,796
+AGZ,Wagner Municipal,Wagner,SD,USA,797,797,797
+AHH,Amery Municipal,Amery,WI,USA,798,798,798
+AHN,Athens Municipal,Athens,GA,USA,799,799,799
+AHP,Port Alexander SPB,Port Alexander,AK,USA,800,800,800
+AHQ,Wahoo Municipal,Wahoo,NE,USA,801,801,801
+AIA,Alliance Municipal,Alliance,NE,USA,802,802,802
+AID,Anderson Municipal,Anderson,IN,USA,803,803,803
+AIG,Langlade County,Antigo,WI,USA,804,804,804
+AIK,Aiken Municipal,Aiken,SC,USA,805,805,805
+AIO,Atlantic Municipal,Atlantic,IA,USA,806,806,806
+AIT,Aitkin Municipal,Aitkin,MN,USA,807,807,807
+AIV,George Downer ,Aliceville,AL,USA,808,808,808
+AIY,Atlantic City Municipal,Atlantic City,NJ,USA,809,809,809
+AIZ,Lee C Fine Memorial,Kaiser/Lake Ozark,MO,USA,810,810,810
+AJC,Chignik (Anchorage Bay),Chignik,AK,USA,811,811,811
+AJG,Mt Carmel Municipal,Mt Carmel,IL,USA,812,812,812
+AJO,Corona Municipal,Corona,CA,USA,813,813,813
+AJR,Habersham County,Cornelia,GA,USA,814,814,814
+AK5,Perryville,Perryville,AK,USA,815,815,815
+AKA,Atka,Atka,AK,USA,816,816,816
+AKH,Gastonia Municipal,Gastonia,NC,USA,817,817,817
+AKI,Akiak,Akiak,AK,USA,818,818,818
+AKK,Akhiok,Akhiok,AK,USA,819,819,819
+AKN,King Salmon,King Salmon,AK,USA,820,820,820
+AKO,Akron-Washington Co,Akron,CO,USA,821,821,821
+AKP,Anaktuvuk Pass,Anaktuvuk Pass,AK,USA,822,822,822
+AKR,Akron Fulton Intl.,Akron,OH,USA,823,823,823
+AKW,Klawock,Klawock,AK,USA,824,824,824
+AL08,Vaiden ,Marion,AL,USA,825,825,825
+ALB,Albany Cty,Albany,NY,USA,826,826,826
+ALI,Alice International,Alice,TX,USA,827,827,827
+ALM,Alamogordo-White Sands Regional,Alamogordo,NM,USA,828,828,828
+ALN,St. Louis Regional,Alton/St. Louis,IL,USA,829,829,829
+ALO,Waterloo Municipal,Waterloo,IA,USA,830,830,830
+ALS,San Luis Valley Regional/Bergman ,Alamosa,CO,USA,831,831,831
+ALW,Walla Walla Regional,Walla Walla,WA,USA,832,832,832
+ALX,Thomas C Russell ,Alexander City,AL,USA,833,833,833
+AMA,Amarillo International,Amarillo,TX,USA,834,834,834
+AMG,Bacon County,Alma,GA,USA,835,835,835
+AMN,Gratiot Community,Alma,MI,USA,836,836,836
+AMT,Alexander Salamon,West Union,OH,USA,837,837,837
+AMW,Ames Municipal,Ames,IA,USA,838,838,838
+ANB,Anniston Metropolitan,Anniston,AL,USA,839,839,839
+ANC,Ted Stevens Anchorage International,Anchorage,AK,USA,840,840,840
+AND,Anderson County,Anderson,SC,USA,841,841,841
+ANE,Anoka County,Minneapolis,MN,USA,842,842,842
+ANI,Aniak,Aniak,AK,USA,843,843,843
+ANQ,Steuben County-Tri State,Angola,IN,USA,844,844,844
+ANV,Anvik,Anvik,AK,USA,845,845,845
+ANW,Ainsworth Municipal,Ainsworth,NE,USA,846,846,846
+ANY,Anthony Municipal,Anthony,KS,USA,847,847,847
+AOC,Arco-Butte County,Arco,ID,USA,848,848,848
+AOH,Allen County,Lima,OH,USA,849,849,849
+AOO,Altoona-Blair Cty,Altoona,PA,USA,850,850,850
+APA,Centennial,Denver,CO,USA,851,851,851
+APC,Napa County,Napa,CA,USA,852,852,852
+APF,Naples Municipal,Naples,FL,USA,853,853,853
+APN,Alpena County Regional ,Alpena,MI,USA,854,854,854
+APT,Marion County-Brown ,Jasper,TN,USA,855,855,855
+APV,Apple Valley,Apple Valley,CA,USA,856,856,856
+AQC,Klawock SPB,Klawock,AK,USA,857,857,857
+AQH,Kwinhagak,Quinhagak,AK,USA,858,858,858
+AQT,Nuiqsut,Nuiqsut,AK,USA,859,859,859
+AQW,Harriman And West,North Adams,MA,USA,860,860,860
+AQY,Girdwood,Girdwood,AK,USA,861,861,861
+ARA,Acadiana Regional,New Iberia,LA,USA,862,862,862
+ARB,Ann Arbor Municipal,Ann Arbor,MI,USA,863,863,863
+ARC,Arctic Village,Arctic Village,AK,USA,864,864,864
+ARG,Walnut Ridge Regional,Walnut Ridge,AR,USA,865,865,865
+ARR,Aurora Municipal,Chicago/Aurora,IL,USA,866,866,866
+ART,Watertown Intl,Watertown,NY,USA,867,867,867
+ARV,Lakeland,Minocqua-Woodruff,WI,USA,868,868,868
+ASD,Slidell,Slidell,LA,USA,869,869,869
+ASE,Aspen-Pitkin Co/Sardy ,Aspen,CO,USA,870,870,870
+ASG,Springdale Municipal,Springdale,AR,USA,871,871,871
+ASH,Boire ,Nashua,NH,USA,872,872,872
+ASJ,Tri-County,Ahoskie,NC,USA,873,873,873
+ASL,Marshall - Harrison County,Marshall,TX,USA,874,874,874
+ASN,Talladega Municipal,Talladega,AL,USA,875,875,875
+AST,Astoria Regional,Astoria,OR,USA,876,876,876
+ASW,Warsaw Municipal,Warsaw,IN,USA,877,877,877
+ASX,John F Kennedy Memorial,Ashland,WI,USA,878,878,878
+ATA,Hall-Miller Municipal,Atlanta,TX,USA,879,879,879
+ATK,Atqasuk,Atqasuk,AK,USA,880,880,880
+ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,881,881,881
+ATS,Artesia Municipal,Artesia,NM,USA,882,882,882
+ATW,Outagamie County Regional,Appleton,WI,USA,883,883,883
+ATY,Watertown Municipal,Watertown,SD,USA,884,884,884
+AUG,Augusta State,Augusta,ME,USA,885,885,885
+AUH,Aurora Municipal,Aurora,NE,USA,886,886,886
+AUK,Alakanuk,Alakanuk,AK,USA,887,887,887
+AUM,Austin Municipal,Austin,MN,USA,888,888,888
+AUN,Auburn Municipal,Auburn,CA,USA,889,889,889
+AUO,Auburn-Opelik,Auburn,AL,USA,890,890,890
+AUS,Austin-Bergstrom International,Austin,TX,USA,891,891,891
+AUW,Wausau Municipal,Wausau,WI,USA,892,892,892
+AVC,Mecklenburg-Brunswick Regional,South Hill,VA,USA,893,893,893
+AVK,Alva Regional,Alva,OK,USA,894,894,894
+AVL,Asheville Regional,Asheville,NC,USA,895,895,895
+AVO,Avon Park Municipal,Avon Park,FL,USA,896,896,896
+AVP,Wilkes-Barre/Scranton Intl,Wilkes-Barre/Scranton,PA,USA,897,897,897
+AVQ,Marana Northwest Regional,Marana,AZ,USA,898,898,898
+AVX,Catalina,Avalon,CA,USA,899,899,899
+AWG,Washington Municipal,Washington,IA,USA,900,900,900
+AWI,Wainwright,Wainwright,AK,USA,901,901,901
+AWM,West Memphis Municipal,West Memphis,AR,USA,902,902,902
+AWO,Arlington Municipal,Arlington,WA,USA,903,903,903
+AXA,Algona Municipal,Algona,IA,USA,904,904,904
+AXN,Chandler ,Alexandria,MN,USA,905,905,905
+AXS,Altus Municipal,Altus,OK,USA,906,906,906
+AXV,Neil Armstrong,Wapakoneta,OH,USA,907,907,907
+AXX,Angel Fire,Angel Fire,NM,USA,908,908,908
+AYS,Waycross-Ware County,Waycross,GA,USA,909,909,909
+AZC,Colorado City Municipal,Colorado City,AZ,USA,910,910,910
+AZE,Hazelhurst,Hazelhurst,GA,USA,911,911,911
+AZO,Kalamazoo County,Kalamazoo,MI,USA,912,912,912
+B01,Granville,Granville,NY,USA,913,913,913
+B08,Silver Springs,Silver Springs,NV,USA,914,914,914
+B16,Whitford,Weedsport,NY,USA,915,915,915
+B19,Biddeford Municipal,Biddeford,ME,USA,916,916,916
+B21,Sugarloaf Regional,Carrabasset,ME,USA,917,917,917
+BAF,Barnes Municipal,Westfield,MA,USA,918,918,918
+BAK,Columbus Municipal,Columbus,IN,USA,919,919,919
+BAM,Battle Mountain,Battle Mountain,NV,USA,920,920,920
+BAX,Huron County Memorial,Bad Axe,MI,USA,921,921,921
+BAZ,New Braunfels Municipal,New Braunfels,TX,USA,922,922,922
+BBB,Benson Municipal,Benson,MN,USA,923,923,923
+BBD,Curtis ,Brady,TX,USA,924,924,924
+BBP,Marlboro County,Bennettsville,SC,USA,925,925,925
+BBW,Broken Bow Municipal,Broken Bow,NE,USA,926,926,926
+BCB,Virginia Tech,Blacksburg,VA,USA,927,927,927
+BCE,Bryce Canyon,Bryce Canyon,UT,USA,928,928,928
+BCK,Black River Falls Area,Black River Falls,WI,USA,929,929,929
+BCT,Boca Raton,Boca Raton,FL,USA,930,930,930
+BCV,Birchwood,Birchwood,AK,USA,931,931,931
+BDE,Baudette International,Baudette,MN,USA,932,932,932
+BDG,Blanding Muni,Blanding,UT,USA,933,933,933
+BDL,Bradley International,Windsor Locks,CT,USA,934,934,934
+BDQ,Morrilton Municipal,Morrilton,AR,USA,935,935,935
+BDR,Igor I Sikorsky Memorial,Bridgeport,CT,USA,936,936,936
+BDX,Broadus,Broadus,MT,USA,937,937,937
+BED,Laurence G Hanscom ,Bedford,MA,USA,938,938,938
+BEH,Southwest Michigan Regional,Benton Harbor,MI,USA,939,939,939
+BET,Bethel,Bethel,AK,USA,940,940,940
+BFD,Bradford Reg,Bradford,PA,USA,941,941,941
+BFF,Scotts Bluff County,Scottsbluff,NE,USA,942,942,942
+BFI,Boeing Field/King County Intl,Seattle,WA,USA,943,943,943
+BFK,Buffalo Municipal,Buffalo,OK,USA,944,944,944
+BFL,Meadows ,Bakersfield,CA,USA,945,945,945
+BFM,Mobile Downtown,Mobile,AL,USA,946,946,946
+BFR,Virgil I Grissom Municipal,Bedford,IN,USA,947,947,947
+BFW,Silver Bay Municipal,Silver Bay,MN,USA,948,948,948
+BGD,Hutchinson County,Borger,TX,USA,949,949,949
+BGE,Decatur County Industrial Airpark,Bainbridge,GA,USA,950,950,950
+BGF,Winchester Municipal,Winchester,TN,USA,951,951,951
+BGM,Binghamton Regional,Binghamton,NY,USA,952,952,952
+BGQ,Big Lake Strip Nr 2,Big Lake,AK,USA,953,953,953
+BGR,Bangor International,Bangor,ME,USA,954,954,954
+BHB,Hancock Co-Bar Harbor,Bar Harbor,ME,USA,955,955,955
+BHC,Baxley Municipal,Baxley,GA,USA,956,956,956
+BHK,Baker Muni,Baker City,MT,USA,957,957,957
+BHM,Birmingham International,Birmingham,AL,USA,958,958,958
+BID,Block Island State,Block Island,RI,USA,959,959,959
+BIE,Beatrice Municipal,Beatrice,NE,USA,960,960,960
+BIG,Allen AAF,Delta Junction,AK,USA,961,961,961
+BIH,Bishop,Bishop,CA,USA,962,962,962
+BIL,Billings Logan Intl,Billings,MT,USA,963,963,963
+BIS,Bismarck Municipal,Bismarck,ND,USA,964,964,964
+BIV,Tulip City,Holland,MI,USA,965,965,965
+BJC,Jeffco,Denver,CO,USA,966,966,966
+BJI,Bemidji-Beltrami County,Bemidji,MN,USA,967,967,967
+BJJ,Wayne County,Wooster,OH,USA,968,968,968
+BKD,Breckenridge Stephens County,Breckenridge,TX,USA,969,969,969
+BKE,Baker City Municipal,Baker City,OR,USA,970,970,970
+BKL,Burke Lakefront,Cleveland,OH,USA,971,971,971
+BKV,Hernando County,Brooksville,FL,USA,972,972,972
+BKW,Raleigh Cty Memorial,Beckley,WV,USA,973,973,973
+BKX,Brookings Municipal,Brookings,SD,USA,974,974,974
+BLF,Mercer Cty,Bluefield,WV,USA,975,975,975
+BLH,Blythe,Blythe,CA,USA,976,976,976
+BLI,Bellingham Intl,Bellingham,WA,USA,977,977,977
+BLM,Allaire Arpt,Belmar/Farmingdale,NJ,USA,978,978,978
+BLV,Scott AFB/MidAmerica ,Belleville/St. Louis,IL,USA,979,979,979
+BMC,Brigham City,Brigham City,UT,USA,980,980,980
+BMG,Monroe County,Bloomington,IN,USA,981,981,981
+BMI,Central Illinois Regional,Bloomington,IL,USA,982,982,982
+BML,Berlin Municipal,Berlin,NH,USA,983,983,983
+BMQ,Burnet Muni-Kate Craddock ,Burnet,TX,USA,984,984,984
+BMT,Beaumont Municipal,Beaumont,TX,USA,985,985,985
+BNA,Nashville International,Nashville,TN,USA,986,986,986
+BNF,Baranof Warm Springs SPB,Baranof Warm Springs,AK,USA,987,987,987
+BNG,Banning Municipal,Banning,CA,USA,988,988,988
+BNL,Barnwell County,Barnwell,SC,USA,989,989,989
+BNO,Burns Muni,Burns,OR,USA,990,990,990
+BNW,Boone Municipal,Boone,IA,USA,991,991,991
+BOI,Boise Air Terminal,Boise,ID,USA,992,992,992
+BOK,Brookings,Brookings,OR,USA,993,993,993
+BOS,Gen Edw L Logan Intl,Boston,MA,USA,994,994,994
+BOW,Bartow Municipal,Bartow,FL,USA,995,995,995
+BPI,Big Piney-Marbleton,Big Piney,WY,USA,996,996,996
+BPK,Baxter County Regional,Mountain Home,AR,USA,997,997,997
+BPT,Southeast Texas Regional,Beaumont/Port Arthur,TX,USA,998,998,998
+BQK,Glynco Jetport,Brunswick,GA,USA,999,999,999
+BQN,Rafael Hernandez,Aguadilla,PR,USA,1000,1000,1000
+BRD,Brainerd-Crow Wing County Regional,Brainerd,MN,USA,1001,1001,1001
+BRL,Burlington Municipal,Burlington,IA,USA,1002,1002,1002
+BRO,Brownsville/S.Padre Island International,Brownsville,TX,USA,1003,1003,1003
+BRW,Wiley Post Will Rogers Memorial,Barrow,AK,USA,1004,1004,1004
+BRY,Samuels ,Bardstown,KY,USA,1005,1005,1005
+BST,Belfast Municipal,Belfast,ME,USA,1006,1006,1006
+BTI,Barter Island ,Kaktovik,AK,USA,1007,1007,1007
+BTL,W K Kellogg Regional,Battle Creek,MI,USA,1008,1008,1008
+BTM,Bert Mooney,Butte,MT,USA,1009,1009,1009
+BTN,Britton Municipal,Britton,SD,USA,1010,1010,1010
+BTP,Butler Cty,Butler,PA,USA,1011,1011,1011
+BTR,"Baton Rouge Metropolitan, Ryan ",Baton Rouge,LA,USA,1012,1012,1012
+BTT,Bettles,Bettles,AK,USA,1013,1013,1013
+BTV,Burlington International,Burlington,VT,USA,1014,1014,1014
+BTY,Beatty,Beatty,NV,USA,1015,1015,1015
+BUB,Cram ,Burwell,NE,USA,1016,1016,1016
+BUF,Buffalo Niagara Intl,Buffalo,NY,USA,1017,1017,1017
+BUM,Butler Memorial,Butler,MO,USA,1018,1018,1018
+BUR,Burbank-Glendale-Pasadena,Burbank,CA,USA,1019,1019,1019
+BUY,Burlington Municipal,Burlington,NC,USA,1020,1020,1020
+BVI,Beaver County,Beaver Falls,PA,USA,1021,1021,1021
+BVK,Buckland,Buckland,AK,USA,1022,1022,1022
+BVN,Albion Municipal,Albion,NE,USA,1023,1023,1023
+BVO,Bartlesville Municipal,Bartlesville,OK,USA,1024,1024,1024
+BVS,Skagit Regional/Bay View,Burlington/Mount Vernon,WA,USA,1025,1025,1025
+BVX,Batesville Regional,Batesville,AR,USA,1026,1026,1026
+BVY,Beverly Municipal,Beverly,MA,USA,1027,1027,1027
+BWC,Brawley Municipal,Brawley,CA,USA,1028,1028,1028
+BWD,Brownwood Municipal,Brownwood,TX,USA,1029,1029,1029
+BWG,Bowling Green-Warren County ,Bowling Green,KY,USA,1030,1030,1030
+BWI,Baltimore-Washington International,Baltimore,MD,USA,1031,1031,1031
+BWP,Harry Stern,Wahpeton,ND,USA,1032,1032,1032
+BXA,George R Carr Memorial,Bogalusa,LA,USA,1033,1033,1033
+BXG,Burke County,Waynesboro,GA,USA,1034,1034,1034
+BXK,Buckeye Municipal,Buckeye,AZ,USA,1035,1035,1035
+BYA,Boundary,Boundary,AK,USA,1036,1036,1036
+BYG,Johnson County,Buffalo,WY,USA,1037,1037,1037
+BYI,Burley Municipal,Burley,ID,USA,1038,1038,1038
+BZN,Gallatin ,Bozeman,MT,USA,1039,1039,1039
+C00,Mercer County,Aledo,IL,USA,1040,1040,1040
+C05,Chenega Bay,Chenega,AK,USA,1041,1041,1041
+C09,Morris Municipal,Morris,IL,USA,1042,1042,1042
+C15,Pekin Municipal,Pekin,IL,USA,1043,1043,1043
+C17,Marion,Marion,IA,USA,1044,1044,1044
+C18,Frankfort,Chicago/Frankfort,IL,USA,1045,1045,1045
+C25,Waverly Municipal,Waverly,IA,USA,1046,1046,1046
+C29,Morey,Middleton,WI,USA,1047,1047,1047
+C34,Gibson City Municipal,Gibson City,IL,USA,1048,1048,1048
+C35,Reedsburg Municipal,Reedsburg,WI,USA,1049,1049,1049
+C47,Portage Municipal,Portage,WI,USA,1050,1050,1050
+C52,Burlington Municipal,Burlington,WI,USA,1051,1051,1051
+C56,Sanger,Chicago/Monee,IL,USA,1052,1052,1052
+C62,Kendallville Municipal,Kendallville,IN,USA,1053,1053,1053
+C65,Plymouth Municipal,Plymouth,IN,USA,1054,1054,1054
+C66,Monmouth Municipal,Monmouth,IL,USA,1055,1055,1055
+C71,Crosby Municipal,Crosby,MS,USA,1056,1056,1056
+C73,Dixon Muni-Charles R Walgreen ,Dixon,IL,USA,1057,1057,1057
+C75,Marshall County,Lacon,IL,USA,1058,1058,1058
+C77,Poplar Grove ,Poplar Grove,IL,USA,1059,1059,1059
+C80,New Coalinga Municipal,Coalinga,CA,USA,1060,1060,1060
+C81,Campbell,Chicago/Round Lake Park,IL,USA,1061,1061,1061
+C83,Byron,Byron,CA,USA,1062,1062,1062
+C91,Dowagiac Municipal ,Dowagiac,MI,USA,1063,1063,1063
+CAD,Wexford County,Cadillac,MI,USA,1064,1064,1064
+CAE,Columbia Metropolitan,Columbia,SC,USA,1065,1065,1065
+CAG,Craig-Moffat,Craig,CO,USA,1066,1066,1066
+CAK,Akron-Canton Regional,Akron,OH,USA,1067,1067,1067
+CAO,Clayton Municipal Airpark,Clayton,NM,USA,1068,1068,1068
+CAR,Caribou Municipal,Caribou,ME,USA,1069,1069,1069
+CAV,Clarion Municipal,Clarion,IA,USA,1070,1070,1070
+CBE,Cumberland Regional,Cumberland,MD,USA,1071,1071,1071
+CBF,Council Bluffs Municipal,Council Bluffs,IA,USA,1072,1072,1072
+CBG,Cambridge Municipal,Cambridge,MN,USA,1073,1073,1073
+CBK,Shaltz ,Colby,KS,USA,1074,1074,1074
+CCB,Cable,Upland,CA,USA,1075,1075,1075
+CCO,Newnan-Coweta County,Newnan,GA,USA,1076,1076,1076
+CCR,Buchanan ,Concord,CA,USA,1077,1077,1077
+CCY,Charles City Municipal,Charles City,IA,USA,1078,1078,1078
+CDB,Cold Bay,Cold Bay,AK,USA,1079,1079,1079
+CDC,Cedar City Muni,Cedar City,UT,USA,1080,1080,1080
+CDH,Harrell ,Camden,AR,USA,1081,1081,1081
+CDI,Cambridge Municipal,Cambridge,OH,USA,1082,1082,1082
+CDK,George T Lewis,Cedar Key,FL,USA,1083,1083,1083
+CDN,Woodward ,Camden,SC,USA,1084,1084,1084
+CDR,Chadron Municipal,Chadron,NE,USA,1085,1085,1085
+CDV,Merle K (Mudhole) Smith,Cordova,AK,USA,1086,1086,1086
+CDW,Essex Cty Arpt,Caldwell,NJ,USA,1087,1087,1087
+CEC,Jack McNamara ,Crescent City,CA,USA,1088,1088,1088
+CEF,Westover AFB,Chicopee,MA,USA,1089,1089,1089
+CEK,Crete Municipal,Crete,NE,USA,1090,1090,1090
+CEM,Central,Central,AK,USA,1091,1091,1091
+CEU,Oconee County Regional,Clemson,SC,USA,1092,1092,1092
+CEV,Mettel ,Connersville,IN,USA,1093,1093,1093
+CEW,Bob Sikes,Crestview,FL,USA,1094,1094,1094
+CEY,Kyle-Oakley ,Murray,KY,USA,1095,1095,1095
+CEZ,Cortez Muni,Cortez,CO,USA,1096,1096,1096
+CFD,Coulter ,Bryan,TX,USA,1097,1097,1097
+CFJ,Crawfordsville Municipal,Crawfordsville,IN,USA,1098,1098,1098
+CFK,Chefornak,Chefornak,AK,USA,1099,1099,1099
+CFT,Greenlee County,Clifton-Morenci,AZ,USA,1100,1100,1100
+CFV,Coffeyville Municipal,Coffeyville,KS,USA,1101,1101,1101
+CGA,Craig SPB,Craig,AK,USA,1102,1102,1102
+CGC,Crystal River,Crystal River,FL,USA,1103,1103,1103
+CGE,Cambridge-Dorchester,Cambridge,MD,USA,1104,1104,1104
+CGF,Cuyahoga County,Cleveland,OH,USA,1105,1105,1105
+CGI,Cape Girardeau Municipal,Cape Girardeau,MO,USA,1106,1106,1106
+CGS,College Park,College Park,MD,USA,1107,1107,1107
+CGX,Chicago Meigs,Chicago,IL,USA,1108,1108,1108
+CGZ,Casa Grande Municipal,Casa Grande,AZ,USA,1109,1109,1109
+CHA,Lovell ,Chattanooga,TN,USA,1110,1110,1110
+CHD,Chandler Municipal,Chandler,AZ,USA,1111,1111,1111
+CHK,Chickasha Municipal,Chickasha,OK,USA,1112,1112,1112
+CHO,Charlottesville-Albermarle,Charlottesville,VA,USA,1113,1113,1113
+CHP,Circle Hot Springs,Circle Hot Springs,AK,USA,1114,1114,1114
+CHS,Charleston AFB/International,Charleston,SC,USA,1115,1115,1115
+CHT,Chillicothe Municipal,Chillicothe,MO,USA,1116,1116,1116
+CHU,Houston County,Caledonia,MN,USA,1117,1117,1117
+CIC,Chico Municipal,Chico,CA,USA,1118,1118,1118
+CID,Eastern Iowa ,Cedar Rapids,IA,USA,1119,1119,1119
+CII,Choteau,Choteau,MT,USA,1120,1120,1120
+CIK,Chalkyitsik,Chalkyitsik,AK,USA,1121,1121,1121
+CIN,Arthur N Neu,Carroll,IA,USA,1122,1122,1122
+CIR,Cairo,Cairo,IL,USA,1123,1123,1123
+CIU,Chippewa County International,Sault Ste. Marie,MI,USA,1124,1124,1124
+CJR,Culpeper Regional,Culpeper,VA,USA,1125,1125,1125
+CJX,Crooked Creek,Crooked Creek,AK,USA,1126,1126,1126
+CKB,Benedum,Clarksburg,WV,USA,1127,1127,1127
+CKC,Grand Marais/Cook County,Grand Marais,MN,USA,1128,1128,1128
+CKF,Crisp County - Cordele,Cordele,GA,USA,1129,1129,1129
+CKI,Williamsburg County,Kingstree,SC,USA,1130,1130,1130
+CKM,Fletcher ,Clarksdale,MS,USA,1131,1131,1131
+CKN,Crookston Muni Kirkwood ,Crookston,MN,USA,1132,1132,1132
+CKP,Cherokee Municipal,Cherokee,IA,USA,1133,1133,1133
+CKU,Cordova Muni,Cordova,AK,USA,1134,1134,1134
+CKV,Outlaw ,Clarksville,TN,USA,1135,1135,1135
+CKX,Chicken,Chicken,AK,USA,1136,1136,1136
+CLD,MC Clellan-Palomar Airport,NA,NA,USA,1137,1137,1137
+CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,1138,1138,1138
+CLI,Clintonville Municipal,Clintonville,WI,USA,1139,1139,1139
+CLK,Clinton Municipal,Clinton,OK,USA,1140,1140,1140
+CLL,Easterwood ,College Station,TX,USA,1141,1141,1141
+CLM,William R Fairchild Intl,Port Angeles,WA,USA,1142,1142,1142
+CLP,Clarks Point,Clarks Point,AK,USA,1143,1143,1143
+CLS,Chehalis-Centralia,Chehalis,WA,USA,1144,1144,1144
+CLT,Charlotte/Douglas International,Charlotte,NC,USA,1145,1145,1145
+CLW,Clearwater Air Park,Clearwater,FL,USA,1146,1146,1146
+CMA,Camarillo,Camarillo,CA,USA,1147,1147,1147
+CMH,Port Columbus Intl,Columbus,OH,USA,1148,1148,1148
+CMI,University of Illinois-Willard,Champaign/Urbana,IL,USA,1149,1149,1149
+CMX,Houghton County Memorial,Hancock,MI,USA,1150,1150,1150
+CMY,Sparta/Fort McCoy,Sparta,WI,USA,1151,1151,1151
+CNC,Chariton Municipal,Chariton,IA,USA,1152,1152,1152
+CNH,Claremont Municipal,Claremont,NH,USA,1153,1153,1153
+CNK,Blosser Municipal,Concordia,KS,USA,1154,1154,1154
+CNM,Cavern City Air Terminal,Carlsbad,NM,USA,1155,1155,1155
+CNO,Chino,Chino,CA,USA,1156,1156,1156
+CNP,Billy G Ray ,Chappell,NE,USA,1157,1157,1157
+CNU,Chanute Martin Johnson,Chanute,KS,USA,1158,1158,1158
+CNW,TSTC-Waco,Waco,TX,USA,1159,1159,1159
+CNY,Canyonlands ,Moab,UT,USA,1160,1160,1160
+COD,Yellowstone Regional,Cody,WY,USA,1161,1161,1161
+COE,Coeur D'Alene Air Terminal,Coeur D'Alene,ID,USA,1162,1162,1162
+COI,Merritt Island,Merritt Island,FL,USA,1163,1163,1163
+COM,Coleman Municipal,Coleman,TX,USA,1164,1164,1164
+CON,Concord Municipal,Concord,NH,USA,1165,1165,1165
+COQ,Cloquet-Carlton County,Cloquet,MN,USA,1166,1166,1166
+COS,City of Colorado Springs Muni,Colorado Springs,CO,USA,1167,1167,1167
+COT,Cotulla-Lasalle County,Cotulla,TX,USA,1168,1168,1168
+COU,Columbia Regional,Columbia,MO,USA,1169,1169,1169
+CPC,Columbus County Municipal,Whiteville,NC,USA,1170,1170,1170
+CPK,Chesapeake Municipal,Norfolk,VA,USA,1171,1171,1171
+CPM,Compton/Woodley,Compton,CA,USA,1172,1172,1172
+CPR,Natrona County Intl,Casper,WY,USA,1173,1173,1173
+CPS,St. Louis Downtown,Cahokia/St. Louis,IL,USA,1174,1174,1174
+CPX,Benjamin Rivera Noriega,Isla De Culebra,PR,USA,1175,1175,1175
+CQA,Lakefield,Celina,OH,USA,1176,1176,1176
+CQB,Chandler Municipal,Chandler,OK,USA,1177,1177,1177
+CQX,Chatham Municipal,Chatham,MA,USA,1178,1178,1178
+CRC,Circle City,Circle,AK,USA,1179,1179,1179
+CRE,Grand Strand,North Myrtle Beach,SC,USA,1180,1180,1180
+CRG,Craig Municipal,Jacksonville,FL,USA,1181,1181,1181
+CRO,Corcoran,Corcoran,CA,USA,1182,1182,1182
+CRP,Corpus Christi International,Corpus Christi,TX,USA,1183,1183,1183
+CRQ,McClellan-Palomar,Carlsbad,CA,USA,1184,1184,1184
+CRS,C Davis Campbell -Corsicana Muni,Corsicana,TX,USA,1185,1185,1185
+CRT,Crossett Municipal,Crossett,AR,USA,1186,1186,1186
+CRW,Yeager,Charleston,WV,USA,1187,1187,1187
+CRX,Roscoe Turner ,Corinth,MS,USA,1188,1188,1188
+CSB,Cambridge Municipal,Cambridge,NE,USA,1189,1189,1189
+CSG,Columbus Metropolitan,Columbus,GA,USA,1190,1190,1190
+CSM,Clinton-Sherman,Clinton,OK,USA,1191,1191,1191
+CSQ,Creston Municipal,Creston,IA,USA,1192,1192,1192
+CSV,Crossville Memorial,Crossville,TN,USA,1193,1193,1193
+CTB,Cut Bank Muni,Cut Bank,MT,USA,1194,1194,1194
+CTJ,West Georgia Regional,Carrollton,GA,USA,1195,1195,1195
+CTK,Ingersoll,Canton,IL,USA,1196,1196,1196
+CTY,Cross City ,Cross City,FL,USA,1197,1197,1197
+CTZ,Sampson County,Clinton,NC,USA,1198,1198,1198
+CUB,Columbia Owens Downtown,Columbia,SC,USA,1199,1199,1199
+CUH,Cushing Municipal,Cushing,OK,USA,1200,1200,1200
+CUL,Carmi Municipal,Carmi,IL,USA,1201,1201,1201
+CUT,Custer County,Custer,SD,USA,1202,1202,1202
+CVG,Cincinnati Northern Kentucky Intl,Covington,KY,USA,1203,1203,1203
+CVK,Sharp County Regional,Ash Flat,AR,USA,1204,1204,1204
+CVN,Clovis Municipal,Clovis,NM,USA,1205,1205,1205
+CVO,Corvallis Muni,Corvallis,OR,USA,1206,1206,1206
+CVX,Charlevoix Municipal,Charlevoix,MI,USA,1207,1207,1207
+CWA,Central Wisconsin,Mosinee,WI,USA,1208,1208,1208
+CWF,Chennault International ,Lake Charles,LA,USA,1209,1209,1209
+CWI,Clinton Municipal,Clinton,IA,USA,1210,1210,1210
+CWV,Claxton-Evans County,Claxton,GA,USA,1211,1211,1211
+CXC,Chitina,Chitina,AK,USA,1212,1212,1212
+CXE,Chase City Municipal,Chase City,VA,USA,1213,1213,1213
+CXF,Coldfoot,Coldfoot,AK,USA,1214,1214,1214
+CXL,Calexico International,Calexico,CA,USA,1215,1215,1215
+CXO,Montgomery County,Conroe,TX,USA,1216,1216,1216
+CXP,Carson,Carson City,NV,USA,1217,1217,1217
+CXU,Camilla-Mitchell County,Camilla,GA,USA,1218,1218,1218
+CXY,Capital City,Harrisburg,PA,USA,1219,1219,1219
+CYO,Pickaway County Memorial,Circleville,OH,USA,1220,1220,1220
+CYS,Cheyenne,Cheyenne,WY,USA,1221,1221,1221
+CYW,Clay Center Municipal,Clay Center,KS,USA,1222,1222,1222
+CZD,Cozad Municipal,Cozad,NE,USA,1223,1223,1223
+CZG,Tri-Cities ,Endicott,NY,USA,1224,1224,1224
+CZL,Tom B David ,Calhoun,GA,USA,1225,1225,1225
+CZN,Chisana,Chisana,AK,USA,1226,1226,1226
+CZT,Dimmit County,Carrizo Springs,TX,USA,1227,1227,1227
+D04,Bowman Municipal,Bowman,ND,USA,1228,1228,1228
+D05,Garrison Municipal,Garrison,ND,USA,1229,1229,1229
+D07,Faith Municipal,Faith,SD,USA,1230,1230,1230
+D09,Bottineau Municipal,Bottineau,ND,USA,1231,1231,1231
+D19,Quentin Aanenson ,Luverne,MN,USA,1232,1232,1232
+D22,Angola ,Angola,NY,USA,1233,1233,1233
+D25,Manitowish Waters,Manitowish Waters,WI,USA,1234,1234,1234
+D38,Canandaiga,Canandaiga,NY,USA,1235,1235,1235
+D42,Springfield Municipal,Springfield,MN,USA,1236,1236,1236
+D50,Crosby Municipal,Crosby,ND,USA,1237,1237,1237
+D55,Robertson ,Langdon,ND,USA,1238,1238,1238
+D57,Glen Ullin Municipal,Glen Ullin,ND,USA,1239,1239,1239
+D60,Tioga Municipal,Tioga,ND,USA,1240,1240,1240
+D73,Monroe-Walton County,Monroe,GA,USA,1241,1241,1241
+D77,Lancaster,Lancaster,NY,USA,1242,1242,1242
+D87,Harbor Springs,Harbor Springs,MI,USA,1243,1243,1243
+D95,Dupont-Lapeer,Lapeer,MI,USA,1244,1244,1244
+D98,Romeo,Romeo,MI,USA,1245,1245,1245
+DAB,Daytona Beach International,Daytona Beach,FL,USA,1246,1246,1246
+DAG,Barstow-Daggett,Daggett,CA,USA,1247,1247,1247
+DAL,Dallas Love ,Dallas,TX,USA,1248,1248,1248
+DAN,Danville Regional,Danville,VA,USA,1249,1249,1249
+DAW,Skyhaven,Rochester,NH,USA,1250,1250,1250
+DAY,James M Cox Dayton Intl,Dayton,OH,USA,1251,1251,1251
+DBN,"W. H. \Bud\"" Barron """,Dublin,GA,USA,1252,1252,1252
+DBQ,Dubuque Municipal,Dubuque,IA,USA,1253,1253,1253
+DCA,Ronald Reagan Washington National,Arlington,VA,USA,1254,1254,1254
+DCK,Dahl Creek,Dahl Creek,AK,USA,1255,1255,1255
+DCU,Pryor  Regional,Decatur,AL,USA,1256,1256,1256
+DCY,Daviess County,Washington,IN,USA,1257,1257,1257
+DDC,Dodge City Regional,Dodge City,KS,USA,1258,1258,1258
+DDH,William H. Morse State,Bennington,VT,USA,1259,1259,1259
+DEC,Decatur,Decatur,IL,USA,1260,1260,1260
+DED,Deland Municipal-Taylor ,Deland,FL,USA,1261,1261,1261
+DEE,Deering,Deering,AK,USA,1262,1262,1262
+DEH,Decorah Municipal,Decorah,IA,USA,1263,1263,1263
+DEN,Denver Intl,Denver,CO,USA,1264,1264,1264
+DEQ,J Lynn Helms Sevier County,De Queen,AR,USA,1265,1265,1265
+DET,Detroit City,Detroit,MI,USA,1266,1266,1266
+DEW,Deer Park,Deer Park,WA,USA,1267,1267,1267
+DFI,Defiance Memorial,Defiance,OH,USA,1268,1268,1268
+DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,1269,1269,1269
+DGW,Converse County,Douglas,WY,USA,1270,1270,1270
+DHN,Dothan ,Dothan,AL,USA,1271,1271,1271
+DHT,Dalhart Municipal,Dalhart,TX,USA,1272,1272,1272
+DIK,Dickinson Municipal,Dickinson,ND,USA,1273,1273,1273
+DKB,Dekalb-Taylor Municipal,Dekalb,IL,USA,1274,1274,1274
+DKK,Dunkirk Municipal,Dunkirk,NY,USA,1275,1275,1275
+DKX,Knoxville Downtown Island,Knoxville,TN,USA,1276,1276,1276
+DLG,Dillingham,Dillingham,AK,USA,1277,1277,1277
+DLH,Duluth International,Duluth,MN,USA,1278,1278,1278
+DLL,Baraboo - Wisconsin Dells,Baraboo,WI,USA,1279,1279,1279
+DLN,Dillon,Dillon,MT,USA,1280,1280,1280
+DLO,Delano Municipal,Delano,CA,USA,1281,1281,1281
+DLS,Columbia Gorge Regional,The Dalles,OR,USA,1282,1282,1282
+DLZ,Delaware Municipal,Delaware,OH,USA,1283,1283,1283
+DM2,Diomede Heliport,Diomede,AK,USA,1284,1284,1284
+DMN,Deming Municipal,Deming,NM,USA,1285,1285,1285
+DMO,Sedalia Memorial,Sedalia,MO,USA,1286,1286,1286
+DMW,Carroll County,Westminster,MD,USA,1287,1287,1287
+DNL,Daniel ,Augusta,GA,USA,1288,1288,1288
+DNN,Dalton Municipal,Dalton,GA,USA,1289,1289,1289
+DNS,Denison Municipal,Denison,IA,USA,1290,1290,1290
+DNV,Vermilion County,Danville,IL,USA,1291,1291,1291
+DOV,Dover Air Force Base,Dover,DE,USA,1292,1292,1292
+DPA,Du Page,Chicago/West Chicago,IL,USA,1293,1293,1293
+DPL,P B Raiford,Kenansville,NC,USA,1294,1294,1294
+DQH,Douglas Municipal,Douglas,GA,USA,1295,1295,1295
+DRI,Beauregard Parish,De Ridder,LA,USA,1296,1296,1296
+DRO,Durango-La Plata County,Durango,CO,USA,1297,1297,1297
+DRT,Del Rio International,Del Rio,TX,USA,1298,1298,1298
+DSM,Des Moines International,Des Moines,IA,USA,1299,1299,1299
+DSV,Dansville Muni,Dansville,NY,USA,1300,1300,1300
+DTA,Delta Municipal,Delta,UT,USA,1301,1301,1301
+DTL,Detroit Lakes -Wething ,Detroit Lakes,MN,USA,1302,1302,1302
+DTN,Shreveport Downtown,Shreveport,LA,USA,1303,1303,1303
+DTO,Denton Municipal,Denton,TX,USA,1304,1304,1304
+DTS,Destin-Ft. Walton Beach,Destin,FL,USA,1305,1305,1305
+DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,1306,1306,1306
+DUA,Eaker ,Durant,OK,USA,1307,1307,1307
+DUC,Halliburton ,Duncan,OK,USA,1308,1308,1308
+DUG,Bisbee Douglas International,Douglas Bisbee,AZ,USA,1309,1309,1309
+DUJ,Du Bois-Jefferson Cty,Du Bois,PA,USA,1310,1310,1310
+DUT,Unalaska,Unalaska,AK,USA,1311,1311,1311
+DUX,Moore County,Dumas,TX,USA,1312,1312,1312
+DUY,Kongiganak,Kongiganak,AK,USA,1313,1313,1313
+DVK,Stuart Powell ,Danville,KY,USA,1314,1314,1314
+DVL,Devils Lake Municipal-Knoke ,Devils Lake,ND,USA,1315,1315,1315
+DVN,Davenport Municipal,Davenport,IA,USA,1316,1316,1316
+DVO,Gnoss ,Novato,CA,USA,1317,1317,1317
+DVT,Phoenix-Deer Valley,Phoenix,AZ,USA,1318,1318,1318
+DWH,David Wayne Hooks Memorial,Houston,TX,USA,1319,1319,1319
+DWU,Ashland-Boyd County,Ashland,KY,USA,1320,1320,1320
+DXE,Dexter Municipal,Dexter,MO,USA,1321,1321,1321
+DXR,Danbury Municipal,Danbury,CT,USA,1322,1322,1322
+DXX,Madison-Lac Qui Parle County ,Madison,MN,USA,1323,1323,1323
+DYB,Summerville,Summerville,SC,USA,1324,1324,1324
+DYL,Doylestown,Doylestown,PA,USA,1325,1325,1325
+DYR,Dyersburg Municipal,Dyersburg,TN,USA,1326,1326,1326
+DYT,Sky Harbor,Duluth,MN,USA,1327,1327,1327
+E01,Monahans-Roy Hurd Memorial,Monahans,TX,USA,1328,1328,1328
+E04,Eunice,Eunice,NM,USA,1329,1329,1329
+E05,Hatch Muni,Hatch,NM,USA,1330,1330,1330
+E06,Lea County-Zip Franklin Memorial,Lovington,NM,USA,1331,1331,1331
+E07,Lea County/Tatum ,Tatum,NM,USA,1332,1332,1332
+E11,Andrews County,Andrews,TX,USA,1333,1333,1333
+E15,Graham Municipal,Graham,TX,USA,1334,1334,1334
+E19,Gruver Municipal,Gruver,TX,USA,1335,1335,1335
+E24,Whiteriver,Whiteriver,AZ,USA,1336,1336,1336
+E25,Wickenburg Municipal,Wickenburg,AZ,USA,1337,1337,1337
+E26,Lea County,Jal,NM,USA,1338,1338,1338
+E35,Fabens,Fabens,TX,USA,1339,1339,1339
+E38,Alpine-Casparis Municipal,Alpine,TX,USA,1340,1340,1340
+E42,Spearman Municipal,Spearman,TX,USA,1341,1341,1341
+E51,Bagdad,Bagdad,AZ,USA,1342,1342,1342
+E52,Oldham County,Vega,TX,USA,1343,1343,1343
+E60,Eloy Municipal,Eloy,AZ,USA,1344,1344,1344
+E63,Gila Bend Municipal,Gila Bend,AZ,USA,1345,1345,1345
+E80,Alexander Municipal,Belen,NM,USA,1346,1346,1346
+E89,Conchas State Park,Conchas Dam,NM,USA,1347,1347,1347
+E91,Chinle Municipal,Chinle,AZ,USA,1348,1348,1348
+E94,Glenwood-Catron County,Glenwood,NM,USA,1349,1349,1349
+E95,Benson Municipal,Benson,AZ,USA,1350,1350,1350
+EAA,Eagle,Eagle,AK,USA,1351,1351,1351
+EAN,Phifer Airfield,Wheatland,WY,USA,1352,1352,1352
+EAR,Kearney Municipal,Kearney,NE,USA,1353,1353,1353
+EAT,Pangborn Memorial,Wenatchee,WA,USA,1354,1354,1354
+EAU,Chippewa Valley Regional,Eau Claire,WI,USA,1355,1355,1355
+EBS,Webster City Municipal,Webster City,IA,USA,1356,1356,1356
+ECG,Elizabeth City CG Air Station/Municipal,Elizabeth City,NC,USA,1357,1357,1357
+ECS,Mondell ,Newcastle,WY,USA,1358,1358,1358
+EDE,Edenton Municipal,Edenton,NC,USA,1359,1359,1359
+EDN,Enterprise Municipal,Enterprise,AL,USA,1360,1360,1360
+EED,Needles,Needles,CA,USA,1361,1361,1361
+EEK,Eek,Eek,AK,USA,1362,1362,1362
+EEN,Dillant-Hopkins,Keene,NH,USA,1363,1363,1363
+EEO,Meeker,Meeker,CO,USA,1364,1364,1364
+EET,Shelby County,Alabaster,AL,USA,1365,1365,1365
+EFC,Belle Fourche Municipal,Belle Fourche,SD,USA,1366,1366,1366
+EFD,Ellington ,Houston,TX,USA,1367,1367,1367
+EFK,Newport State,Newport,VT,USA,1368,1368,1368
+EFT,Monroe Municipal,Monroe,WI,USA,1369,1369,1369
+EFW,Jefferson Municipal,Jefferson,IA,USA,1370,1370,1370
+EGE,Eagle County Regional,Eagle,CO,USA,1371,1371,1371
+EGQ,Emmetsburg Municipal,Emmetsburg,IA,USA,1372,1372,1372
+EGT,Wellington Municipal,Wellington,KS,USA,1373,1373,1373
+EGV,Eagle River Union,Eagle River,WI,USA,1374,1374,1374
+EHA,Elkhart-Morton County,Elkhart,KS,USA,1375,1375,1375
+EHO,Shelby Municipal,Shelby,NC,USA,1376,1376,1376
+EHR,Henderson City-County,Henderson,KY,USA,1377,1377,1377
+EII,Egegik,Egegik,AK,USA,1378,1378,1378
+EIW,County Memorial,New Madrid,MO,USA,1379,1379,1379
+EKA,Murray ,Eureka,CA,USA,1380,1380,1380
+EKM,Elkhart Municipal,Elkhart,IN,USA,1381,1381,1381
+EKN,Elkins-Randolph Co-Jennings Randolph,Elkins,WV,USA,1382,1382,1382
+EKO,Elko Regional,Elko,NV,USA,1383,1383,1383
+EKQ,Wayne County,Monticello,KY,USA,1384,1384,1384
+EKX,Elizabethtown,Elizabethtown,KY,USA,1385,1385,1385
+EKY,Bessemer Municipal,Bessemer,AL,USA,1386,1386,1386
+ELA,Eagle Lake Municipal,Eagle Lake,TX,USA,1387,1387,1387
+ELD,South Arkansas Regional At Goodwin ,El Dorado,AR,USA,1388,1388,1388
+ELI,Elim,Elim,AK,USA,1389,1389,1389
+ELK,Elk City Municipal,Elk City,OK,USA,1390,1390,1390
+ELM,Elmira/Corning Regional,Elmira,NY,USA,1391,1391,1391
+ELN,Bowers ,Ellensburg,WA,USA,1392,1392,1392
+ELO,Ely Municipal,Ely,MN,USA,1393,1393,1393
+ELP,El Paso International,El Paso,TX,USA,1394,1394,1394
+ELV,Elfin Cove SPB,Elfin Cove,AK,USA,1395,1395,1395
+ELY,Ely Arpt (Yelland ),Ely,NV,USA,1396,1396,1396
+ELZ,Wellsville Muni Tarantine,Wellsville,NY,USA,1397,1397,1397
+EMM,Kemmerer Municipal,Kemmerer,WY,USA,1398,1398,1398
+EMP,Emporia Municipal,Emporia,KS,USA,1399,1399,1399
+EMT,El Monte,El Monte,CA,USA,1400,1400,1400
+EMV,Emporia-Greensville Regional,Emporia,VA,USA,1401,1401,1401
+ENA,Kenai Municipal,Kenai,AK,USA,1402,1402,1402
+ENL,Centralia Municipal,Centralia,IL,USA,1403,1403,1403
+ENM,Emmonak,Emmonak,AK,USA,1404,1404,1404
+ENN,Nenana Municipal,Nenana,AK,USA,1405,1405,1405
+ENV,Wendover,Wendover,UT,USA,1406,1406,1406
+ENW,Kenosha Regional,Kenosha,WI,USA,1407,1407,1407
+EOK,Keokuk Municipal,Keokuk,IA,USA,1408,1408,1408
+EOS,Neosho Memorial,Neosho,MO,USA,1409,1409,1409
+EPH,Ephrata Muni,Ephrata,WA,USA,1410,1410,1410
+EPM,Eastport Municipal,Eastport,ME,USA,1411,1411,1411
+EQA,Captain Jack Thomas,El Dorado,KS,USA,1412,1412,1412
+EQY,Monroe,Monroe,NC,USA,1413,1413,1413
+ERI,Erie Intl,Erie,PA,USA,1414,1414,1414
+ERV,Kerrville Muni/Louis Schreiner ,Kerrville,TX,USA,1415,1415,1415
+ERY,Luce County Hale,Newberry,MI,USA,1416,1416,1416
+ESC,Delta County,Escanaba,MI,USA,1417,1417,1417
+ESF,Esler Regional,Alexandria,LA,USA,1418,1418,1418
+ESN,Easton /Newnam ,Easton,MD,USA,1419,1419,1419
+EST,Estherville Municipal,Estherville,IA,USA,1420,1420,1420
+ETB,West Bend Municipal,West Bend,WI,USA,1421,1421,1421
+ETC,Edgecombe County,Tarboro,NC,USA,1422,1422,1422
+ETH,Wheaton Municipal,Wheaton,MN,USA,1423,1423,1423
+ETN,Eastland Municipal,Eastland,TX,USA,1424,1424,1424
+EUF,Weedon ,Eufaula,AL,USA,1425,1425,1425
+EUG,Mahlon Sweet ,Eugene,OR,USA,1426,1426,1426
+EUL,Caldwell Industrial,Caldwell (Boise),ID,USA,1427,1427,1427
+EVB,New Smyrna Beach Municipal,New Smyrna Beach,FL,USA,1428,1428,1428
+EVM,Eveleth-Virginia Muni,Eveleth,MN,USA,1429,1429,1429
+EVU,Maryville Memorial,Maryville,MO,USA,1430,1430,1430
+EVV,Evansville Regional,Evansville,IN,USA,1431,1431,1431
+EVW,Evanston-Uinta County Burns ,Evanston,WY,USA,1432,1432,1432
+EVY,Summit Airpark,Middletown,DE,USA,1433,1433,1433
+EWB,New Bedford Municipal,New Bedford,MA,USA,1434,1434,1434
+EWK,Newton-City-County,Newton,KS,USA,1435,1435,1435
+EWN,Craven County Regional,New Bern,NC,USA,1436,1436,1436
+EWR,Newark Intl,Newark,NJ,USA,1437,1437,1437
+EWU,Newtok,Newtok,AK,USA,1438,1438,1438
+EXI,Excursion Inlet SPB,Excursion Inlet,AK,USA,1439,1439,1439
+EXX,Davidson County,Lexington,NC,USA,1440,1440,1440
+EYE,Eagle Creek Airpark,Indianapolis,IN,USA,1441,1441,1441
+EYW,Key West International,Key West,FL,USA,1442,1442,1442
+EZI,Kewanee Municipal,Kewanee,IL,USA,1443,1443,1443
+EZM,Eastman-Dodge County,Eastman,GA,USA,1444,1444,1444
+EZZ,Cameron Memorial,Cameron,MO,USA,1445,1445,1445
+F00,Jones ,Bonham,TX,USA,1446,1446,1446
+F01,Quanah Municipal,Quanah,TX,USA,1447,1447,1447
+F05,Vernon - Wilbarger County,Vernon,TX,USA,1448,1448,1448
+F06,Marian Airpark,Wellington,TX,USA,1449,1449,1449
+F08,Eufaula Municipal,Eufaula,OK,USA,1450,1450,1450
+F10,Henryetta Municipal,Henryetta,OK,USA,1451,1451,1451
+F12,Rusk County,Henderson,TX,USA,1452,1452,1452
+F17,Center Municipal,Center,TX,USA,1453,1453,1453
+F18,Cleburne Municipal,Cleburne,TX,USA,1454,1454,1454
+F21,Memphis Municipal,Memphis,TX,USA,1455,1455,1455
+F22,Perry Municipal,Perry,OK,USA,1456,1456,1456
+F24,Minden-Webster,Minden,LA,USA,1457,1457,1457
+F28,El Reno Municipal,El Reno,OK,USA,1458,1458,1458
+F29,Clarence E. Page Municipal,Oklahoma City,OK,USA,1459,1459,1459
+F30,Sulphur Municipal,Sulphur,OK,USA,1460,1460,1460
+F31,Lake Texoma State Park,Kingston,OK,USA,1461,1461,1461
+F32,Healdton Municipal,Healdton,OK,USA,1462,1462,1462
+F36,Cordell Municipal,Cordell,OK,USA,1463,1463,1463
+F37,Wauchula Municipal,Wauchula,FL,USA,1464,1464,1464
+F39,Grayson County,Sherman/Denison,TX,USA,1465,1465,1465
+F41,Ennis Municipal,Ennis,TX,USA,1466,1466,1466
+F44,Athens Jones Municipal,Athens,TX,USA,1467,1467,1467
+F45,North Palm Beach County General Aviation,West Palm Beach,FL,USA,1468,1468,1468
+F46,Rockwall Municipal,Rockwall,TX,USA,1469,1469,1469
+F49,Slaton Municipal,Slaton,TX,USA,1470,1470,1470
+F51,Winnsboro Municipal,Winnsboro,TX,USA,1471,1471,1471
+F53,Franklin County,Mount Vernon,TX,USA,1472,1472,1472
+F55,Granbury Municipal,Granbury,TX,USA,1473,1473,1473
+F56,Arledge ,Stamford,TX,USA,1474,1474,1474
+F70,French Valley,Murieta/Temecula,CA,USA,1475,1475,1475
+F80,Atoka Municipal,Atoka,OK,USA,1476,1476,1476
+F81,Okemah Flying ,Okemah,OK,USA,1477,1477,1477
+F84,Stigler Municipal,Stigler,OK,USA,1478,1478,1478
+F85,Morton-Cochran County,Morton,TX,USA,1479,1479,1479
+F87,Farmerville,Farmerville,LA,USA,1480,1480,1480
+F88,Jonesboro,Jonesboro,LA,USA,1481,1481,1481
+F89,Winnsboro Municipal,Winnsboro,LA,USA,1482,1482,1482
+F91,Thomas P Stafford,Weatherford,OK,USA,1483,1483,1483
+F99,Holdenville Municipal,Holdenville,OK,USA,1484,1484,1484
+FAI,Fairbanks International,Fairbanks,AK,USA,1485,1485,1485
+FAM,Farmington Regional,Farmington,MO,USA,1486,1486,1486
+FAQ,Fitiuta,Fitiuta Village,AS,USA,1487,1487,1487
+FAR,Hector International,Fargo,ND,USA,1488,1488,1488
+FAT,Fresno Yosemite International,Fresno,CA,USA,1489,1489,1489
+FAY,Fayetteville Municipal,Fayetteville,NC,USA,1490,1490,1490
+FBL,Faribault Municipal,Faribault,MN,USA,1491,1491,1491
+FBR,Fort Bridger,Fort Bridger,WY,USA,1492,1492,1492
+FBY,Fairbury Municipal,Fairbury,NE,USA,1493,1493,1493
+FCA,Glacier Park Intl,Kalispell,MT,USA,1494,1494,1494
+FCH,Fresno-Chandler Downtown,Fresno,CA,USA,1495,1495,1495
+FCI,Chesterfield County,Richmond,VA,USA,1496,1496,1496
+FCM,Flying Cloud,Minneapolis,MN,USA,1497,1497,1497
+FCY,Forrest City Municipal,Forrest City,AR,USA,1498,1498,1498
+FDK,Frederick Municipal,Frederick,MD,USA,1499,1499,1499
+FDR,Frederick Municipal,Frederick,OK,USA,1500,1500,1500
+FDW,Fairfield County,Winnsboro,SC,USA,1501,1501,1501
+FDY,Findlay,Findlay,OH,USA,1502,1502,1502
+FEP,Albertus,Freeport,IL,USA,1503,1503,1503
+FET,Fremont Municipal,Fremont,NE,USA,1504,1504,1504
+FFA,First Flight,Kill Devil Hills,NC,USA,1505,1505,1505
+FFC,Peachtree City - Falcon ,Atlanta,GA,USA,1506,1506,1506
+FFL,Fairfield Municipal,Fairfield,IA,USA,1507,1507,1507
+FFM,Fergus Falls Muni-Einar Mickelson,Fergus Falls,MN,USA,1508,1508,1508
+FFT,Capital City,Frankfort,KY,USA,1509,1509,1509
+FFZ,Falcon ,Mesa,AZ,USA,1510,1510,1510
+FGX,Fleming-Mason,Flemingsburg,KY,USA,1511,1511,1511
+FHR,Friday Harbor,Friday Harbor,WA,USA,1512,1512,1512
+FHU,Libby AAF-Sierra Vista Municipal,Fort Huachuca-Sierra Vista,AZ,USA,1513,1513,1513
+FIG,Clearfield-Lawrence,Clearfield,PA,USA,1514,1514,1514
+FIT,Fitchburg Municipal,Fitchburg,MA,USA,1515,1515,1515
+FKL,Chess-Lamberton,Franklin,PA,USA,1516,1516,1516
+FKN,Franklin Municipal-John Beverly Rose,Franklin,VA,USA,1517,1517,1517
+FKR,Frankfort Municipal,Frankfort,IN,USA,1518,1518,1518
+FLD,Fond Du Lac County,Fond Du Lac,WI,USA,1519,1519,1519
+FLG,Flagstaff Pulliam,Flagstaff,AZ,USA,1520,1520,1520
+FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,1521,1521,1521
+FLO,Florence Regional,Florence,SC,USA,1522,1522,1522
+FLP,Marion County Regional,Flippin,AR,USA,1523,1523,1523
+FLT,Flat,Flat,AK,USA,1524,1524,1524
+FLX,Fallon Municipal,Fallon,NV,USA,1525,1525,1525
+FME,Tipton ,Odenton,MD,USA,1526,1526,1526
+FMN,Four Corners Regional,Farmington,NM,USA,1527,1527,1527
+FMY,Page ,Ft. Myers,FL,USA,1528,1528,1528
+FMZ,Fairmont State,Fairmont,NE,USA,1529,1529,1529
+FNB,Brenner ,Falls City,NE,USA,1530,1530,1530
+FNL,Fort Collins-Loveland ,Fort Collins/Loveland,CO,USA,1531,1531,1531
+FNR,Funter Bay SPB,Funter Bay,AK,USA,1532,1532,1532
+FNT,Bishop,Flint,MI,USA,1533,1533,1533
+FOA,Flora,Flora,IL,USA,1534,1534,1534
+FOD,Fort Dodge Municipal,Fort Dodge,IA,USA,1535,1535,1535
+FOE,Forbes ,Topeka,KS,USA,1536,1536,1536
+FOK,Francis Gabreski,Westhampton Beach,NY,USA,1537,1537,1537
+FOT,Rohnerville,Fortuna,CA,USA,1538,1538,1538
+FPR,St. Lucie County International,Ft. Pierce,FL,USA,1539,1539,1539
+FQD,Rutherford County-Marchman ,Rutherfordton,NC,USA,1540,1540,1540
+FRG,Republic,Farmingdale,NY,USA,1541,1541,1541
+FRH,French Lick Municipal,French Lick,IN,USA,1542,1542,1542
+FRM,Fairmont Municipal,Fairmont,MN,USA,1543,1543,1543
+FRR,Front Royal-Warren County,Front Royal,VA,USA,1544,1544,1544
+FSD,Joe Foss ,Sioux Falls,SD,USA,1545,1545,1545
+FSE,Fosston Municipal,Fosston,MN,USA,1546,1546,1546
+FSK,Fort Scott Municipal,Fort Scott,KS,USA,1547,1547,1547
+FSM,Fort Smith Regional,Fort Smith,AR,USA,1548,1548,1548
+FSO,Franklin County State,Highgate,VT,USA,1549,1549,1549
+FST,Fort Stockton - Pecos County,Fort Stockton,TX,USA,1550,1550,1550
+FSU,Fort Sumner Municipal,Fort Sumner,NM,USA,1551,1551,1551
+FSW,Fort Madison Municipal,Fort Madison,IA,USA,1552,1552,1552
+FTG,Front Range,Denver,CO,USA,1553,1553,1553
+FTT,Elton Hensley Memorial,Fulton,MO,USA,1554,1554,1554
+FTW,Fort Worth Meacham International,Fort Worth,TX,USA,1555,1555,1555
+FTY,Fulton County - Brown ,Atlanta,GA,USA,1556,1556,1556
+FUL,Fullerton Municipal,Fullerton,CA,USA,1557,1557,1557
+FVE,Northern Aroostook Regional,Frenchville,ME,USA,1558,1558,1558
+FVX,Farmville Municipal,Farmville,VA,USA,1559,1559,1559
+FWA,Fort Wayne International,Fort Wayne,IN,USA,1560,1560,1560
+FWC,Fairfield Municipal,Fairfield,IL,USA,1561,1561,1561
+FWN,Sussex ,Sussex,NJ,USA,1562,1562,1562
+FWS,Spinks,Fort Worth,TX,USA,1563,1563,1563
+FXE,Fort Lauderdale Executive,Ft. Lauderdale,FL,USA,1564,1564,1564
+FXY,Forest City Municipal,Forest City,IA,USA,1565,1565,1565
+FYE,Fayette County,Somerville,TN,USA,1566,1566,1566
+FYM,Fayetteville Municipal,Fayetteville,TN,USA,1567,1567,1567
+FYU,Fort Yukon,Fort Yukon,AK,USA,1568,1568,1568
+FYV,Fayetteville Municipal,Fayetteville,AR,USA,1569,1569,1569
+FZG,Fitzgerald Municipal,Fitzgerald,GA,USA,1570,1570,1570
+FZI,Fostoria Metropolitan,Fostoria,OH,USA,1571,1571,1571
+FZY,Oswego Cty,Fulton,NY,USA,1572,1572,1572
+GAB,Gabbs,Gabbs,NV,USA,1573,1573,1573
+GAD,Gadsden Municipal,Gadsden,AL,USA,1574,1574,1574
+GAF,Grafton Municipal,Grafton,ND,USA,1575,1575,1575
+GAG,Gage,Gage,OK,USA,1576,1576,1576
+GAI,Montgomery Co Airpark,Gaithersburg,MD,USA,1577,1577,1577
+GAL,Edward G. Pitka Sr.,Galena,AK,USA,1578,1578,1578
+GAM,Gambell,Gambell,AK,USA,1579,1579,1579
+GAS,Gallia - Meigs Regional,Gallipolis,OH,USA,1580,1580,1580
+GBD,Great Bend Municipal,Great Bend,KS,USA,1581,1581,1581
+GBG,Galesburg Municipal,Galesburg,IL,USA,1582,1582,1582
+GBH,Galbraith Lake,Galbraith Lake,AK,USA,1583,1583,1583
+GBR,Great Barrington,Great Barrington,MA,USA,1584,1584,1584
+GCC,Gillette-Campbell County,Gillette,WY,USA,1585,1585,1585
+GCK,Garden City Regional,Garden City,KS,USA,1586,1586,1586
+GCM,Claremore Regional,Claremore,OK,USA,1587,1587,1587
+GCN,Grand Canyon National Park,Grand Canyon,AZ,USA,1588,1588,1588
+GCT,Guthrie County Regional,Guthrie Center,IA,USA,1589,1589,1589
+GCY,Greeneville Municipal,Greeneville,TN,USA,1590,1590,1590
+GDM,Gardner Municipal,Gardner,MA,USA,1591,1591,1591
+GDV,Dawson Community,Glendive,MT,USA,1592,1592,1592
+GDW,Gladwin,Gladwin,MI,USA,1593,1593,1593
+GDY,Grundy Municipal,Grundy,VA,USA,1594,1594,1594
+GED,Sussex Cty Arpt,Georgetown,DE,USA,1595,1595,1595
+GEG,Spokane Intl,Spokane,WA,USA,1596,1596,1596
+GEO,Brown County,Georgetown,OH,USA,1597,1597,1597
+GEU,Glendale Municipal,Glendale,AZ,USA,1598,1598,1598
+GEY,South Big Horn County,Greybull,WY,USA,1599,1599,1599
+GEZ,Shelbyville Municipal,Shelbyville,IN,USA,1600,1600,1600
+GFK,Grand Forks International,Grand Forks,ND,USA,1601,1601,1601
+GFL,Floyd D. Bennett,Glens Falls,NY,USA,1602,1602,1602
+GFZ,Greenfield Municipal,Greenfield,IA,USA,1603,1603,1603
+GGE,Georgetown County,Georgetown,SC,USA,1604,1604,1604
+GGF,Grant Municipal,Grant,NE,USA,1605,1605,1605
+GGG,Gregg County,Longview,TX,USA,1606,1606,1606
+GGI,Grinnell Municipal,Grinnell,IA,USA,1607,1607,1607
+GGP,Logansport Municipal,Logansport,IN,USA,1608,1608,1608
+GGW,Wokal Field/Glasgow Intl,Glasgow,MT,USA,1609,1609,1609
+GHM,Centerville Municipal,Centerville,TN,USA,1610,1610,1610
+GHW,Glenwood Municipal ,Glenwood,MN,USA,1611,1611,1611
+GIF,Winter Havens Gilbert,Winter Haven,FL,USA,1612,1612,1612
+GJT,Walker ,Grand Junction,CO,USA,1613,1613,1613
+GKJ,Port Meadville,Meadville,PA,USA,1614,1614,1614
+GKN,Gulkana,Gulkana,AK,USA,1615,1615,1615
+GKT,Gatlinburg-Pigeon Forge,Sevierville,TN,USA,1616,1616,1616
+GKY,Arlington Municipal,Arlington,TX,USA,1617,1617,1617
+GLD,Renner Field/Goodland Municipal,Goodland,KS,USA,1618,1618,1618
+GLE,Gainesville Municipal,Gainesville,TX,USA,1619,1619,1619
+GLH,Mid Delta Regional,Greenville,MS,USA,1620,1620,1620
+GLR,Otsego County,Gaylord,MI,USA,1621,1621,1621
+GLS,Galveston-Scholes ,Galveston,TX,USA,1622,1622,1622
+GLW,Glasgow Municipal,Glasgow,KY,USA,1623,1623,1623
+GLY,Clinton Memorial,Clinton,MO,USA,1624,1624,1624
+GMJ,Grove Municipal,Grove,OK,USA,1625,1625,1625
+GMU,Greenville Downtown,Greenville,SC,USA,1626,1626,1626
+GNB,Granby-Grand County,Granby,CO,USA,1627,1627,1627
+GNF,Grenada Municipal,Grenada,MS,USA,1628,1628,1628
+GNG,Gooding Municipal,Gooding,ID,USA,1629,1629,1629
+GNT,Grants-Milan Municipal,Grants,NM,USA,1630,1630,1630
+GNU,Goodnews,Goodnews,AK,USA,1631,1631,1631
+GNV,Gainesville Regional,Gainesville,FL,USA,1632,1632,1632
+GOK,Guthrie Municipal,Guthrie,OK,USA,1633,1633,1633
+GON,Groton-New London,Groton,CT,USA,1634,1634,1634
+GPH,Clay County Regional,Mosby,MO,USA,1635,1635,1635
+GPM,Grand Prairie Municipal,Grand Prairie,TX,USA,1636,1636,1636
+GPT,Gulfport-Biloxi Regional,Gulfport-Biloxi,MS,USA,1637,1637,1637
+GPZ,Grand Rapids-Itasca County,Grand Rapids,MN,USA,1638,1638,1638
+GQQ,Galion Municipal,Galion,OH,USA,1639,1639,1639
+GRB,Austin Straubel International,Green Bay,WI,USA,1640,1640,1640
+GRD,Greenwood County,Greenwood,SC,USA,1641,1641,1641
+GRE,Greenville,Greenville,IL,USA,1642,1642,1642
+GRI,Central Nebraska Regional ,Grand Island,NE,USA,1643,1643,1643
+GRK,Robert Gray AAF,Killeen,TX,USA,1644,1644,1644
+GRN,Gordon Municipal,Gordon,NE,USA,1645,1645,1645
+GRO,Rota International,Rota Island,CQ,USA,1646,1646,1646
+GRR,Kent County International,Grand Rapids,MI,USA,1647,1647,1647
+GSH,Goshen Municipal,Goshen,IN,USA,1648,1648,1648
+GSN,Saipan International,Obyan,CQ,USA,1649,1649,1649
+GSO,Piedmont Triad International,Greensboro,NC,USA,1650,1650,1650
+GSP,Greenville-Spartanburg,Greer,SC,USA,1651,1651,1651
+GST,Gustavus,Gustavus,AK,USA,1652,1652,1652
+GTF,Great Falls Intl,Great Falls,MT,USA,1653,1653,1653
+GTR,Golden Triangle Regional,Columbus-Starkville-West Point,MS,USA,1654,1654,1654
+GTU,Georgetown Municipal,Georgetown,TX,USA,1655,1655,1655
+GUC,Gunnison County,Gunnison,CO,USA,1656,1656,1656
+GUM,Guam International,Agana,GU,USA,1657,1657,1657
+GUP,Gallup Municipal,Gallup,NM,USA,1658,1658,1658
+GUY,Guymon Municipal,Guymon,OK,USA,1659,1659,1659
+GVL,Lee Gilmer Memorial,Gainesville,GA,USA,1660,1660,1660
+GVQ,Genesee Cty,Batavia,NY,USA,1661,1661,1661
+GVT,Majors,Greenville,TX,USA,1662,1662,1662
+GWO,Greenwood-Leflore,Greenwood,MS,USA,1663,1663,1663
+GWR,Gwinner-Roger Melroe ,Gwinner,ND,USA,1664,1664,1664
+GWW,Goldsboro-Wayne Municipal,Goldsboro,NC,USA,1665,1665,1665
+GXY,Greeley-Weld County,Greeley,CO,USA,1666,1666,1666
+GYH,Donaldson Center,Greenville,SC,USA,1667,1667,1667
+GYR,Phoenix Goodyear,Goodyear,AZ,USA,1668,1668,1668
+GYY,Gary/Chicago ,Gary,IN,USA,1669,1669,1669
+GZH,Middleton ,Evergreen,AL,USA,1670,1670,1670
+GZS,Abernathy ,Pulaski,TN,USA,1671,1671,1671
+H04,Vinita Municipal,Vinita,OK,USA,1672,1672,1672
+H05,Wilburton Municipal,Wilburton,OK,USA,1673,1673,1673
+H19,Bowling Green Municipal,Bowling Green,MO,USA,1674,1674,1674
+H21,Camdenton Memorial,Camdenton,MO,USA,1675,1675,1675
+H30,Hamilton Municipal ,Hamilton,NY,USA,1676,1676,1676
+H35,Clarksville Municipal,Clarksville,AR,USA,1677,1677,1677
+H41,Memorial,Mexico,MO,USA,1678,1678,1678
+H45,Seminole Municipal,Seminole,OK,USA,1679,1679,1679
+H66,Nowata Municipal,Nowata,OK,USA,1680,1680,1680
+H71,Mid-America Industrial,Pryor,OK,USA,1681,1681,1681
+H79,Eldon Model Airpark,Eldon,MO,USA,1682,1682,1682
+H88,Municipal,Fredericktown,MO,USA,1683,1683,1683
+H92,Hominy,Hominy,OK,USA,1684,1684,1684
+H96,Benton Municipal,Benton,IL,USA,1685,1685,1685
+H97,Pawnee Municipal,Pawnee,OK,USA,1686,1686,1686
+HAB,Marion County,Hamilton,AL,USA,1687,1687,1687
+HAE,Hannibal Municipal,Hannibal,MO,USA,1688,1688,1688
+HAF,Half Moon Bay,Half Moon Bay,CA,USA,1689,1689,1689
+HAI,Three Rivers Municipal,Three Rivers,MI,USA,1690,1690,1690
+HAO,Hamilton-Fairfield,Hamilton,OH,USA,1691,1691,1691
+HAY,Haycock,Haycock,AK,USA,1692,1692,1692
+HBC,Mohall Municipal,Mohall,ND,USA,1693,1693,1693
+HBG,Bobby L. Chain Municipal,Hattiesburg,MS,USA,1694,1694,1694
+HBR,Hobart Municipal,Hobart,OK,USA,1695,1695,1695
+HBV,Jim Hogg County,Hebbronville,TX,USA,1696,1696,1696
+HBZ,Heber Springs Municipal,Heber Springs,AR,USA,1697,1697,1697
+HCD,Hutchinson Municipal,Hutchinson,MN,USA,1698,1698,1698
+HCO,Hallock Municipal,Hallock,MN,USA,1699,1699,1699
+HDC,Hammond Municipal,Hammond,LA,USA,1700,1700,1700
+HDE,Brewster ,Holdredge,NE,USA,1701,1701,1701
+HDH,Dillingham Airfield,Mokuleia,HI,USA,1702,1702,1702
+HDI,Hardwick ,Cleveland,TN,USA,1703,1703,1703
+HDN,Yampa Valley,Hayden,CO,USA,1704,1704,1704
+HDO,Hondo Municipal,Hondo,TX,USA,1705,1705,1705
+HEE,Thompson-Robbins,Helena-West Helena,AR,USA,1706,1706,1706
+HEF,Manassas Reg./Harry P Davis ,Manassas,VA,USA,1707,1707,1707
+HEI,Hettinger Municipal,Hettinger,ND,USA,1708,1708,1708
+HEQ,Holyoke,Holyoke,CO,USA,1709,1709,1709
+HEZ,Natchez-Adams County,Natchez,MS,USA,1710,1710,1710
+HFD,Hartford Brainard,Hartford,CT,USA,1711,1711,1711
+HFY,Greenwood Municipal,Indianapolis/Greenwood,IN,USA,1712,1712,1712
+HGR,Hagerstown Regional-Richard Henson ,Hagerstown,MD,USA,1713,1713,1713
+HHF,Hemphill County,Canadian,TX,USA,1714,1714,1714
+HHG,Huntington Municipal,Huntington,IN,USA,1715,1715,1715
+HHH,Hilton Head,NA,NA,USA,1716,1716,1716
+HHR,Jack Northrop Field/Hawthorne Municipal,Hawthorne,CA,USA,1717,1717,1717
+HHW,Stan Stamper Municipal,Hugo,OK,USA,1718,1718,1718
+HI01,Princeville,Hanalei,HI,USA,1719,1719,1719
+HIB,Chisholm-Hibbing,Hibbing,MN,USA,1720,1720,1720
+HIE,Mt Washington Regional,Whitefield,NH,USA,1721,1721,1721
+HIG,Higginsville Industrial Municipal,Higginsville,MO,USA,1722,1722,1722
+HII,Lake Havasu City,Lake Havasu City,AZ,USA,1723,1723,1723
+HIO,Portland-Hillsboro,Hillsboro (Portland),OR,USA,1724,1724,1724
+HJH,Hebron Municipal,Hebron,NE,USA,1725,1725,1725
+HJO,Hanford Municipal,Hanford,CA,USA,1726,1726,1726
+HKA,Blytheville Municipal,Blytheville,AR,USA,1727,1727,1727
+HKS,Hawkins ,Jackson,MS,USA,1728,1728,1728
+HKY,Hickory Municipal,Hickory,NC,USA,1729,1729,1729
+HLC,Hill City Municipal,Hill City,KS,USA,1730,1730,1730
+HLG,Wheeling-Ohio Cty,Wheeling,WV,USA,1731,1731,1731
+HLN,Helena Regional,Helena,MT,USA,1732,1732,1732
+HLX,Twin County,Galax,VA,USA,1733,1733,1733
+HMT,Hemet-Ryan,Hemet,CA,USA,1734,1734,1734
+HMZ,Bedford County,Bedford,PA,USA,1735,1735,1735
+HNB,Huntingburg,Huntingburg,IN,USA,1736,1736,1736
+HNH,Hoonah,Hoonah,AK,USA,1737,1737,1737
+HNL,Honolulu International,Honolulu,HI,USA,1738,1738,1738
+HNM,Hana,Hana,HI,USA,1739,1739,1739
+HNR,Harlan Municipal,Harlan,IA,USA,1740,1740,1740
+HNS,Haines,Haines,AK,USA,1741,1741,1741
+HNZ,Henderson-Oxford,Oxford,NC,USA,1742,1742,1742
+HOB,Lea County Regional,Hobbs,NM,USA,1743,1743,1743
+HOC,Highland County,Hillsboro,OH,USA,1744,1744,1744
+HOE,Homerville,Homerville,GA,USA,1745,1745,1745
+HOM,Homer,Homer,AK,USA,1746,1746,1746
+HON,Huron Regional,Huron,SD,USA,1747,1747,1747
+HOT,Memorial ,Hot Springs,AR,USA,1748,1748,1748
+HOU,William P Hobby,Houston,TX,USA,1749,1749,1749
+HPB,Hooper Bay,Hooper Bay,AK,USA,1750,1750,1750
+HPN,Westchester Cty,White Plains,NY,USA,1751,1751,1751
+HPT,Hampton Municipal,Hampton,IA,USA,1752,1752,1752
+HQG,Hugoton Municipal,Hugoton,KS,USA,1753,1753,1753
+HQM,Bowerman,Hoquiam,WA,USA,1754,1754,1754
+HQU,Thomson-McDuffie County,Thomson,GA,USA,1755,1755,1755
+HQZ,Mesquite Metro,Mesquite,TX,USA,1756,1756,1756
+HRI,Hermiston Muni,Hermiston,OR,USA,1757,1757,1757
+HRL,Valley International,Harlingen,TX,USA,1758,1758,1758
+HRO,Boone County,Harrison,AR,USA,1759,1759,1759
+HRR,Healy River,Healy,AK,USA,1760,1760,1760
+HRU,Herington Municipal,Herington,KS,USA,1761,1761,1761
+HRX,Hereford Municipal,Hereford,TX,USA,1762,1762,1762
+HSA,Stennis International,Bay St Louis,MS,USA,1763,1763,1763
+HSB,Harrisburg-Raleigh,Harrisburg,IL,USA,1764,1764,1764
+HSE,Billy Mitchell,Hatteras,NC,USA,1765,1765,1765
+HSI,Hastings Municipal,Hastings,NE,USA,1766,1766,1766
+HSL,Huslia,Huslia,AK,USA,1767,1767,1767
+HSP,Ingalls ,Hot Springs,VA,USA,1768,1768,1768
+HSR,Hot Springs Municipal,Hot Springs,SD,USA,1769,1769,1769
+HSV,Huntsville International ,Huntsville,AL,USA,1770,1770,1770
+HTH,Hawthorne Municipal,Hawthorne,NV,USA,1771,1771,1771
+HTL,Roscommon County,Houghton Lake,MI,USA,1772,1772,1772
+HTO,East Hampton,East Hampton,NY,USA,1773,1773,1773
+HTS,Tri-State/Walker-Long ,Huntington,WV,USA,1774,1774,1774
+HTW,"Lawrence County Airpark,Inc",Chesapeake,OH,USA,1775,1775,1775
+HUF,Terre Haute International-Hulman ,Terre Haute,IN,USA,1776,1776,1776
+HUL,Houlton International,Houlton,ME,USA,1777,1777,1777
+HUM,Houma-Terrebonne,Houma,LA,USA,1778,1778,1778
+HUS,Hughes,Hughes,AK,USA,1779,1779,1779
+HUT,Hutchinson Municipal,Hutchinson,KS,USA,1780,1780,1780
+HVC,Hopkinsville-Christian County,Hopkinsville,KY,USA,1781,1781,1781
+HVE,Hanksville,Hanksville,UT,USA,1782,1782,1782
+HVN,Tweed-New Haven,New Haven,CT,USA,1783,1783,1783
+HVR,Havre City-County,Havre,MT,USA,1784,1784,1784
+HVS,Hartsville Municipal,Hartsville,SC,USA,1785,1785,1785
+HWD,Hayward Executive,Hayward,CA,USA,1786,1786,1786
+HWI,Hawk Inlet SPB,Hawk Inlet,AK,USA,1787,1787,1787
+HWO,North Perry,Hollywood,FL,USA,1788,1788,1788
+HWQ,Wheatland County  At Harlowton,Harlowton,MT,USA,1789,1789,1789
+HWV,Brookhaven,Shirley,NY,USA,1790,1790,1790
+HXD,Hilton Head,Hilton Head Island,SC,USA,1791,1791,1791
+HXF,Hartford Municipal,Hartford,WI,USA,1792,1792,1792
+HYA,Barnstable Mun Boardman/Polando ,Hyannis,MA,USA,1793,1793,1793
+HYG,Hydaburg SPB,Hydaburg,AK,USA,1794,1794,1794
+HYI,San Marcos Municipal,San Marcos,TX,USA,1795,1795,1795
+HYL,Hollis SPB,Hollis,AK,USA,1796,1796,1796
+HYR,Sawyer County,Hayward,WI,USA,1797,1797,1797
+HYS,Hays Municipal,Hays,KS,USA,1798,1798,1798
+HYW,Conway-Horry County,Conway,SC,USA,1799,1799,1799
+HZD,Carroll County,Huntingdon,TN,USA,1800,1800,1800
+HZE,Mercer County Regional,Hazen,ND,USA,1801,1801,1801
+HZL,Hazleton Muni,Hazleton,PA,USA,1802,1802,1802
+HZR,False River Air Park,New Roads,LA,USA,1803,1803,1803
+HZY,Ashtabula County,Ashtabula,OH,USA,1804,1804,1804
+I05,Sturgis Municipal,Sturgis,KY,USA,1805,1805,1805
+I12,Sidney Municipal,Sidney,OH,USA,1806,1806,1806
+I16,Kee ,Pineville,WV,USA,1807,1807,1807
+I18,Jackson County,Ravenswood,WV,USA,1808,1808,1808
+I19,Greene County,Dayton,OH,USA,1809,1809,1809
+I22,Randolph County,Winchester,IN,USA,1810,1810,1810
+I23,Fayette County,Washington Court House,OH,USA,1811,1811,1811
+I25,Welch Muni,Welch,WV,USA,1812,1812,1812
+I32,Morehead-Rowan County,Morehead,KY,USA,1813,1813,1813
+I34,Greensburg-Decatur County ,Greensburg,IN,USA,1814,1814,1814
+I35,Tucker-Guthrie Memorial,Harlan,KY,USA,1815,1815,1815
+I39,Madison County,Richmond,KY,USA,1816,1816,1816
+I40,Richard Downing,Coshocton,OH,USA,1817,1817,1817
+I42,Paoli Municipal,Paoli,IN,USA,1818,1818,1818
+I43,James A Rhodes,Jackson,OH,USA,1819,1819,1819
+I50,Stanton,Stanton,KY,USA,1820,1820,1820
+I57,Pike County,Waverly,OH,USA,1821,1821,1821
+I63,Mt. Sterling Municipal,Mt. Sterling,IL,USA,1822,1822,1822
+I66,Clinton ,Wilmington,OH,USA,1823,1823,1823
+I67,Cincinnati West,Harrison,OH,USA,1824,1824,1824
+I68,Lebanon-Warren County,Lebanon,OH,USA,1825,1825,1825
+I69,Clermont County,Batavia,OH,USA,1826,1826,1826
+I74,Grimes ,Urbana,OH,USA,1827,1827,1827
+I75,Osceola Municipal,Osceola,IA,USA,1828,1828,1828
+I76,Peru Municipal,Peru,IN,USA,1829,1829,1829
+I78,Union County,Marysville,OH,USA,1830,1830,1830
+I83,Salem Municipal,Salem,IN,USA,1831,1831,1831
+I86,Perry County,New Lexington,OH,USA,1832,1832,1832
+I88,Pontiac Municipal,Pontiac,IL,USA,1833,1833,1833
+I93,Breckinridge County,Hardinsburg,KY,USA,1834,1834,1834
+I95,Hardin County,Kenton,OH,USA,1835,1835,1835
+IAD,Washington Dulles International,Chantilly,VA,USA,1836,1836,1836
+IAG,Niagara Falls Intl,Niagara Falls,NY,USA,1837,1837,1837
+IAH,George Bush Intercontinental,Houston,TX,USA,1838,1838,1838
+IAN,Bob Baker Memorial,Kiana,AK,USA,1839,1839,1839
+IBM,Robert E. Arraj ,Kimball,NE,USA,1840,1840,1840
+ICL,Schenck ,Clarinda,IA,USA,1841,1841,1841
+ICT,Wichita Mid-Continent,Wichita,KS,USA,1842,1842,1842
+IDA,Idaho Falls Regional,Idaho Falls,ID,USA,1843,1843,1843
+IDI,Indiana Cty/Jimmy Stewart,Indiana,PA,USA,1844,1844,1844
+IDL,Indianola Municipal,Indianola,MS,USA,1845,1845,1845
+IDP,Independence Municipal,Independence,KS,USA,1846,1846,1846
+IEM,Whittier,Whittier,AK,USA,1847,1847,1847
+IEN,Pine Ridge,Pine Ridge,SD,USA,1848,1848,1848
+IER,Natchitoches Municipal,Natchitoches,LA,USA,1849,1849,1849
+IFA,Iowa Falls Municipal,Iowa Falls,IA,USA,1850,1850,1850
+IFP,Laughlin/Bullhead International,Bullhead City,AZ,USA,1851,1851,1851
+IGG,Igiugig,Igiugig,AK,USA,1852,1852,1852
+IGM,Kingman,Kingman,AZ,USA,1853,1853,1853
+IGQ,Lansing Municipal,Chicago/Lansing,IL,USA,1854,1854,1854
+IGT,Nightmute,Nightmute,AK,USA,1855,1855,1855
+IIB,Independence Municipal,Independence,IA,USA,1856,1856,1856
+IIK,Kipnuk,Kipnuk,AK,USA,1857,1857,1857
+IIY,Washington-Wilkes County,Washington,GA,USA,1858,1858,1858
+IJD,Windham,Willimantic,CT,USA,1859,1859,1859
+IJX,Jacksonville Municipal,Jacksonville,IL,USA,1860,1860,1860
+IKK,Greater Kankakee,Kankakee,IL,USA,1861,1861,1861
+IKV,Ankeny Regional,Ankeny,IA,USA,1862,1862,1862
+ILE,Killeen Municipal,Killeen,TX,USA,1863,1863,1863
+ILG,New Castle County ,Wilmington,DE,USA,1864,1864,1864
+ILI,Iliamna,Iliamna,AK,USA,1865,1865,1865
+ILM,Wilmington International,Wilmington,NC,USA,1866,1866,1866
+IML,Imperial Municipal,Imperial,NE,USA,1867,1867,1867
+IMM,Immokalee,Immokalee,FL,USA,1868,1868,1868
+IMS,Madison Municipal,Madison,IN,USA,1869,1869,1869
+IMT,Ford,Iron Mountain/Kingsford,MI,USA,1870,1870,1870
+IN03,Indianapolis Downtown,Indianapolis,IN,USA,1871,1871,1871
+IND,Indianapolis International,Indianapolis,IN,USA,1872,1872,1872
+INK,Winkler County,Wink,TX,USA,1873,1873,1873
+INL,Falls International,International Falls,MN,USA,1874,1874,1874
+INT,Smith Reynolds,Winston-Salem,NC,USA,1875,1875,1875
+INW,Winslow-Lindbergh Regional,Winslow,AZ,USA,1876,1876,1876
+IOB,Mt Sterling-Montgomery County,Mount Sterling,KY,USA,1877,1877,1877
+IOW,Iowa City Municipal,Iowa City,IA,USA,1878,1878,1878
+IPJ,Lincoln County,Lincolnton,NC,USA,1879,1879,1879
+IPL,Imperial County,Imperial,CA,USA,1880,1880,1880
+IPT,Williamsport-Lycoming Cty,Williamsport,PA,USA,1881,1881,1881
+IRK,Kirksville Regional,Kirksville,MO,USA,1882,1882,1882
+IRS,Kirsch Municipal,Sturgis,MI,USA,1883,1883,1883
+ISM,Kissimmee Municipal,Orlando,FL,USA,1884,1884,1884
+ISN,Sloulin Field International,Williston,ND,USA,1885,1885,1885
+ISO,Kinston Regional Jetport At Stallin,Kinston,NC,USA,1886,1886,1886
+ISP,Long Island - MacArthur,Islip,NY,USA,1887,1887,1887
+ISQ,Schoolcraft County,Manistique,MI,USA,1888,1888,1888
+ISW,Alexander ,Wisconsin Rapids,WI,USA,1889,1889,1889
+ISZ,Cincinnati-Blue Ash,Cincinnati,OH,USA,1890,1890,1890
+ITH,Tompkins Cty ,Ithaca,NY,USA,1891,1891,1891
+ITO,Hilo International,Hilo,HI,USA,1892,1892,1892
+ITR,Kit Carson County,Burlington,CO,USA,1893,1893,1893
+IWA,Williams Gateway,Phoenix,AZ,USA,1894,1894,1894
+IWD,Gogebic County,Ironwood,MI,USA,1895,1895,1895
+IWH,Wabash Municipal,Wabash,IN,USA,1896,1896,1896
+IWI,Wiscasset,Wiscasset,ME,USA,1897,1897,1897
+IWK,Wales,Wales,AK,USA,1898,1898,1898
+IWS,West Houston,Houston,TX,USA,1899,1899,1899
+IXD,New Century Aircenter,Olathe,KS,USA,1900,1900,1900
+IYK,Inyokern,Inyokern,CA,USA,1901,1901,1901
+IYS,Wasilla,Wasilla,AK,USA,1902,1902,1902
+IZA,Santa Ynez,Santa Ynez,CA,USA,1903,1903,1903
+IZG,Eastern Slopes Regional,Fryeburg,ME,USA,1904,1904,1904
+JAC,Jackson Hole,Jackson,WY,USA,1905,1905,1905
+JAN,Jackson International,Jackson,MS,USA,1906,1906,1906
+JAS,Jasper County -Bell ,Jasper,TX,USA,1907,1907,1907
+JAU,Campbell County,Jacksboro,TN,USA,1908,1908,1908
+JAX,Jacksonville International,Jacksonville,FL,USA,1909,1909,1909
+JBR,Jonesboro Municipal,Jonesboro,AR,USA,1910,1910,1910
+JCT,Kimble County,Junction,TX,USA,1911,1911,1911
+JDN,Jordan,Jordan,MT,USA,1912,1912,1912
+JEF,Jefferson City Memorial,Jefferson City,MO,USA,1913,1913,1913
+JER,Jerome County,Jerome,ID,USA,1914,1914,1914
+JES,Jesup-Wayne County,Jesup,GA,USA,1915,1915,1915
+JFK,John F Kennedy Intl,New York,NY,USA,1916,1916,1916
+JFX,Walker County,Jasper,AL,USA,1917,1917,1917
+JHM,Kapalua,Lahaina,HI,USA,1918,1918,1918
+JHW,Chautauqua Cty,Jamestown,NY,USA,1919,1919,1919
+JKA,Jack Edwards,Gulf Shores,AL,USA,1920,1920,1920
+JKJ,Moorhead Municipal ,Moorhead,MN,USA,1921,1921,1921
+JKL,Julian Carroll,Jackson,KY,USA,1922,1922,1922
+JLN,Joplin Regional,Joplin,MO,USA,1923,1923,1923
+JMR,Mora Municipal,Mora,MN,USA,1924,1924,1924
+JMS,Jamestown Municipal,Jamestown,ND,USA,1925,1925,1925
+JNU,Juneau International,Juneau,AK,USA,1926,1926,1926
+JNX,Johnston County,Smithfield,NC,USA,1927,1927,1927
+JOT,Joliet Park District,Chicago/Joliet,IL,USA,1928,1928,1928
+JQF,Concord Regional,Concord,NC,USA,1929,1929,1929
+JRA,Port Authority-W 30th St Midtown Heliport,New York,NY,USA,1930,1930,1930
+JRB,Downtown Manhattan/Wall St. Heliport,New York,NY,USA,1931,1931,1931
+JRF,Kalaeloa (John Rodgers ),Kapolei,HI,USA,1932,1932,1932
+JSO,Jacksonville-Cherokee County,Jacksonville,TX,USA,1933,1933,1933
+JST,Johnstown-Cambria Cty,Johnstown,PA,USA,1934,1934,1934
+JVL,Rock County,Janesville,WI,USA,1935,1935,1935
+JVY,Clark County,Jeffersonville,IN,USA,1936,1936,1936
+JWG,Watonga,Watonga,OK,USA,1937,1937,1937
+JWN,John C. Tune,Nashville,TN,USA,1938,1938,1938
+JXN,Jackson County Reynolds ,Jackson,MI,USA,1939,1939,1939
+JYG,St James Municipal,St James,MN,USA,1940,1940,1940
+JYL,Plantation Airpark,Sylvania,GA,USA,1941,1941,1941
+JYM,Hillsdale Municipal,Hillsdale,MI,USA,1942,1942,1942
+JYO,Leesburg Executive ,Leesburg,VA,USA,1943,1943,1943
+JYR,Municipal,York,NE,USA,1944,1944,1944
+JZI,Charleston Executive,Charleston,SC,USA,1945,1945,1945
+JZP,Pickens County,Jasper,GA,USA,1946,1946,1946
+JZZ,Koliganek,Koliganek,AK,USA,1947,1947,1947
+K01,Farington ,Auburn,NE,USA,1948,1948,1948
+K02,Perryville Municipal,Perryville,MO,USA,1949,1949,1949
+K06,Greater Beardstown,Beardstown,IL,USA,1950,1950,1950
+K09,Piseco Muni,Piseco,NY,USA,1951,1951,1951
+K15,Linn Creek-Grand Glaize Memorial,Osage Beach,MO,USA,1952,1952,1952
+K20,Wendell H. Ford,Hazard,KY,USA,1953,1953,1953
+K22,Big Sandy Regional,Prestonburg,KY,USA,1954,1954,1954
+K24,Russell County,Jamestown,KY,USA,1955,1955,1955
+K29,Council,Council,AK,USA,1956,1956,1956
+K33,Salem Memorial,Salem,MO,USA,1957,1957,1957
+K34,Municipal,Gardner,KS,USA,1958,1958,1958
+K39,St Clair Memorial,St Clair,MO,USA,1959,1959,1959
+K46,Blair Municipal,Blair,NE,USA,1960,1960,1960
+K54,Teller,Teller,AK,USA,1961,1961,1961
+K57,Gould Peterson Municipal,Tarkio,MO,USA,1962,1962,1962
+K59,Amelia Earhart,Atchison,KS,USA,1963,1963,1963
+K61,Moritz Memorial,Beloit,KS,USA,1964,1964,1964
+K62,Falmouth Pendleton County,Falmouth,KY,USA,1965,1965,1965
+K67,Oswego Municipal,Oswego,KS,USA,1966,1966,1966
+K68,Garnett Municipal,Garnett,KS,USA,1967,1967,1967
+K78,Abilene Municipal,Abilene.,KS,USA,1968,1968,1968
+K81,Miami County,Paola,KS,USA,1969,1969,1969
+K82,Smith Center Municipal,Smith Center,KS,USA,1970,1970,1970
+K83,Sabetha Municipal,Sabetha,KS,USA,1971,1971,1971
+K88,Allen County,Iola,KS,USA,1972,1972,1972
+K89,Macon-Fower Memorial,Macon,MO,USA,1973,1973,1973
+K96,Tuscola,Tuscola,IL,USA,1974,1974,1974
+KAE,Kake SPB,Kake,AK,USA,1975,1975,1975
+KAL,Kaltag,Kaltag,AK,USA,1976,1976,1976
+KCC,Coffman Cove SPB,Coffman Cove,AK,USA,1977,1977,1977
+KCL,Chignik Lagoon,Chignik Flats,AK,USA,1978,1978,1978
+KEB,English Bay,English Bay,AK,USA,1979,1979,1979
+KEK,Ekwok,Ekwok,AK,USA,1980,1980,1980
+KFP,False Pass,False Pass,AK,USA,1981,1981,1981
+KGX,Grayling,Grayling,AK,USA,1982,1982,1982
+KIB,Ivanof Bay SPB,Ivanof Bay,AK,USA,1983,1983,1983
+KIC,Mesa Del Rey,King City,CA,USA,1984,1984,1984
+KKA,Koyuk,Koyuk,AK,USA,1985,1985,1985
+KKB,Kitoi Bay SPB,Kitoi Bay,AK,USA,1986,1986,1986
+KLG,Kalskag,Kalskag,AK,USA,1987,1987,1987
+KLL,Levelock,Levelock,AK,USA,1988,1988,1988
+KLS,Kelso-Longview,Kelso,WA,USA,1989,1989,1989
+KNB,Kanab Muni,Kanab,UT,USA,1990,1990,1990
+KNW,Stuyahok,New Stuyahok,AK,USA,1991,1991,1991
+KOA,Kona International At Keahole,Kailua/Kona,HI,USA,1992,1992,1992
+KPB,Point Baker SPB,Point Baker,AK,USA,1993,1993,1993
+KPH,Pauloff Harbor SPB,Pauloff Harbor,AK,USA,1994,1994,1994
+KQA,Akutan SPB,Akutan,AK,USA,1995,1995,1995
+KSM,St. Mary's,St. Mary's,AK,USA,1996,1996,1996
+KTB,Thorne Bay,Thorne Bay,AK,USA,1997,1997,1997
+KTN,Ketchikan International,Ketchikan,AK,USA,1998,1998,1998
+KTS,Brevig Mission,Brevig Mission,AK,USA,1999,1999,1999
+KVC,King Cove,King Cove,AK,USA,2000,2000,2000
+KVL,Kivalina,Kivalina,AK,USA,2001,2001,2001
+KWT,Kwethluk,Kwethluk,AK,USA,2002,2002,2002
+KXA,Kasaan SPB,Kasaan,AK,USA,2003,2003,2003
+KYK,Karluk,Karluk,AK,USA,2004,2004,2004
+KYU,Koyukuk,Koyukuk,AK,USA,2005,2005,2005
+L04,Holtville,Holtville,CA,USA,2006,2006,2006
+L05,Kern Valley,Kernville,CA,USA,2007,2007,2007
+L06,Furnace Creek,Death Valley National Park,CA,USA,2008,2008,2008
+L08,Borrego Valley,Borrego Springs,CA,USA,2009,2009,2009
+L12,Redlands Municipal,Redlands,CA,USA,2010,2010,2010
+L15,Henderson,Las Vegas,NV,USA,2011,2011,2011
+L17,Taft-Kern County,Taft,CA,USA,2012,2012,2012
+L18,Fallbrook Community Airpark,Fallbrook,CA,USA,2013,2013,2013
+L19,Wasco-Kern County,Wasco,CA,USA,2014,2014,2014
+L26,Hesperia,Hesperia,CA,USA,2015,2015,2015
+L31,Greater St. Tammany Parish ,Covington,LA,USA,2016,2016,2016
+L35,Big Bear City,Big Bear,CA,USA,2017,2017,2017
+L38,Louisiana Regional,Gonzales,LA,USA,2018,2018,2018
+L39,Leesville,Leesville,LA,USA,2019,2019,2019
+L42,Allen Parish,Oakdale,LA,USA,2020,2020,2020
+L45,Bakersfield Municipal,Bakersfield,CA,USA,2021,2021,2021
+L49,South Lafourche,Galliano,LA,USA,2022,2022,2022
+L52,Oceano County,Oceano,CA,USA,2023,2023,2023
+L67,Rialto Municipal ,Rialto,CA,USA,2024,2024,2024
+L70,Agua Dulce Airpark,Agua Dulce,CA,USA,2025,2025,2025
+L71,California City Municipal,California City,CA,USA,2026,2026,2026
+L72,Trona,Trona,CA,USA,2027,2027,2027
+L75,Southland ,Sulphur,LA,USA,2028,2028,2028
+L83,Thibodaux Municipal,Thibodaux,LA,USA,2029,2029,2029
+L84,Lost Hills-Kern County,Lost Hills,CA,USA,2030,2030,2030
+L92,Alamo Landing ,Alamo,NV,USA,2031,2031,2031
+LAA,Lamar Muni,Lamar,CO,USA,2032,2032,2032
+LAF,Purdue University,Lafayette,IN,USA,2033,2033,2033
+LAL,Lakeland Linder Regional,Lakeland,FL,USA,2034,2034,2034
+LAM,Los Alamos,Los Alamos,NM,USA,2035,2035,2035
+LAN,Capital City,Lansing,MI,USA,2036,2036,2036
+LAR,Laramie Regional,Laramie,WY,USA,2037,2037,2037
+LAS,McCarran International,Las Vegas,NV,USA,800,3,10
+LAW,Lawton-Ft Sill Regional,Lawton,OK,USA,2039,2039,2039
+LAX,Los Angeles International,Los Angeles,CA,USA,2040,2040,2040
+LBB,Lubbock International,Lubbock,TX,USA,2041,2041,2041
+LBE,Arnold Palmer Regional,Latrobe,PA,USA,2042,2042,2042
+LBF,North Platte Regional ,North Platte,NE,USA,2043,2043,2043
+LBL,Liberal Municipal,Liberal,KS,USA,2044,2044,2044
+LBO,Floyd W Jones Lebanon,Lebanon,MO,USA,2045,2045,2045
+LBT,Lumberton Municipal,Lumberton,NC,USA,2046,2046,2046
+LBX,Brazoria County,Angleton,TX,USA,2047,2047,2047
+LCG,Wayne Municipal,Wayne,NE,USA,2048,2048,2048
+LCH,Lake Charles Regional,Lake Charles,LA,USA,2049,2049,2049
+LCI,Laconia Municipal,Laconia,NH,USA,2050,2050,2050
+LCK,Rickenbacker International ,Columbus,OH,USA,2051,2051,2051
+LCQ,Lake City Municipal,Lake City,FL,USA,2052,2052,2052
+LDJ,Linden ,Linden,NJ,USA,2053,2053,2053
+LDM,Mason County,Ludington,MI,USA,2054,2054,2054
+LEB,Lebanon Municipal,Lebanon,NH,USA,2055,2055,2055
+LEE,Leesburg Regional,Leesburg,FL,USA,2056,2056,2056
+LEM,Lemmon Municipal,Lemmon,SD,USA,2057,2057,2057
+LEW,Auburn-Lewiston Municipal,Auburn-Lewiston,ME,USA,2058,2058,2058
+LEX,Blue Grass ,Lexington,KY,USA,2059,2059,2059
+LFK,Lufkin-Angelina County,Lufkin,TX,USA,2060,2060,2060
+LFT,Lafayette Regional,Lafayette,LA,USA,2061,2061,2061
+LGA,LaGuardia,New York,NY,USA,2062,2062,2062
+LGB,Long Beach (Daugherty ),Long Beach,CA,USA,2063,2063,2063
+LGC,LaGrange-Callaway,Lagrange,GA,USA,2064,2064,2064
+LGD,La Grande/Union County,La Grande,OR,USA,2065,2065,2065
+LGU,Logan-Cache,Logan,UT,USA,2066,2066,2066
+LHD,Lake Hood SPB,Anchorage,AK,USA,2067,2067,2067
+LHM,Lincoln Regional ,Lincoln,CA,USA,2068,2068,2068
+LHQ,Fairfield County,Lancaster,OH,USA,2069,2069,2069
+LHV,Wm T Piper Memorial,Lock Haven,PA,USA,2070,2070,2070
+LHX,La Junta Muni,La Junta,CO,USA,2071,2071,2071
+LHZ,Franklin County,Louisburg,NC,USA,2072,2072,2072
+LIC,Limon Municipal,Limon,CO,USA,2073,2073,2073
+LIH,Lihue,Lihue,HI,USA,2074,2074,2074
+LIT,Adams ,Little Rock,AR,USA,2075,2075,2075
+LJF,Litchfield Municipal,Litchfield,MN,USA,2076,2076,2076
+LKP,Lake Placid,Lake Placid,NY,USA,2077,2077,2077
+LKR,Lancaster County,Lancaster,SC,USA,2078,2078,2078
+LKU,Louisa County / Freeman ,Louisa,VA,USA,2079,2079,2079
+LKV,Lake County,Lakeview,OR,USA,2080,2080,2080
+LLJ,Challis,Challis,ID,USA,2081,2081,2081
+LLQ,Monticello Municipal,Monticello,AR,USA,2082,2082,2082
+LLU,Lamar Municipal,Lamar,MO,USA,2083,2083,2083
+LMS,Louisville-Winston County,Louisville,MS,USA,2084,2084,2084
+LMT,Klamath Falls International,Klamath Falls,OR,USA,2085,2085,2085
+LNA,Palm Beach County Park,Lantana,FL,USA,2086,2086,2086
+LNC,Lancaster,Lancaster,TX,USA,2087,2087,2087
+LND,Hunt ,Lander,WY,USA,2088,2088,2088
+LNK,Lincoln Municipal,Lincoln,NE,USA,2089,2089,2089
+LNL,Kings Land O' Lakes,Land O' Lakes,WI,USA,2090,2090,2090
+LNN,Lost Nation,Willoughby,OH,USA,2091,2091,2091
+LNP,Lonesome Pine,Wise,VA,USA,2092,2092,2092
+LNS,Lancaster,Lancaster,PA,USA,2093,2093,2093
+LNY,Lanai,Lanai City,HI,USA,2094,2094,2094
+LOL,Derby ,Lovelock,NV,USA,2095,2095,2095
+LOT,Lewis University,Chicago/Romeoville,IL,USA,2096,2096,2096
+LOU,Bowman ,Louisville,KY,USA,2097,2097,2097
+LOZ,London-Corbin  Magee ,London,KY,USA,2098,2098,2098
+LPC,Lompoc,Lompoc,CA,USA,2099,2099,2099
+LPR,Lorain Co Regional,Lorain/Elyria,OH,USA,2100,2100,2100
+LQK,Pickens County,Pickens,SC,USA,2101,2101,2101
+LQR,Larned-Pawnee County,Larned,KS,USA,2102,2102,2102
+LRD,Laredo International,Laredo,TX,USA,2103,2103,2103
+LRG,Lincoln Regional,Lincoln,ME,USA,2104,2104,2104
+LRJ,Le Mars Municipal,Le Mars,IA,USA,2105,2105,2105
+LRU,Las Cruces International,Las Cruces,NM,USA,2106,2106,2106
+LSB,Lordsburg Municipal,Lordsburg,NM,USA,2107,2107,2107
+LSE,La Crosse Municipal,La Crosse,WI,USA,2108,2108,2108
+LSK,Lusk Muni,Lusk,WY,USA,2109,2109,2109
+LSN,Los Banos Municipal,Los Banos,CA,USA,2110,2110,2110
+LUG,Ellington ,Lewisburg,TN,USA,2111,2111,2111
+LUK,Cincinnati Muni-Lunken ,Cincinnati,OH,USA,2112,2112,2112
+LUL,Hesler-Noble ,Laurel,MS,USA,2113,2113,2113
+LUP,Kalaupapa,Kalaupapa,HI,USA,2114,2114,2114
+LVJ,Clover ,Houston,TX,USA,2115,2115,2115
+LVK,Livermore Municipal,Livermore,CA,USA,2116,2116,2116
+LVM,Mission ,Livingston,MT,USA,2117,2117,2117
+LVN,Airlake ,Minneapolis,MN,USA,2118,2118,2118
+LVS,Las Vegas Municipal,Las Vegas,NM,USA,2119,2119,2119
+LWB,Greenbrier Valley,Lewisburg,WV,USA,2120,2120,2120
+LWC,Lawrence Municipal,Lawrence,KS,USA,2121,2121,2121
+LWD,Lamoni Municipal,Lamoni,IA,USA,2122,2122,2122
+LWL,Wells Municipal/Harriet ,Wells,NV,USA,2123,2123,2123
+LWM,Lawrence Municipal,Lawrence,MA,USA,2124,2124,2124
+LWS,Lewiston-Nez Perce County,Lewiston,ID,USA,2125,2125,2125
+LWT,Lewistown Muni,Lewistown,MT,USA,2126,2126,2126
+LWV,Lawrenceville-Vincennes Municipal,Lawrenceville,IL,USA,2127,2127,2127
+LXL,Little Falls - Morrison County,Little Falls,MN,USA,2128,2128,2128
+LXN,Lexington (Jim Kelly ),Lexington,NE,USA,2129,2129,2129
+LXT,Lee's Summit Municipal,Lee's Summit,MO,USA,2130,2130,2130
+LXV,Lake County,Leadville,CO,USA,2131,2131,2131
+LXY,Mexia-Limestone County,Mexia,TX,USA,2132,2132,2132
+LYH,Lynchburg Municipal-Preston Glenn ,Lynchburg,VA,USA,2133,2133,2133
+LYO,Lyons-Rice County Municipal,Lyons,KS,USA,2134,2134,2134
+LZU,Gwinnett County ,Lawrenceville,GA,USA,2135,2135,2135
+M01,General Dewitt Spain,Memphis,TN,USA,2136,2136,2136
+M02,Dickson Municipal,Dickson,TN,USA,2137,2137,2137
+M03,Dennis F Cantrell ,Conway,AR,USA,2138,2138,2138
+M04,Covington Municipal,Covington,TN,USA,2139,2139,2139
+M05,Caruthersville Memorial,Caruthersville,MO,USA,2140,2140,2140
+M08,William L. Whitehurst ,Bolivar,TN,USA,2141,2141,2141
+M09,Piedmont Municipal,Piedmont,MO,USA,2142,2142,2142
+M11,Copiah County,Crystal Springs,MS,USA,2143,2143,2143
+M13,Poplarville-Pearl River County,Poplarville,MS,USA,2144,2144,2144
+M15,Perry County,Linden,TN,USA,2145,2145,2145
+M16,John Bell Williams,Raymond,MS,USA,2146,2146,2146
+M17,Bolivar Municipal,Bolivar,MO,USA,2147,2147,2147
+M18,Hope Municipal,Hope,AR,USA,2148,2148,2148
+M19,Newport Municipal,Newport,AR,USA,2149,2149,2149
+M21,Muhlenberg County,Greenville,KY,USA,2150,2150,2150
+M22,Russellville Municipal,Russellville,AL,USA,2151,2151,2151
+M23,James H. Easom ,Newton,MS,USA,2152,2152,2152
+M24,Dean Griffin Memorial,Wiggins,MS,USA,2153,2153,2153
+M25,Mayfield-Graves County,Mayfield,KY,USA,2154,2154,2154
+M27,Waldron Municipal,Waldron,AR,USA,2155,2155,2155
+M29,Hassel ,Clifton,TN,USA,2156,2156,2156
+M30,Metropolis Municipal,Metropolis,IL,USA,2157,2157,2157
+M32,Lake Village Municipal,Lake Village,AR,USA,2158,2158,2158
+M33,Sumner County Regional,Gallatin,TN,USA,2159,2159,2159
+M34,Kentucky Dam State Park,Gilbertsville,KY,USA,2160,2160,2160
+M36,Frank Federer Memorial,Brinkley,AR,USA,2161,2161,2161
+M37,Ruleville-Drew,Drew,MS,USA,2162,2162,2162
+M39,Mena Intermountain Municipal,Mena,AR,USA,2163,2163,2163
+M40,Monroe County,Aberdeen-Amory,MS,USA,2164,2164,2164
+M41,Holly Springs-Marshall County,Holly Springs,MS,USA,2165,2165,2165
+M43,Prentiss-Jefferson Davis County,Prentiss,MS,USA,2166,2166,2166
+M44,Houston Municipal,Houston,MS,USA,2167,2167,2167
+M46,Colstrip,Colstrip,MT,USA,2168,2168,2168
+M48,Houston Memorial,Houston,MO,USA,2169,2169,2169
+M52,Franklin-Wilkins,Lexington,TN,USA,2170,2170,2170
+M53,Humboldt Municipal,Humboldt,TN,USA,2171,2171,2171
+M54,Lebanon Municipal,Lebanon,TN,USA,2172,2172,2172
+M58,Monett Municipal,Monett,MO,USA,2173,2173,2173
+M59,Richton-Perry County,Richton,MS,USA,2174,2174,2174
+M60,Woodruff County,Augusta,AR,USA,2175,2175,2175
+M65,Wynne Municipal,Wynne,AR,USA,2176,2176,2176
+M70,Pocahontas Municipal,Pocahontas,AR,USA,2177,2177,2177
+M72,New Albany-Union County,New Albany,MS,USA,2178,2178,2178
+M73,Almyra Municipal,Almyra,AR,USA,2179,2179,2179
+M75,Malta,Malta,MT,USA,2180,2180,2180
+M76,Picayune Municipal,Picayune,MS,USA,2181,2181,2181
+M77,Howard County,Nashville,AR,USA,2182,2182,2182
+M78,Malvern Municipal,Malvern,AR,USA,2183,2183,2183
+M79,John H Hooks Jr Memorial,Rayville,LA,USA,2184,2184,2184
+M82,Madison County Executive ,Huntsville,AL,USA,2185,2185,2185
+M83,McCharen ,West Point,MS,USA,2186,2186,2186
+M89,Dexter B. Florence Memorial ,Arkadelphia,AR,USA,2187,2187,2187
+M91,Springfield-Robertson County,Springfield,TN,USA,2188,2188,2188
+M95,Richard Arthur ,Fayette,AL,USA,2189,2189,2189
+M97,Tunica Municipal,Tunica,MS,USA,2190,2190,2190
+M99,Saline County/Watts ,Benton,AR,USA,2191,2191,2191
+MAC,Herbert Smart Downtown,Macon,GA,USA,2192,2192,2192
+MAE,Madera Municipal,Madera,CA,USA,2193,2193,2193
+MAF,Midland International,Midland,TX,USA,2194,2194,2194
+MAI,Marianna Municipal,Marianna,FL,USA,2195,2195,2195
+MAL,Malone-Dufort,Malone,NY,USA,2196,2196,2196
+MAO,Marion County,Marion,SC,USA,2197,2197,2197
+MAW,Malden Municipal,Malden,MO,USA,2198,2198,2198
+MAZ,Eugenio Maria De Hostos,Mayaguez,PR,USA,2199,2199,2199
+MBG,Mobridge Municipal,Mobridge,SD,USA,2200,2200,2200
+MBL,Manistee County Blacker,Manistee,MI,USA,2201,2201,2201
+MBO,Bruce Campbell ,Madison,MS,USA,2202,2202,2202
+MBS,Mbs International,Saginaw,MI,USA,2203,2203,2203
+MBT,Murfreesboro Municipal,Murfreesboro,TN,USA,2204,2204,2204
+MBY,Omar N Bradley,Moberly,MO,USA,2205,2205,2205
+MCB,McComb-Pike County,McComb,MS,USA,2206,2206,2206
+MCD,Mackinac Island,Mackinac Island,MI,USA,2207,2207,2207
+MCE,Merced Municipal/MacReady ,Merced,CA,USA,2208,2208,2208
+MCG,McGrath,McGrath,AK,USA,2209,2209,2209
+MCI,Kansas City International,Kansas City,MO,USA,2210,2210,2210
+MCK,McCook Municipal,McCook,NE,USA,2211,2211,2211
+MCN,Middle Georgia Regional,Macon,GA,USA,2212,2212,2212
+MCO,Orlando International,Orlando,FL,USA,2213,2213,2213
+MCW,Mason City Municipal,Mason City,IA,USA,2214,2214,2214
+MCX,White County,Monticello,IN,USA,2215,2215,2215
+MCZ,Martin County,Williamston,NC,USA,2216,2216,2216
+MDD,Midland Airpark,Midland,TX,USA,2217,2217,2217
+MDF,Mooreland Municipal,Mooreland,OK,USA,2218,2218,2218
+MDH,Southern Illinois ,Carbondale,IL,USA,2219,2219,2219
+MDR,Medfra,Medfra,AK,USA,2220,2220,2220
+MDS,Madison Municipal,Madison,SD,USA,2221,2221,2221
+MDT,Harrisburg Intl,Harrisburg,PA,USA,2222,2222,2222
+MDW,Chicago Midway,Chicago,IL,USA,2223,2223,2223
+MDZ,Taylor County ,Medford,WI,USA,2224,2224,2224
+MEB,Laurinburg-Maxton,Maxton,NC,USA,2225,2225,2225
+MEI,Key ,Meridian,MS,USA,2226,2226,2226
+MEJ,Meade Municipal,Meade,KS,USA,2227,2227,2227
+MEM,Memphis International,Memphis,TN,USA,2228,2228,2228
+MER,Castle,Atwater,CA,USA,2229,2229,2229
+MEV,Minden-Tahoe,Minden,NV,USA,2230,2230,2230
+MEY,Mapleton Municipal,Mapleton,IA,USA,2231,2231,2231
+MFD,Mansfield Lahm Municipal,Mansfield,OH,USA,2232,2232,2232
+MFE,McAllen Miller International,McAllen,TX,USA,2233,2233,2233
+MFI,Marshfield Municipal,Marshfield,WI,USA,2234,2234,2234
+MFR,Rogue Valley International,Medford,OR,USA,2235,2235,2235
+MFV,Accomack County,Melfa,VA,USA,2236,2236,2236
+MGC,Michigan City Municipal,Michigan City,IN,USA,2237,2237,2237
+MGJ,Orange Cty,Montgomery,NY,USA,2238,2238,2238
+MGM,Montgomery Regional Apt,Montgomery,AL,USA,2239,2239,2239
+MGR,Moultrie Municipal,Moultrie,GA,USA,2240,2240,2240
+MGW,Morgantown Muni-Walter L. Bill Hart Fld.,Morgantown,WV,USA,2241,2241,2241
+MGY,Dayton Wright Brothers,Dayton,OH,USA,2242,2242,2242
+MHE,Mitchell Municipal,Mitchell,SD,USA,2243,2243,2243
+MHK,Manhattan Regional,Manhattan,KS,USA,2244,2244,2244
+MHL,Marshall Memorial Municipal,Marshall,MO,USA,2245,2245,2245
+MHM,Minchumina,Minchumina,AK,USA,2246,2246,2246
+MHP,Metter Municipal,Metter,GA,USA,2247,2247,2247
+MHR,Sacramento Mather,Sacramento,CA,USA,2248,2248,2248
+MHT,Manchester,Manchester,NH,USA,2249,2249,2249
+MHV,Mojave,Mojave,CA,USA,2250,2250,2250
+MIA,Miami International,Miami,FL,USA,2251,2251,2251
+MIB,Minot AFB,NA,NA,USA,2252,2252,2252
+MIC,Crystal,Minneapolis,MN,USA,2253,2253,2253
+MIE,Delaware County,Muncie,IN,USA,2254,2254,2254
+MIO,Miami Municipal,Miami,OK,USA,2255,2255,2255
+MIT,Shafter-Minter ,Shafter,CA,USA,2256,2256,2256
+MIV,Millville Muni ,Millville,NJ,USA,2257,2257,2257
+MIW,Marshalltown Municipal,Marshalltown,IA,USA,2258,2258,2258
+MJQ,Jackson Municipal,Jackson,MN,USA,2259,2259,2259
+MJX,Robert J. Miller Airpark,Toms River,NJ,USA,2260,2260,2260
+MKA,Miller Municipal,Miller,SD,USA,2261,2261,2261
+MKC,Downtown,Kansas City,MO,USA,2262,2262,2262
+MKE,General Mitchell International,Milwaukee,WI,USA,2263,2263,2263
+MKG,Muskegon County,Muskegon,MI,USA,2264,2264,2264
+MKJ,Mountain Empire,Marion,VA,USA,2265,2265,2265
+MKK,Molokai,Kaunakakai,HI,USA,2266,2266,2266
+MKL,McKellar-Sipes Regional,Jackson,TN,USA,2267,2267,2267
+MKO,Davis ,Muskogee,OK,USA,2268,2268,2268
+MKT,Mankato Regional,Mankato,MN,USA,2269,2269,2269
+MKV,Marksville Municipal,Marksville,LA,USA,2270,2270,2270
+MKY,Marco Island,Marco Island,FL,USA,2271,2271,2271
+MLB,Melbourne International ,Melbourne,FL,USA,2272,2272,2272
+MLC,McAlester Regional,McAlester,OK,USA,2273,2273,2273
+MLE,Millard,Omaha,NE,USA,2274,2274,2274
+MLF,Milford Municipal,Milford,UT,USA,2275,2275,2275
+MLI,Quad City,Moline,IL,USA,2276,2276,2276
+MLJ,Baldwin County,Milledgeville,GA,USA,2277,2277,2277
+MLL,Marshall,Marshall,AK,USA,2278,2278,2278
+MLS,Frank Wiley ,Miles City,MT,USA,2279,2279,2279
+MLT,Millinocket Municipal,Millinocket,ME,USA,2280,2280,2280
+MLU,Monroe Regional,Monroe,LA,USA,2281,2281,2281
+MLY,Manley Hot Springs,Manley Hot Springs,AK,USA,2282,2282,2282
+MMH,Mammoth Yosemite,Mammoth Lakes,CA,USA,2283,2283,2283
+MMI,McMinn County,Athens,TN,USA,2284,2284,2284
+MMK,Meriden-Markham Municipal,Meriden,CT,USA,2285,2285,2285
+MML,Marshall Muni - Ryan ,Marshall,MN,USA,2286,2286,2286
+MMU,Morristown Municipal,Morristown,NJ,USA,2287,2287,2287
+MMV,McMinnville Muni,McMinnville,OR,USA,2288,2288,2288
+MNF,Mountain View,Mountain View,MO,USA,2289,2289,2289
+MNI,Clarendon County,Manning,SC,USA,2290,2290,2290
+MNM,Menominee-Marinette Twin County,Menominee,MI,USA,2291,2291,2291
+MNN,Marion Municipal,Marion,OH,USA,2292,2292,2292
+MNV,Monroe County,Madisonville,TN,USA,2293,2293,2293
+MNZ,Hamilton Municipal,Hamilton,TX,USA,2294,2294,2294
+MO6,Washington Memorial,Washington,MO,USA,2295,2295,2295
+MO85,Lawrence Smith Memorial,Harrisonville,MO,USA,2296,2296,2296
+MOB,Mobile Regional,Mobile,AL,USA,2297,2297,2297
+MOD,Modesto City-County-Harry Sham ,Modesto,CA,USA,2298,2298,2298
+MOP,Mount Pleasant Municipal,Mount Pleasant,MI,USA,2299,2299,2299
+MOR,Moore-Murrell,Morristown,TN,USA,2300,2300,2300
+MOT,Minot International,Minot,ND,USA,2301,2301,2301
+MOU,Mountain Village,Mountain Village,AK,USA,2302,2302,2302
+MOX,Morris Municipal,Morris,MN,USA,2303,2303,2303
+MPE,Philadelphia Municipal,Philadelphia,MS,USA,2304,2304,2304
+MPJ,Petit Jean Park,Morrilton,AR,USA,2305,2305,2305
+MPO,Pocono Mountains Muni,Mount Pocono,PA,USA,2306,2306,2306
+MPR,McPherson,McPherson,KS,USA,2307,2307,2307
+MPV,Edward F Knapp State,Barre-Montpelier,VT,USA,2308,2308,2308
+MPZ,Mount Pleasant Municipal,Mount Pleasant,IA,USA,2309,2309,2309
+MQB,Macomb Municipal,Macomb,IL,USA,2310,2310,2310
+MQI,Dare County Regional,Manteo,NC,USA,2311,2311,2311
+MQJ,Mount Comfort,Indianapolis,IN,USA,2312,2312,2312
+MQT,Marquette County Airport,NA,NA,USA,2313,2313,2313
+MQW,Telfair-Wheeler,McRae,GA,USA,2314,2314,2314
+MQY,Smyrna,Smyrna,TN,USA,2315,2315,2315
+MRB,Eastern Wv Reg/Shephard ,Martinsburg,WV,USA,2316,2316,2316
+MRC,Maury County,Columbia-Mt Pleasant,TN,USA,2317,2317,2317
+MRF,Marfa Municipal,Marfa,TX,USA,2318,2318,2318
+MRH,Michael J. Smith,Beaufort,NC,USA,2319,2319,2319
+MRI,Merrill ,Anchorage,AK,USA,2320,2320,2320
+MRJ,Iowa County,Mineral Point,WI,USA,2321,2321,2321
+MRN,Morganton-Lenoir,Morganton,NC,USA,2322,2322,2322
+MRY,Monterey Peninsula,Monterey,CA,USA,2323,2323,2323
+MSA,Mount Pleasant Municipal,Mount Pleasant,TX,USA,2324,2324,2324
+MSL,Northwest Alabama Regional ,Muscle Shoals,AL,USA,2325,2325,2325
+MSN,Dane County Regional,Madison,WI,USA,2326,2326,2326
+MSO,Missoula International,Missoula,MT,USA,2327,2327,2327
+MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,2328,2328,2328
+MSS,Massena Int'l-Richards ,Massena,NY,USA,2329,2329,2329
+MSV,Sullivan Cty Intl,Monticello,NY,USA,2330,2330,2330
+MSY,New Orleans International ,New Orleans,LA,USA,2331,2331,2331
+MTH,Florida Keys Marathon,Marathon,FL,USA,2332,2332,2332
+MTJ,Montrose Regional,Montrose,CO,USA,2333,2333,2333
+MTM,Metlakatla SPB,Metlakatla,AK,USA,2334,2334,2334
+MTN,Martin State,Baltimore,MD,USA,2335,2335,2335
+MTO,Coles County Memorial,Mattoon-Charleston,IL,USA,2336,2336,2336
+MTP,Montauk,Montauk,NY,USA,2337,2337,2337
+MTV,Blue Ridge,Martinsville,VA,USA,2338,2338,2338
+MTW,Manitowoc County,Manitowoc,WI,USA,2339,2339,2339
+MUE,Waimea-Kohala,Kamuela,HI,USA,2340,2340,2340
+MUT,Muscatine Municipal,Muscatine,IA,USA,2341,2341,2341
+MVC,Monroe County,Monroeville,AL,USA,2342,2342,2342
+MVE,Montevideo-Chippewa County ,Montevideo,MN,USA,2343,2343,2343
+MVI,Monte Vista Muni,Monte Vista,CO,USA,2344,2344,2344
+MVL,Morrisville-Stowe State,Morrisville,VT,USA,2345,2345,2345
+MVM,Machias Valley,Machias,ME,USA,2346,2346,2346
+MVN,Mt Vernon-Outland,Mt. Vernon,IL,USA,2347,2347,2347
+MVY,Marthas Vineyard,Marthas Vineyard,MA,USA,2348,2348,2348
+MWA,Williamson County,Marion,IL,USA,2349,2349,2349
+MWC,Lawrence J Timmerman,Milwaukee,WI,USA,2350,2350,2350
+MWH,Grant County,Moses Lake,WA,USA,2351,2351,2351
+MWK,Mount Airy-Surry County,Mount Airy,NC,USA,2352,2352,2352
+MWL,Mineral Wells Municipal,Mineral Wells,TX,USA,2353,2353,2353
+MWM,Windom Municipal,Windom,MN,USA,2354,2354,2354
+MWO,Hook Field Municipal,Middletown,OH,USA,2355,2355,2355
+MXA,Manila Municipal,Manila,AR,USA,2356,2356,2356
+MXO,Monticello Municipal,Monticello,IA,USA,2357,2357,2357
+MYF,Montgomery ,San Diego,CA,USA,2358,2358,2358
+MYK,May Creek,May Creek,AK,USA,2359,2359,2359
+MYL,McCall,McCall,ID,USA,2360,2360,2360
+MYR,Myrtle Beach International,Myrtle Beach,SC,USA,2361,2361,2361
+MYU,Mekoryuk,Mekoryuk,AK,USA,2362,2362,2362
+MYV,Yuba County,Marysville,CA,USA,2363,2363,2363
+MYZ,Marysville Municipal,Marysville,KS,USA,2364,2364,2364
+MZJ,Pinal Airpark,Marana,AZ,USA,2365,2365,2365
+MZZ,Marion Municipal,Marion,IN,USA,2366,2366,2366
+N00,Maben,Lexington,NY,USA,2367,2367,2367
+N03,Cortland Cty-Chase ,Cortland,NY,USA,2368,2368,2368
+N04,Griswold,Madison,CT,USA,2369,2369,2369
+N07,Lincoln Park,Lincoln Park,NJ,USA,2370,2370,2370
+N10,Perkiomen Valley,Collegeville,PA,USA,2371,2371,2371
+N12,Lakewood,Lakewood,NJ,USA,2372,2372,2372
+N13,Bloomsburg Muni,Bloomsburg,PA,USA,2373,2373,2373
+N14,Flying W,Lumbrerton,NJ,USA,2374,2374,2374
+N23,Sidney Muni,Sidney,NY,USA,2375,2375,2375
+N24,Questa Municipal Nr 2,Questa,NM,USA,2376,2376,2376
+N25,Westport ,"Westport, NY",NY,USA,2377,2377,2377
+N27,Bradford County,Towanda,PA,USA,2378,2378,2378
+N29,Magdalena,Magdalena,NM,USA,2379,2379,2379
+N30,Cherry Ridge,Honesdale,PA,USA,2380,2380,2380
+N35,Punxsutawney Muni,Punxsutawney,PA,USA,2381,2381,2381
+N37,Monticello,Monticello ,NY,USA,2382,2382,2382
+N38,Grand Canyon State,Wellsboro,PA,USA,2383,2383,2383
+N40,Sky Manor ,Pittstown,NJ,USA,2384,2384,2384
+N47,Pottstown Muni,Pottstown,PA,USA,2385,2385,2385
+N51,Solberg-Hunterdon,Readington,NJ,USA,2386,2386,2386
+N53,Stroudsburg-Pocono,East Stroudsburg,PA,USA,2387,2387,2387
+N57,New Garden Flying ,Toughkenamon,PA,USA,2388,2388,2388
+N66,Oneonta Muni,Oneonta,NY,USA,2389,2389,2389
+N67,Wings ,Ambler,PA,USA,2390,2390,2390
+N68,Chambersburg Muni,Chambersburg,PA,USA,2391,2391,2391
+N69,Stormville,Stormville,NY,USA,2392,2392,2392
+N72,Warwick Muni,Warwick,NY,USA,2393,2393,2393
+N73,Red Lion,Vincentown,NJ,USA,2394,2394,2394
+N79,Northumberland Cty,Shamokin,PA,USA,2395,2395,2395
+N81,Hammonton Muni,Hammonton,NJ,USA,2396,2396,2396
+N82,Wurtsboro-Sullivan Cty,Wurtsboro,NY,USA,2397,2397,2397
+N85,Alexandria ,Pittstown,NJ,USA,2398,2398,2398
+N87,Trenton-Robbinsville,Robbinsville,NJ,USA,2399,2399,2399
+N89,Joseph Y. Resnick,Ellenville,NY,USA,2400,2400,2400
+N93,New Golovin,Golovin,AK,USA,2401,2401,2401
+N99,Brandywine,West Chester,PA,USA,2402,2402,2402
+NC14,Rockingham County NC Shiloh,Reidsville,NC,USA,2403,2403,2403
+NC67,Ashe County,West Jefferson,NC,USA,2404,2404,2404
+ND06,Cavalier Municipal,Cavalier,ND,USA,2405,2405,2405
+ND12,Ellendale Municipal,Ellendale,ND,USA,2406,2406,2406
+ND17,Harvey Municipal,Harvey,ND,USA,2407,2407,2407
+ND26,Kenmare Municipal,Kenmare,ND,USA,2408,2408,2408
+ND28,Lakota Municipal,Lakota,ND,USA,2409,2409,2409
+ND29,La Moure Rott Municipal,La Moure (New Site),ND,USA,2410,2410,2410
+ND33,Linton Municipal,Linton,ND,USA,2411,2411,2411
+ND44,Mott Municipal,Mott,ND,USA,2412,2412,2412
+ND66,Washburn Municipal,Washburn,ND,USA,2413,2413,2413
+NEW,Lakefront,New Orleans,LA,USA,2414,2414,2414
+NH12,Plymouth Municipal,Plymouth,NH,USA,2415,2415,2415
+NK03,Kamp ,Durhamville,NY,USA,2416,2416,2416
+NQA,Millington Municipal,Millington,TN,USA,2417,2417,2417
+NRN,Norton Municipal ,Norton,KS,USA,2418,2418,2418
+NUL,Nulato,Nulato,AK,USA,2419,2419,2419
+NVD,Nevada Municipal,Nevada,MO,USA,2420,2420,2420
+NY0,Fulton Cty,Johnstown,NY,USA,2421,2421,2421
+O02,Nervino,Beckwourth,CA,USA,2422,2422,2422
+O05,Rogers ,Chester,CA,USA,2423,2423,2423
+O08,Colusa County,Colusa,CA,USA,2424,2424,2424
+O09,Round Valley,Covelo,CA,USA,2425,2425,2425
+O11,Cherokee Nation,Stilwell,OK,USA,2426,2426,2426
+O15,Turlock Municipal,Turlock,CA,USA,2427,2427,2427
+O16,Garberville,Garberville,CA,USA,2428,2428,2428
+O17,Nevada County  Air Park,Grass Valley,CA,USA,2429,2429,2429
+O19,Kneeland,Eureka,CA,USA,2430,2430,2430
+O21,Hoopa,Hoopa,CA,USA,2431,2431,2431
+O22,Columbia,Columbia,CA,USA,2432,2432,2432
+O24,Lee Vining,Lee Vining,CA,USA,2433,2433,2433
+O26,Lone Pine,Lone Pine,CA,USA,2434,2434,2434
+O27,Oakdale,Oakdale,CA,USA,2435,2435,2435
+O28,Ells Field-Willits Municipal,Willits,CA,USA,2436,2436,2436
+O31,Healdsburg Municipal,Healdsburg,CA,USA,2437,2437,2437
+O32,Reedley Municipal,Reedley,CA,USA,2438,2438,2438
+O35,Hollis Municipal,Hollis,OK,USA,2439,2439,2439
+O37,Haigh ,Orland,CA,USA,2440,2440,2440
+O41,Watts-Woodland,Woodland,CA,USA,2441,2441,2441
+O42,Woodlake,Woodlake,CA,USA,2442,2442,2442
+O43,Yerington Municipal,Yerington,NV,USA,2443,2443,2443
+O45,Hooker Municipal,Hooker,OK,USA,2444,2444,2444
+O46,Weed,Weed,CA,USA,2445,2445,2445
+O47,Prague Municipal,Prague,OK,USA,2446,2446,2446
+O48,Little River,Little River,CA,USA,2447,2447,2447
+O52,Sutter County,Yuba City,CA,USA,2448,2448,2448
+O53,Medford Municipal,Medford,OK,USA,2449,2449,2449
+O54,Lonnie Pool /Weaverville,Weaverville,CA,USA,2450,2450,2450
+O57,Bryant ,Bridgeport,CA,USA,2451,2451,2451
+O59,Cedarville,Cedarville,CA,USA,2452,2452,2452
+O60,Cloverdale Municipal,Cloverdale,CA,USA,2453,2453,2453
+O61,Cameron Airpark,Cameron Park,CA,USA,2454,2454,2454
+O65,Okeene Municipal,Okeene,OK,USA,2455,2455,2455
+O68,Mariposa-Yosemite,Mariposa,CA,USA,2456,2456,2456
+O69,Petaluma Municipal,Petaluma,CA,USA,2457,2457,2457
+O70,Westover Field Amador County,Jackson,CA,USA,2458,2458,2458
+O81,Tulelake Municipal,Tulelake,CA,USA,2459,2459,2459
+O85,Benton ,Redding,CA,USA,2460,2460,2460
+O86,Trinity Center,Trinity Center,CA,USA,2461,2461,2461
+O88,Rio Vista Municipal,Rio Vista,CA,USA,2462,2462,2462
+O89,Fall River Mills,Fall River Mills,CA,USA,2463,2463,2463
+OAJ,Albert J Ellis,Jacksonville,NC,USA,2464,2464,2464
+OAK,Metropolitan Oakland International,Oakland,CA,USA,2465,2465,2465
+OAR,Marina Municipal,Marina,CA,USA,2466,2466,2466
+OBE,Okeechobee County,Okeechobee,FL,USA,2467,2467,2467
+OBU,Kobuk,Kobuk,AK,USA,2468,2468,2468
+OCF,Ocala Regional/Jim Taylor ,Ocala,FL,USA,2469,2469,2469
+OCH,Nacogdoches-A.L. Mangham Jr. Regional,Nacogdoches,TX,USA,2470,2470,2470
+OCQ,Oconto Municipal,Oconto,WI,USA,2471,2471,2471
+OCW,Warren ,Washington,NC,USA,2472,2472,2472
+ODO,Odessa-Schlemeyer ,Odessa,TX,USA,2473,2473,2473
+ODX,Evelyn Sharp ,Ord,NE,USA,2474,2474,2474
+OEB,Branch County Memorial,Coldwater,MI,USA,2475,2475,2475
+OEL,Oakley Municipal,Oakley,KS,USA,2476,2476,2476
+OEO,L. O. Simenstad Municipal,Osceola,WI,USA,2477,2477,2477
+OFK,Karl Stefan Memorial,Norfolk,NE,USA,2478,2478,2478
+OFP,Hanover County Municipal,Richmond,VA,USA,2479,2479,2479
+OGA,Searle ,Ogallala,NE,USA,2480,2480,2480
+OGB,Orangeburg Municipal,Orangeburg,SC,USA,2481,2481,2481
+OGD,Ogden-Hinckley,Ogden,UT,USA,2482,2482,2482
+OGG,Kahului,Kahului,HI,USA,2483,2483,2483
+OGM,Ontonagon County,Ontonagon,MI,USA,2484,2484,2484
+OGS,Ogdensburg Intl,Ogdensburg,NY,USA,2485,2485,2485
+OH17,Henry County,Napoleon,OH,USA,2486,2486,2486
+OH21,Huron County,Norwalk,OH,USA,2487,2487,2487
+OH30,Put In Bay,Put In Bay,OH,USA,2488,2488,2488
+OIC,Lt Warren Eaton,Norwich,NY,USA,2489,2489,2489
+OIN,Oberlin Municipal,Oberlin,KS,USA,2490,2490,2490
+OJC,Johnson County Executive,Olathe,KS,USA,2491,2491,2491
+OKB,Oceanside Municipal,Oceanside,CA,USA,2492,2492,2492
+OKC,Will Rogers World,Oklahoma City,OK,USA,2493,2493,2493
+OKK,Kokomo Municipal,Kokomo,IN,USA,2494,2494,2494
+OKM,Okmulgee Municipal,Okmulgee,OK,USA,2495,2495,2495
+OKS,Garden County,Oshkosh,NE,USA,2496,2496,2496
+OKV,Winchester Regional,Winchester,VA,USA,2497,2497,2497
+OKZ,Kaolin ,Sandersville,GA,USA,2498,2498,2498
+OLD,Dewitt Field-Old Town Municipal,Old Town,ME,USA,2499,2499,2499
+OLE,Olean Muni,Olean,NY,USA,2500,2500,2500
+OLF,L M Clayton,Wolf Point,MT,USA,2501,2501,2501
+OLM,Olympia,Olympia,WA,USA,2502,2502,2502
+OLS,Nogales International,Nogales,AZ,USA,2503,2503,2503
+OLU,Columbus Municipal,Columbus,NE,USA,2504,2504,2504
+OLV,Olive Branch,Olive Branch,MS,USA,2505,2505,2505
+OLY,Olney-Noble,Olney-Noble,IL,USA,2506,2506,2506
+OLZ,Oelwein Municipal,Oelwein,IA,USA,2507,2507,2507
+OMA,Eppley Airfield,Omaha,NE,USA,2508,2508,2508
+OME,Nome,Nome,AK,USA,2509,2509,2509
+OMH,Orange County,Orange,VA,USA,2510,2510,2510
+OMK,Omak,Omak,WA,USA,2511,2511,2511
+OMN,Ormond Beach Municipal,Ormond Beach,FL,USA,2512,2512,2512
+ONA,Winona Muni-Max Conrad,Winona,MN,USA,2513,2513,2513
+ONL,O Neill Municipal,O Neill,NE,USA,2514,2514,2514
+ONM,Socorro Municipal,Socorro,NM,USA,2515,2515,2515
+ONO,Ontario Muni,Ontario,OR,USA,2516,2516,2516
+ONP,Newport Muni,Newport,OR,USA,2517,2517,2517
+ONT,Ontario International,Ontario,CA,USA,2518,2518,2518
+ONY,Olney Municipal,Olney,TX,USA,2519,2519,2519
+ONZ,Grosse Ile Municipal,Detroit - Grosse Ile,MI,USA,2520,2520,2520
+OOA,Oskaloosa Municipal,Oskaloosa,IA,USA,2521,2521,2521
+OOH,Hoonah SPB,Hoonah,AK,USA,2522,2522,2522
+OOK,Toksook Bay,Toksook Bay,AK,USA,2523,2523,2523
+OPF,Opa-Locka ,Miami,FL,USA,2524,2524,2524
+OPL,St Landry Parish - Ahart ,Opelousas,LA,USA,2525,2525,2525
+OPN,Thomaston-Upton County,Thomaston,GA,USA,2526,2526,2526
+OQU,Quonset State,North Kingstown,RI,USA,2527,2527,2527
+OQW,Maquoketa Municipal,Maquoketa,IA,USA,2528,2528,2528
+OR33,Boardman,Boardman,OR,USA,2529,2529,2529
+ORB,Orr Regional,Orr,MN,USA,2530,2530,2530
+ORC,Orange City Municipal,Orange City,IA,USA,2531,2531,2531
+ORD,Chicago O'Hare International,Chicago,IL,USA,2532,2532,2532
+ORE,Orange Municipal,Orange,MA,USA,2533,2533,2533
+ORF,Norfolk International,Norfolk,VA,USA,2534,2534,2534
+ORG,Orange County,Orange,TX,USA,2535,2535,2535
+ORH,Worcester Regional,Worcester,MA,USA,2536,2536,2536
+ORI,Port Lions,Port Lions,AK,USA,2537,2537,2537
+ORL,Executive,Orlando,FL,USA,2538,2538,2538
+ORS,Orcas Island,Eastsound,WA,USA,2539,2539,2539
+ORT,Northway,Northway,AK,USA,2540,2540,2540
+ORV,Robert(Bob) Curtis Memorial,Noorvik,AK,USA,2541,2541,2541
+OSC,Oscoda - Wurtsmith,Oscoda,MI,USA,2542,2542,2542
+OSH,Wittman Regional,Oshkosh,WI,USA,2543,2543,2543
+OSU,Ohio State University,Columbus,OH,USA,2544,2544,2544
+OSX,Kosciusko-Attala County,Kosciusko,MS,USA,2545,2545,2545
+OTG,Worthington Municipal,Worthington,MN,USA,2546,2546,2546
+OTH,North Bend Muni,North Bend,OR,USA,2547,2547,2547
+OTM,Ottumwa Industrial,Ottumwa,IA,USA,2548,2548,2548
+OTZ,Ralph Wien Memorial,Kotzebue,AK,USA,2549,2549,2549
+OUN,University of Oklahoma Westheimer,Norman,OK,USA,2550,2550,2550
+OVE,Oroville Municipal,Oroville,CA,USA,2551,2551,2551
+OVO,North Vernon,North Vernon,IN,USA,2552,2552,2552
+OVS,Boscobel,Boscobel,WI,USA,2553,2553,2553
+OWA,Owatonna Degner Regional,Owatonna,MN,USA,2554,2554,2554
+OWB,Owensboro-Daviess County,Owensboro,KY,USA,2555,2555,2555
+OWD,Norwood Memorial,Norwood,MA,USA,2556,2556,2556
+OWI,Ottawa Municipal,Ottawa,KS,USA,2557,2557,2557
+OWK,Central Maine ,Norridgewock,ME,USA,2558,2558,2558
+OWX,Putnam County,Ottawa,OH,USA,2559,2559,2559
+OXB,Ocean City,Ocean City,MD,USA,2560,2560,2560
+OXC,Waterbury-Oxford,Oxford,CT,USA,2561,2561,2561
+OXD,Miami University,Oxford,OH,USA,2562,2562,2562
+OXI,Starke County,Knox,IN,USA,2563,2563,2563
+OXR,Oxnard,Oxnard,CA,USA,2564,2564,2564
+OXV,Knoxville Municipal,Knoxville,IA,USA,2565,2565,2565
+OYM,St Marys Muni,St Marys,PA,USA,2566,2566,2566
+OZA,Ozona Municipal,Ozona,TX,USA,2567,2567,2567
+OZW,Livingston County,Howell,MI,USA,2568,2568,2568
+P01,Ajo Municipal,Ajo,AZ,USA,2569,2569,2569
+P04,Bisbee Municipal,Bisbee,AZ,USA,2570,2570,2570
+P08,Coolidge Municipal,Coolidge,AZ,USA,2571,2571,2571
+P13,San Carlos Apache,Globe,AZ,USA,2572,2572,2572
+P14,Holbrook Municipal,Holbrook,AZ,USA,2573,2573,2573
+P20,Avi Suquilla,Parker,AZ,USA,2574,2574,2574
+P32,H.A. Clark Memorial ,Williams,AZ,USA,2575,2575,2575
+P33,Cochise County,Willcox,AZ,USA,2576,2576,2576
+P45,Mount Pleasant-Scottdale,Mount Pleasant,PA,USA,2577,2577,2577
+P52,Cottonwood,Cottonwood,AZ,USA,2578,2578,2578
+P53,Rostraver,Monongahela,PA,USA,2579,2579,2579
+PAE,Snohomish County ,Everett,WA,USA,2580,2580,2580
+PAH,Barkley Regional,Paducah,KY,USA,2581,2581,2581
+PAK,Port Allen,Hanapepe,HI,USA,2582,2582,2582
+PAN,Payson,Payson,AZ,USA,2583,2583,2583
+PAO,Palo Alto Arpt of Santa Clara Co,Palo Alto,CA,USA,2584,2584,2584
+PAQ,Palmer Municipal,Palmer,AK,USA,2585,2585,2585
+PBF,Grider ,Pine Bluff,AR,USA,2586,2586,2586
+PBH,Price County,Phillips,WI,USA,2587,2587,2587
+PBI,Palm Beach International,West Palm Beach,FL,USA,2588,2588,2588
+PBV,St. George,St. George,AK,USA,2589,2589,2589
+PCK,Porcupine Creek,Porcupine Creek,AK,USA,2590,2590,2590
+PCM,Plant City Municipal,Plant City,FL,USA,2591,2591,2591
+PCW,Carl R. Keller ,Port Clinton,OH,USA,2592,2592,2592
+PCZ,Waupaca Municipal,Waupaca,WI,USA,2593,2593,2593
+PDC,Prairie Du Chien Municipal,Prairie Du Chien,WI,USA,2594,2594,2594
+PDK,Dekalb-Peachtree,Atlanta,GA,USA,2595,2595,2595
+PDT,Eastern Oregon Regional At Pendleton,Pendleton,OR,USA,2596,2596,2596
+PDX,Portland Intl,Portland,OR,USA,2597,2597,2597
+PEA,Pella Municipal,Pella,IA,USA,2598,2598,2598
+PEC,Pelican SPB,Pelican,AK,USA,2599,2599,2599
+PEO,Penn Yan,Penn Yan,NY,USA,2600,2600,2600
+PEQ,Pecos Municipal,Pecos City,TX,USA,2601,2601,2601
+PEZ,Pleasanton Municipal,Pleasanton,TX,USA,2602,2602,2602
+PFN,Panama City-Bay County International,Panama City,FL,USA,2603,2603,2603
+PGA,Page Municipal,Page,AZ,USA,2604,2604,2604
+PGD,Charlotte County,Punta Gorda,FL,USA,2605,2605,2605
+PGM,Port Graham,Port Graham,AK,USA,2606,2606,2606
+PGR,Kirk ,Paragould,AR,USA,2607,2607,2607
+PGV,Pitt-Greenville,Greenville,NC,USA,2608,2608,2608
+PHD,Harry Clever ,New Philadelphia,OH,USA,2609,2609,2609
+PHF,Newport News/Williamsburg International,Newport News,VA,USA,2610,2610,2610
+PHG,Phillipsburg Municipal,Phillipsburg,KS,USA,2611,2611,2611
+PHH,Andrews Municipal,Andrews,SC,USA,2612,2612,2612
+PHK,Palm Beach County Glades,Pahokee,FL,USA,2613,2613,2613
+PHL,Philadelphia Intl,Philadelphia,PA,USA,2614,2614,2614
+PHN,St Clair County International,Port Huron,MI,USA,2615,2615,2615
+PHO,Point Hope,Point Hope,AK,USA,2616,2616,2616
+PHP,Philip,Philip,SD,USA,2617,2617,2617
+PHT,Henry County,Paris,TN,USA,2618,2618,2618
+PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,2619,2619,2619
+PIA,Greater Peoria Regional,Peoria,IL,USA,2620,2620,2620
+PIB,Hattiesburg-Laurel Regional,Hattiesburg-Laurel,MS,USA,2621,2621,2621
+PIE,St. Petersburg-Clearwater International,St. Petersburg,FL,USA,2622,2622,2622
+PIH,Pocatello Regional,Pocatello,ID,USA,2623,2623,2623
+PIL,Port Isabel-Cameron County,Port Isabel,TX,USA,2624,2624,2624
+PIM,Callaway Gardens-Harris County,Pine Mountain,GA,USA,2625,2625,2625
+PIR,Pierre Regional,Pierre,SD,USA,2626,2626,2626
+PIT,Pittsburgh International,Pittsburgh,PA,USA,2627,2627,2627
+PIZ,Point Lay Dew Station,Point Lay,AK,USA,2628,2628,2628
+PJY,Pinckneyville-Duquoin,Pinckneyville-Duquoin,IL,USA,2629,2629,2629
+PKA,Napaskiak,Napaskiak,AK,USA,2630,2630,2630
+PKB,Wood Cty/Gill Robb Wilson ,Parkersburg,WV,USA,2631,2631,2631
+PKD,Park Rapids Municipal,Park Rapids,MN,USA,2632,2632,2632
+PKF,Park Falls Municipal,Park Falls,WI,USA,2633,2633,2633
+PLB,Clinton Cty,Plattsburgh,NY,USA,2634,2634,2634
+PLD,Portland Municipal,Portland,IN,USA,2635,2635,2635
+PLN,Pellston Regional  of Emmet County,Pellston,MI,USA,2636,2636,2636
+PLR,St Clair County,Pell City,AL,USA,2637,2637,2637
+PMB,Pembina Municipal,Pembina,ND,USA,2638,2638,2638
+PMD,Palmdale Production Flight,Palmdale,CA,USA,2639,2639,2639
+PMH,Greater Portsmouth Regional,Portsmouth,OH,USA,2640,2640,2640
+PMP,Pompano Beach Airpark,Pompano Beach,FL,USA,2641,2641,2641
+PMV,Plattsmouth Municipal,Plattsmouth,NE,USA,2642,2642,2642
+PMX,Metropolitan,Palmer,MA,USA,2643,2643,2643
+PMZ,Plymouth Municipal,Plymouth,NC,USA,2644,2644,2644
+PNA,Ralph Wenz ,Pinedale,WY,USA,2645,2645,2645
+PNC,Ponca City Municipal,Ponca City,OK,USA,2646,2646,2646
+PNE,Northeast Philadelphia,Philadelphia,PA,USA,2647,2647,2647
+PNM,Princeton Municipal,Princeton,MN,USA,2648,2648,2648
+PNN,Princeton Municipal,Princeton,ME,USA,2649,2649,2649
+PNP,Pilot Point,Pilot Point,AK,USA,2650,2650,2650
+PNS,Pensacola Regional,Pensacola,FL,USA,2651,2651,2651
+POC,Brackett ,La Verne,CA,USA,2652,2652,2652
+POF,Poplar Bluff Municipal,Poplar Bluff,MO,USA,2653,2653,2653
+POH,Pocahontas Municipal,Pocahontas,IA,USA,2654,2654,2654
+POU,Dutchess Cty,Poughkeepsie,NY,USA,2655,2655,2655
+POY,Powell Muni,Powell,WY,USA,2656,2656,2656
+PPA,Perry Lefors ,Pampa,TX,USA,2657,2657,2657
+PPC,Prospect Creek,Prospect Creek,AK,USA,2658,2658,2658
+PPF,Tri City,Parsons,KS,USA,2659,2659,2659
+PPG,Pago Pago International,Pago Pago,AS,USA,2660,2660,2660
+PPO,La Porte Municipal,La Porte,IN,USA,2661,2661,2661
+PPQ,Pittsfield Penstone Municipal,Pittsfield,IL,USA,2662,2662,2662
+PQI,Northern Maine Regional,Presque Isle,ME,USA,2663,2663,2663
+PQL,Trent Lott International,Pascagoula,MS,USA,2664,2664,2664
+PQN,Pipestone Municipal,Pipestone,MN,USA,2665,2665,2665
+PR03,Fajardo Harbor Seaplane Base,Fajardo,PR,USA,2666,2666,2666
+PRB,Paso Robles Municipal,Paso Robles,CA,USA,2667,2667,2667
+PRC,Ernest A. Love ,Prescott,AZ,USA,2668,2668,2668
+PRG,Edgar County,Paris,IL,USA,2669,2669,2669
+PRN,Greenville Municipal,Greenville,AL,USA,2670,2670,2670
+PRO,Perry Municipal,Perry,IA,USA,2671,2671,2671
+PRX,Cox ,Paris,TX,USA,2672,2672,2672
+PSB,Mid-State,Philipsburg,PA,USA,2673,2673,2673
+PSC,Tri-Cities,Pasco,WA,USA,2674,2674,2674
+PSE,Mercedita,Ponce,PR,USA,2675,2675,2675
+PSF,Pittsfield Municipal,Pittsfield,MA,USA,2676,2676,2676
+PSG,James C. Johnson Petersburg,Petersburg,AK,USA,2677,2677,2677
+PSK,New River Valley,Dublin,VA,USA,2678,2678,2678
+PSM,Pease International Tradeport,Portsmouth,NH,USA,2679,2679,2679
+PSN,Palestine Municipal,Palestine,TX,USA,2680,2680,2680
+PSP,Palm Springs International,Palm Springs,CA,USA,2681,2681,2681
+PSX,Palacios Municipal,Palacios,TX,USA,2682,2682,2682
+PTB,Dinwiddie County,Petersburg,VA,USA,2683,2683,2683
+PTD,Potsdam Muni-Damon ,Potsdam,NY,USA,2684,2684,2684
+PTH,Port Heiden,Port Heiden,AK,USA,2685,2685,2685
+PTK,Oakland-Pontiac,Pontiac,MI,USA,2686,2686,2686
+PTN,Harry P. Williams Memorial,Patterson,LA,USA,2687,2687,2687
+PTS,Atkinson Municipal,Pittsburg,KS,USA,2688,2688,2688
+PTT,Pratt Industrial,Pratt,KS,USA,2689,2689,2689
+PTU,Platinum,Platinum,AK,USA,2690,2690,2690
+PTV,Porterville Municipal,Porterville,CA,USA,2691,2691,2691
+PTW,Pottstown Limerick,Pottstown,PA,USA,2692,2692,2692
+PUB,Pueblo Memorial,Pueblo,CO,USA,2693,2693,2693
+PUC,Carbon County,Price,UT,USA,2694,2694,2694
+PUW,Pullman/Moscow Regional,"Pullman/Moscow,ID",WA,USA,2695,2695,2695
+PVB,Platteville Municipal,Platteville,WI,USA,2696,2696,2696
+PVC,Provincetown Municipal,Provincetown,MA,USA,2697,2697,2697
+PVD,Theodore F Green State,Providence,RI,USA,2698,2698,2698
+PVF,Placerville,Placerville,CA,USA,2699,2699,2699
+PVG,Hampton Roads Executive,Portsmouth,VA,USA,2700,2700,2700
+PVJ,Pauls Valley Municipal,Pauls Valley,OK,USA,2701,2701,2701
+PVU,Provo Muni,Provo,UT,USA,2702,2702,2702
+PVW,Hale County,Plainview,TX,USA,2703,2703,2703
+PWA,Wiley Post,Oklahoma City,OK,USA,2704,2704,2704
+PWC,Pine River Regional,Pine River,MN,USA,2705,2705,2705
+PWD,Sher-Wood,Plentywood,MT,USA,2706,2706,2706
+PWG,McGregor Exectuive ,Waco,TX,USA,2707,2707,2707
+PWK,Palwaukee,Chicago/Wheeling/Prospect Heights,IL,USA,2708,2708,2708
+PWM,Portland International Jetport,Portland,ME,USA,2709,2709,2709
+PWT,Bremerton National,Bremerton,WA,USA,2710,2710,2710
+PXE,Perry-Houston Couty,Perry,GA,USA,2711,2711,2711
+PYG,Pageland,Pageland,SC,USA,2712,2712,2712
+PYM,Plymouth Municipal,Plymouth,MA,USA,2713,2713,2713
+PYX,Perryton Ochiltree County,Perryton,TX,USA,2714,2714,2714
+PZQ,Presque Isle County,Rogers City,MI,USA,2715,2715,2715
+Q00,Littlefield Municipal,Littlefield,TX,USA,2716,2716,2716
+Q06,City of Tulia/Swisher County Municipal,Tulia,TX,USA,2717,2717,2717
+Q14,San Juan Pueblo,Espanola,NM,USA,2718,2718,2718
+Q16,Reserve,Reserve,NM,USA,2719,2719,2719
+Q17,Boonville,Boonville,CA,USA,2720,2720,2720
+Q21,Brownsville,Brownsville,CA,USA,2721,2721,2721
+Q24,Levelland Municipal,Levelland,TX,USA,2722,2722,2722
+Q25,Dinsmore,Dinsmore,CA,USA,2723,2723,2723
+Q26,Terry County,Brownfield,TX,USA,2724,2724,2724
+Q31,Sequoia ,Visalia,CA,USA,2725,2725,2725
+Q34,Portales Municipal,Portales,NM,USA,2726,2726,2726
+Q35,Springerville Babbitt ,Springerville,AZ,USA,2727,2727,2727
+Q37,Carrizozo Municipal,Carrizozo,NM,USA,2728,2728,2728
+Q41,Floydada Municipal,Floydada,TX,USA,2729,2729,2729
+Q42,Springer Municipal,Springer,NM,USA,2730,2730,2730
+Q44,Beaver Municipal,Beaver,OK,USA,2731,2731,2731
+Q49,Firebaugh,Firebaugh,CA,USA,2732,2732,2732
+Q53,Franklin ,Franklin,CA,USA,2733,2733,2733
+Q55,Dimmitt Municipal,Dimmitt,TX,USA,2734,2734,2734
+Q58,Santa Rosa Municipal,Santa Rosa,NM,USA,2735,2735,2735
+Q61,Georgetown,Georgetown,CA,USA,2736,2736,2736
+Q68,Pine Mountain Lake,Groveland,CA,USA,2737,2737,2737
+Q72,Hayfork,Hayfork,CA,USA,2738,2738,2738
+Q84,Mendota,Mendota,CA,USA,2739,2739,2739
+Q88,Paradise Skypark,Paradise,CA,USA,2740,2740,2740
+Q94,Rio Linda,Rio Linda,CA,USA,2741,2741,2741
+Q95,Ruth,Ruth,CA,USA,2742,2742,2742
+Q99,South County  of Santa Clara Co,San Martin,CA,USA,2743,2743,2743
+RAC,John H Batten ,Racine,WI,USA,2744,2744,2744
+RAL,Riverside Municipal,Riverside,CA,USA,2745,2745,2745
+RAP,Rapid City Regional,Rapid City,SD,USA,2746,2746,2746
+RBD,Redbird,Dallas,TX,USA,2747,2747,2747
+RBE,Bassett Municipal,Bassett,NE,USA,2748,2748,2748
+RBG,Roseburg Regional,Roseburg,OR,USA,2749,2749,2749
+RBL,Red Bluff Municipal,Red Bluff,CA,USA,2750,2750,2750
+RBW,Walterboro Municipal,Walterboro,SC,USA,2751,2751,2751
+RBY,Ruby,Ruby,AK,USA,2752,2752,2752
+RCA,Ellsworth AFB,NA,NA,USA,2753,2753,2753
+RCR,Fulton County,Rochester,IN,USA,2754,2754,2754
+RCX,Rusk County,Ladysmith,WI,USA,2755,2755,2755
+RDD,Redding Municipal,Redding,CA,USA,2756,2756,2756
+RDG,"Reading Muni,Gen Carl A Spaatz",Reading,PA,USA,2757,2757,2757
+RDK,Red Oak Municipal,Red Oak,IA,USA,2758,2758,2758
+RDM,Roberts ,Redmond,OR,USA,2759,2759,2759
+RDR,Grand Forks AFB,NA,NA,USA,2760,2760,2760
+RDU,Raleigh-Durham International,Raleigh,NC,USA,2761,2761,2761
+RDV,Red Devil,Red Devil,AK,USA,2762,2762,2762
+RED,Red Lodge,Red Lodge,MT,USA,2763,2763,2763
+RFD,Greater Rockford,Rockford,IL,USA,2764,2764,2764
+RFG,Refugio-Rooke ,Refugio,TX,USA,2765,2765,2765
+RGK,Red Wing Municipal,Red Wing,MN,USA,2766,2766,2766
+RHI,Rhinelander-Oneida County,Rhinelander,WI,USA,2767,2767,2767
+RHV,Reid-Hillview of Santa Clara Co,San Jose,CA,USA,2768,2768,2768
+RIC,Richmond International,Richmond,VA,USA,2769,2769,2769
+RID,Richmond Municipal,Richmond,IN,USA,2770,2770,2770
+RIF,Richfield Muni,Richfield,UT,USA,2771,2771,2771
+RIL,Garfield County Regional,Rifle,CO,USA,2772,2772,2772
+RIU,Rancho Murieta,Rancho Murieta,CA,USA,2773,2773,2773
+RIV,March ,Riverside,CA,USA,2774,2774,2774
+RIW,Riverton Regional,Riverton,WY,USA,2775,2775,2775
+RKD,Knox County Regional,Rockland,ME,USA,2776,2776,2776
+RKP,Aransas County,Rockport,TX,USA,2777,2777,2777
+RKR,Robert S Kerr,Poteau,OK,USA,2778,2778,2778
+RKS,Rock Springs-Sweetwater County,Rock Springs,WY,USA,2779,2779,2779
+RKW,Rockwood Municipal,Rockwood,TN,USA,2780,2780,2780
+RLD,Richland,Richland,WA,USA,2781,2781,2781
+RME,Griffis Airpark,Rome,NY,USA,2782,2782,2782
+RMG,Richard B Russell,Rome,GA,USA,2783,2783,2783
+RMP,Rampart,Rampart,AK,USA,2784,2784,2784
+RMY,Brooks ,Marshall,MI,USA,2785,2785,2785
+RNC,Warren County Memorial,McMinnville,TN,USA,2786,2786,2786
+RNH,New Richmond Municipal,New Richmond,WI,USA,2787,2787,2787
+RNM,Ramona,Ramona,CA,USA,2788,2788,2788
+RNO,Reno/Tahoe International,Reno,NV,USA,2789,2789,2789
+RNT,Renton Municipal,Renton,WA,USA,2790,2790,2790
+RNV,Cleveland Municipal,Cleveland,MS,USA,2791,2791,2791
+ROA,Roanoke Regional/ Woodrum ,Roanoke,VA,USA,2792,2792,2792
+ROC,Greater Rochester Int'l,Rochester,NY,USA,2793,2793,2793
+ROG,Rogers Municipal-Carter ,Rogers,AR,USA,2794,2794,2794
+ROS,Rush City Regional,Rush City,MN,USA,2795,2795,2795
+ROW,Roswell Industrial Air Center,Roswell,NM,USA,2796,2796,2796
+ROX,Roseau Municipal,Roseau,MN,USA,2797,2797,2797
+RPB,Belleville Municipal,Belleville,KS,USA,2798,2798,2798
+RPD,Rice Lake Regional-Carl's ,Rice Lake,WI,USA,2799,2799,2799
+RPX,Roundup,Roundup,MT,USA,2800,2800,2800
+RQB,Roben-Hood,Big Rapids,MI,USA,2801,2801,2801
+RQE,Window Rock,Window Rock,AZ,USA,2802,2802,2802
+RRL,Merrill Municipal,Merrill,WI,USA,2803,2803,2803
+RRT,Warroad Intl Swede Carlson ,Warroad,MN,USA,2804,2804,2804
+RSH,Russian Mission,Russian Mission,AK,USA,2805,2805,2805
+RSL,Russell Municipal,Russell,KS,USA,2806,2806,2806
+RSN,Ruston Regional,Ruston,LA,USA,2807,2807,2807
+RST,Rochester International,Rochester,MN,USA,2808,2808,2808
+RSV,Robinson Municipal,Robinson,IL,USA,2809,2809,2809
+RSW,Southwest Florida International,Ft. Myers,FL,USA,2810,2810,2810
+RTN,Raton Municipal/Crews ,Raton,NM,USA,2811,2811,2811
+RUE,Russellville Municipal,Russellville,AR,USA,2812,2812,2812
+RUG,Rugby Municipal,Rugby,ND,USA,2813,2813,2813
+RUQ,Rowan County,Salisbury,NC,USA,2814,2814,2814
+RUT,Rutland State,Rutland,VT,USA,2815,2815,2815
+RVJ,Reidsville,Reidsville,GA,USA,2816,2816,2816
+RVL,Mifflin Cty,Reedsville,PA,USA,2817,2817,2817
+RVN,Hawkins County,Rogersville,TN,USA,2818,2818,2818
+RVS,"Richard Lloyd Jones, Jr.",Tulsa,OK,USA,2819,2819,2819
+RWF,Redwood Falls Muni,Redwood Falls,MN,USA,2820,2820,2820
+RWI,Rocky Mount Wilson,Rocky Mount,NC,USA,2821,2821,2821
+RWL,Rawlins Muni,Rawlins,WY,USA,2822,2822,2822
+RWN,Arens ,Winamac,IN,USA,2823,2823,2823
+RXE,Rexburg-Madison County,Rexburg,ID,USA,2824,2824,2824
+RYN,Ryan ,Tucson,AZ,USA,2825,2825,2825
+RYV,Watertown Municipal,Watertown,WI,USA,2826,2826,2826
+RYY,Cobb County-McCollum ,Marietta,GA,USA,2827,2827,2827
+RZL,Jasper County,Rensselaer,IN,USA,2828,2828,2828
+RZN,Burnett County,Siren,WI,USA,2829,2829,2829
+RZT,Ross County,Chillicothe,OH,USA,2830,2830,2830
+RZZ,Halifax County,Roanoke Rapids,NC,USA,2831,2831,2831
+S01,Conrad,Conrad,MT,USA,2832,2832,2832
+S03,Ashland Muni-Sumner Parker ,Ashland,OR,USA,2833,2833,2833
+S05,Bandon State,Bandon,OR,USA,2834,2834,2834
+S07,Bend Muni,Bend,OR,USA,2835,2835,2835
+S10,Chelan Muni,Chelan,WA,USA,2836,2836,2836
+S12,Albany Municipal,Albany,OR,USA,2837,2837,2837
+S18,Forks,Forks,WA,USA,2838,2838,2838
+S21,Sunriver,Sunriver,OR,USA,2839,2839,2839
+S23,Ione Municipal,Ione,WA,USA,2840,2840,2840
+S24,Sandusky Co,Fremont,OH,USA,2841,2841,2841
+S25,Watford City Municipal,Watford City,ND,USA,2842,2842,2842
+S27,Kalispell City,Kalispell,MT,USA,2843,2843,2843
+S28,International Peace Garden,Dunseith,ND,USA,2844,2844,2844
+S30,Lebanon State,Lebanon,OR,USA,2845,2845,2845
+S31,Lopez Island,Lopez,WA,USA,2846,2846,2846
+S32,Cooperstown Municipal,Cooperstown,ND,USA,2847,2847,2847
+S33,City-County,Madras,OR,USA,2848,2848,2848
+S34,Plains,Plains,MT,USA,2849,2849,2849
+S39,Prineville,Prineville,OR,USA,2850,2850,2850
+S40,Prosser,Prosser,WA,USA,2851,2851,2851
+S43,Harvey ,Snohomish,WA,USA,2852,2852,2852
+S45,Siletz Bay State,Siletz Bay (Gleneden Beach),OR,USA,2853,2853,2853
+S47,Tillamook,Tillamook,OR,USA,2854,2854,2854
+S50,Auburn Municipal,Auburn,WA,USA,2855,2855,2855
+S52,Methow Valley State,Winthrop,WA,USA,2856,2856,2856
+S59,Libby,Libby,MT,USA,2857,2857,2857
+S60,Kenmore Air Harbor Inc,Kenmore,WA,USA,2858,2858,2858
+S64,Stanford,Stanford,MT,USA,2859,2859,2859
+S66,Homedale Municipal,Homedale,ID,USA,2860,2860,2860
+S67,Nampa Muni,Nampa,ID,USA,2861,2861,2861
+S68,Orofino Municipal,Orofino,ID,USA,2862,2862,2862
+S69,Lincoln,Lincoln,MT,USA,2863,2863,2863
+S70,Othello Muni,Othello,WA,USA,2864,2864,2864
+S71,Edgar G Obie,Chinook,MT,USA,2865,2865,2865
+S72,St Maries Municipal,St Maries,ID,USA,2866,2866,2866
+S73,Kamiah Municipal,Kamiah,ID,USA,2867,2867,2867
+S80,Idaho County,Grangeville,ID,USA,2868,2868,2868
+S83,Shoshone County,Kellogg,ID,USA,2869,2869,2869
+S85,Big Sky ,Culbertson,MT,USA,2870,2870,2870
+S87,Weiser Municipal,Weiser,ID,USA,2871,2871,2871
+S89,Craigmont Municipal,Craigmont,ID,USA,2872,2872,2872
+S93,Cle Elum Municipal,Cle Elum,WA,USA,2873,2873,2873
+S94,Whitman County Memorial,Colfax,WA,USA,2874,2874,2874
+S97,Anderson ,Brewster,WA,USA,2875,2875,2875
+SAA,Shively ,Saratoga,WY,USA,2876,2876,2876
+SAC,Sacramento Executive,Sacramento,CA,USA,2877,2877,2877
+SAD,Safford Regional,Safford,AZ,USA,2878,2878,2878
+SAF,Santa Fe Municipal,Santa Fe,NM,USA,2879,2879,2879
+SAN,San Diego International-Lindbergh ,San Diego,CA,USA,2880,2880,2880
+SAR,Sparta Community-Hunter ,Sparta,IL,USA,2881,2881,2881
+SAT,San Antonio International,San Antonio,TX,USA,2882,2882,2882
+SAV,Savannah International,Savannah,GA,USA,2883,2883,2883
+SAW,Sawyer,Gwinn,MI,USA,2884,2884,2884
+SAZ,Staples Municipal,Staples,MN,USA,2885,2885,2885
+SBA,Santa Barbara Municipal,Santa Barbara,CA,USA,2886,2886,2886
+SBD,San Bernardino International,San Bernardino,CA,USA,2887,2887,2887
+SBM,Sheboygan County Memorial,Sheboygan,WI,USA,2888,2888,2888
+SBN,South Bend Regional,South Bend,IN,USA,2889,2889,2889
+SBO,Emanuel County,Swainsboro,GA,USA,2890,2890,2890
+SBP,San Luis Obispo Co-McChesney ,San Luis Obispo,CA,USA,2891,2891,2891
+SBS,Steamboat Springs,Steamboat Springs,CO,USA,2892,2892,2892
+SBU,Blue Earth Municipal,Blue Earth,MN,USA,2893,2893,2893
+SBX,Shelby,Shelby,MT,USA,2894,2894,2894
+SBY,Salisbury-Ocean City: Wicomico Regional,Salisbury,MD,USA,2895,2895,2895
+SCB,Scribner State,Scribner,NE,USA,2896,2896,2896
+SCC,Deadhorse,Deadhorse,AK,USA,2897,2897,2897
+SCD,Merkel Field Sylacauga Municipal ,Sylacauga,AL,USA,2898,2898,2898
+SCE,University Park,NA,NA,USA,2899,2899,2899
+SCH,Schenectady Cty,Schenectady,NY,USA,2900,2900,2900
+SCK,Stockton Metro,Stockton,CA,USA,2901,2901,2901
+SCM,Scammon Bay,Scammon Bay,AK,USA,2902,2902,2902
+SCX,Scott Municipal,Oneida,TN,USA,2903,2903,2903
+SD07,Bison Municipal,Bison,SD,USA,2904,2904,2904
+SD10,Canton Municipal,Canton,SD,USA,2905,2905,2905
+SD12,Wilder,De Smet,SD,USA,2906,2906,2906
+SD16,Eureka Municipal,Eureka,SD,USA,2907,2907,2907
+SD18,Flandreau Municipal,Flandreau,SD,USA,2908,2908,2908
+SD22,Hoven Municipal,Hoven,SD,USA,2909,2909,2909
+SD28,McLaughlin Municipal,McLaughlin,SD,USA,2910,2910,2910
+SD32,Murdo Municipal,Murdo,SD,USA,2911,2911,2911
+SD33,Parkston Municipal,Parkston,SD,USA,2912,2912,2912
+SD34,Presho Municipal ,Presho,SD,USA,2913,2913,2913
+SDA,Shenandoah Municipal,Shenandoah,IA,USA,2914,2914,2914
+SDF,Louisville International-Standiford ,Louisville,KY,USA,2915,2915,2915
+SDL,Scottsdale,Scottsdale,AZ,USA,2916,2916,2916
+SDM,Brown  Municipal,San Diego,CA,USA,2917,2917,2917
+SDP,Sand Point Municipal,Sand Point,AK,USA,2918,2918,2918
+SDY,Sidney-Richland Municipal,Sidney,MT,USA,2919,2919,2919
+SEA,Seattle-Tacoma Intl,Seattle,WA,USA,2920,2920,2920
+SEE,Gillespie ,San Diego (El Cajon),CA,USA,2921,2921,2921
+SEF,Sebring  And Industrial Park,Sebring,FL,USA,2922,2922,2922
+SEG,Penn Valley,Selinsgrove,PA,USA,2923,2923,2923
+SEM,Craig ,Selma,AL,USA,2924,2924,2924
+SEP,Clark Field Municipal,Stephenville,TX,USA,2925,2925,2925
+SER,Freeman Municipal,Seymour,IN,USA,2926,2926,2926
+SET,St Charles County Smart ,St Charles,MO,USA,2927,2927,2927
+SEZ,Sedona,Sedona,AZ,USA,2928,2928,2928
+SFB,Orlando Sanford,Orlando,FL,USA,2929,2929,2929
+SFD,Bob Wiley ,Winner,SD,USA,2930,2930,2930
+SFF,Felts ,Spokane,WA,USA,2931,2931,2931
+SFM,Sanford Regional,Sanford,ME,USA,2932,2932,2932
+SFO,San Francisco International,San Francisco,CA,USA,2933,2933,2933
+SFQ,Suffolk Municipal,Suffolk,VA,USA,2934,2934,2934
+SFY,Tri-Township ,Savanna,IL,USA,2935,2935,2935
+SFZ,North Central State,Pawtucket,RI,USA,2936,2936,2936
+SGF,Springfield-Branson Regional,Springfield,MO,USA,2937,2937,2937
+SGH,Springfield-Beckley Municipal,Springfield,OH,USA,2938,2938,2938
+SGJ,St. Augustine,St. Augustine,FL,USA,2939,2939,2939
+SGR,Sugar Land Municipal/Hull ,Houston,TX,USA,2940,2940,2940
+SGS,South St.Paul Municipal,South St Paul,MN,USA,2941,2941,2941
+SGT,Stuttgart Municipal,Stuttgart,AR,USA,2942,2942,2942
+SGU,St George Muni,St George,UT,USA,2943,2943,2943
+SGY,Skagway,Skagway,AK,USA,2944,2944,2944
+SHD,Shenandoah Valley Regional,Staunton/Harrisonburg,VA,USA,2945,2945,2945
+SHG,Shungnak,Shungnak,AK,USA,2946,2946,2946
+SHH,Shishmaref,Shishmaref,AK,USA,2947,2947,2947
+SHL,Sheldon Municipal,Sheldon,IA,USA,2948,2948,2948
+SHN,Sanderson ,Shelton,WA,USA,2949,2949,2949
+SHR,Sheridan County,Sheridan,WY,USA,2950,2950,2950
+SHV,Shreveport Regional,Shreveport,LA,USA,2951,2951,2951
+SHX,Shageluk,Shageluk,AK,USA,2952,2952,2952
+SIG,Fernando Luis Ribas Dominicci,San Juan,PR,USA,2953,2953,2953
+SIK,Sikeston Memorial Municipal,Sikeston,MO,USA,2954,2954,2954
+SIT,Sitka,Sitka,AK,USA,2955,2955,2955
+SIV,Sullivan County,Sullivan,IN,USA,2956,2956,2956
+SIY,Siskiyou County,Montague,CA,USA,2957,2957,2957
+SJC,San Jose International,San Jose,CA,USA,2958,2958,2958
+SJN,St Johns Industrial Air Park,St Johns,AZ,USA,2959,2959,2959
+SJT,San Angelo Regional /Mathis ,San Angelo,TX,USA,2960,2960,2960
+SJU,Luis Munoz Marin International,San Juan,PR,USA,2961,2961,2961
+SJX,Beaver Island,St James,MI,USA,2962,2962,2962
+SKA,Fairchild AFB,NA,NA,USA,2963,2963,2963
+SKI,Sac City Municipal,Sac City,IA,USA,2964,2964,2964
+SKW,Skwentna,Skwentna,AK,USA,2965,2965,2965
+SKX,Taos Municipal,Taos,NM,USA,2966,2966,2966
+SLB,Storm Lake Municipal,Storm Lake,IA,USA,2967,2967,2967
+SLC,Salt Lake City Intl,Salt Lake City,UT,USA,2968,2968,2968
+SLE,McNary Fld,Salem,OR,USA,2969,2969,2969
+SLG,Smith ,Siloam Springs,AR,USA,2970,2970,2970
+SLK,Adirondack,Saranac Lake,NY,USA,2971,2971,2971
+SLN,Salina Municipal,Salina,KS,USA,2972,2972,2972
+SLO,Salem-Leckrone,Salem,IL,USA,2973,2973,2973
+SLQ,Sleetmute,Sleetmute,AK,USA,2974,2974,2974
+SLR,Sulphur Springs Municipal,Sulphur Springs,TX,USA,2975,2975,2975
+SMD,Smith ,Fort Wayne,IN,USA,2976,2976,2976
+SME,Somerset-Pulaski County,Somerset,KY,USA,2977,2977,2977
+SMF,Sacramento International,Sacramento,CA,USA,2978,2978,2978
+SMN,Lemhi County,Salmon,ID,USA,2979,2979,2979
+SMO,Santa Monica Municipal,Santa Monica,CA,USA,2980,2980,2980
+SMQ,Somerset ,Somerville,NJ,USA,2981,2981,2981
+SMS,Sumter Municipal,Sumter,SC,USA,2982,2982,2982
+SMX,Santa Maria Pub/Capt G Allan Hancock ,Santa Maria,CA,USA,2983,2983,2983
+SNA,John Wayne /Orange Co,Santa Ana,CA,USA,2984,2984,2984
+SNH,Savannah Hardin County,Savannah,TN,USA,2985,2985,2985
+SNK,Winston ,Snyder,TX,USA,2986,2986,2986
+SNL,Shawnee Municipal,Shawnee,OK,USA,2987,2987,2987
+SNP,St. Paul,St. Paul,AK,USA,2988,2988,2988
+SNS,Salinas Municipal,Salinas,CA,USA,2989,2989,2989
+SNY,Sidney Municipal,Sidney,NE,USA,2990,2990,2990
+SOP,Moore County,Pinehurst/Southern Pines,NC,USA,2991,2991,2991
+SOV,Seldovia,Seldovia,AK,USA,2992,2992,2992
+SOW,Show Low Municipal,Show Low,AZ,USA,2993,2993,2993
+SPA,Spartanburg Downtown Memorial,Spartanburg,SC,USA,2994,2994,2994
+SPB,Scappoose Industrial Airpark,Scappoose,OR,USA,2995,2995,2995
+SPF,Black Hills-Clyde Ice ,Spearfish,SD,USA,2996,2996,2996
+SPG,Albert Whitted Municipal ,St. Petersburg,FL,USA,2997,2997,2997
+SPH,Springhill,Springhill,LA,USA,2998,2998,2998
+SPI,Capital,Springfield,IL,USA,2999,2999,2999
+SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,USA,3000,3000,3000
+SPW,Spencer Municipal,Spencer,IA,USA,3001,3001,3001
+SPX,Houston-Gulf,Houston,TX,USA,3002,3002,3002
+SQI,Whiteside Co ,Sterling Rockfalls,IL,USA,3003,3003,3003
+SQL,San Carlos,San Carlos,CA,USA,3004,3004,3004
+SRB,Upper Cumberland Regional,Sparta,TN,USA,3005,3005,3005
+SRC,Searcy Municipal,Searcy,AR,USA,3006,3006,3006
+SRQ,Sarasota Bradenton International,Sarasota,FL,USA,3007,3007,3007
+SRR,Sierra Blanca Regional,Ruidoso,NM,USA,3008,3008,3008
+SRV,Stony River 2,Stony River,AK,USA,3009,3009,3009
+SSF,Stinson Municipal,San Antonio,TX,USA,3010,3010,3010
+SSI,Malcolm McKinnon,Brunswick,GA,USA,3011,3011,3011
+SSQ,Shell Lake Municipal,Shell Lake,WI,USA,3012,3012,3012
+STC,St Cloud Regional,St Cloud,MN,USA,3013,3013,3013
+STE,Stevens Point Municipal,Stevens Point,WI,USA,3014,3014,3014
+STF,George M Bryan ,Starkville,MS,USA,3015,3015,3015
+STJ,Rosecrans Memorial,St Joseph,MO,USA,3016,3016,3016
+STK,Crosson ,Sterling,CO,USA,3017,3017,3017
+STL,Lambert-St Louis International,St Louis,MO,USA,3018,3018,3018
+STP,St Paul Downtown Holman ,St Paul,MN,USA,3019,3019,3019
+STS,Sonoma Co,Santa Rosa,CA,USA,3020,3020,3020
+STT,Cyril E. King,Charlotte Amalie,VI,USA,3021,3021,3021
+STX,Henry E. Rohlsen ,Christiansted,VI,USA,3022,3022,3022
+SUA,Witham ,Stuart,FL,USA,3023,3023,3023
+SUD,Stroud Municipal,Stroud,OK,USA,3024,3024,3024
+SUE,Door County Cherryland,Sturgeon Bay,WI,USA,3025,3025,3025
+SUN,Friedman Memorial,Hailey,ID,USA,3026,3026,3026
+SUS,Spirit of St Louis,St Louis,MO,USA,3027,3027,3027
+SUT,Brunswick County,Southport,NC,USA,3028,3028,3028
+SUW,Richard I Bong,Superior,WI,USA,3029,3029,3029
+SUX,Sioux Gateway ,Sioux City,IA,USA,3030,3030,3030
+SVA,Savoonga,Savoonga,AK,USA,3031,3031,3031
+SVC,Grant County,Silver City,NM,USA,3032,3032,3032
+SVE,Susanville Municipal,Susanville,CA,USA,3033,3033,3033
+SVH,Statesville Municipal,Statesville,NC,USA,3034,3034,3034
+SVS,Stevens Village,Stevens Village,AK,USA,3035,3035,3035
+SWD,Seward,Seward,AK,USA,3036,3036,3036
+SWF,Stewart,Newburgh,NY,USA,3037,3037,3037
+SWO,Stillwater Regional,Stillwater,OK,USA,3038,3038,3038
+SWT,Seward Municipal,Seward,NE,USA,3039,3039,3039
+SWW,Avenger ,Sweetwater,TX,USA,3040,3040,3040
+SXL,Summersville,Summersville,WV,USA,3041,3041,3041
+SXP,Sheldon Point,Sheldon Point,AK,USA,3042,3042,3042
+SXQ,Soldotna,Soldotna,AK,USA,3043,3043,3043
+SYF,Cheyenne County Municipal,St Francis,KS,USA,3044,3044,3044
+SYI,Bomar Field-Shelbyville Municipal,Shelbyville,TN,USA,3045,3045,3045
+SYR,Syracuse-Hancock Intl,Syracuse,NY,USA,3046,3046,3046
+SYV,Sylvester,Sylvester,GA,USA,3047,3047,3047
+SZP,Santa Paula,Santa Paula,CA,USA,3048,3048,3048
+SZT,Sandpoint,Sandpoint,ID,USA,3049,3049,3049
+SZY,Robert Sibley,Selmer,TN,USA,3050,3050,3050
+T00,Chambers County,Anahauac,TX,USA,3051,3051,3051
+T03,Tuba City,Tuba City,AZ,USA,3052,3052,3052
+T08,Tomahawk Regional,Tomahawk,WI,USA,3053,3053,3053
+T18,Brooks County,Falfurrias,TX,USA,3054,3054,3054
+T28,Lampasas Municipal,Lampasas,TX,USA,3055,3055,3055
+T35,Cameron Municipal Airpark,Cameron,TX,USA,3056,3056,3056
+T36,Paul Pittman Memorial,Tylertown,MS,USA,3057,3057,3057
+T41,La Porte Municipal,La Porte,TX,USA,3058,3058,3058
+T44,Trident Basin,Kodiak,AK,USA,3059,3059,3059
+T47,Kickapoo Downtown Airpark,Wichita Falls,TX,USA,3060,3060,3060
+T49,Big Spring McMahon-Wrinkle,Big Spring,TX,USA,3061,3061,3061
+T53,Robstown-Nueces County,Robstown,TX,USA,3062,3062,3062
+T56,Crockett-Houston County,Crockett,TX,USA,3063,3063,3063
+T57,Garland Heliport,Garland,TX,USA,3064,3064,3064
+T60,Stonewall County,Aspermont,TX,USA,3065,3065,3065
+T65,Mid Valley,Weslaco,TX,USA,3066,3066,3066
+T69,Sinton-San Patricio County,Sinton,TX,USA,3067,3067,3067
+T71,Cuero Municipal,Cuero,TX,USA,3068,3068,3068
+T72,Hearne Municipal,Hearne,TX,USA,3069,3069,3069
+T74,Taylor Municipal,Taylor,TX,USA,3070,3070,3070
+T78,Liberty Municipal,Liberty,TX,USA,3071,3071,3071
+T80,Kleberg County,Kingsville,TX,USA,3072,3072,3072
+T82,Gillespie County,Fredericksburg,TX,USA,3073,3073,3073
+T89,Castroville Municipal,Castroville,TX,USA,3074,3074,3074
+T90,Chambers County,Winnie/Stowell,TX,USA,3075,3075,3075
+T97,Calhoun County,Port Lavaca,TX,USA,3076,3076,3076
+TAD,Perry Stokes,Trinidad,CO,USA,3077,3077,3077
+TAL,Ralph M Calhoun Memorial,Tanana,AK,USA,3078,3078,3078
+TAN,Taunton Municipal,Taunton,MA,USA,3079,3079,3079
+TAZ,Taylorville Municipal,Taylorville,IL,USA,3080,3080,3080
+TBN,Forney AAF,Fort Leonard Wood,MO,USA,3081,3081,3081
+TBR,Statesboro Municipal,Statesboro,GA,USA,3082,3082,3082
+TCC,Tucumcari Municipal,Tucumcari,NM,USA,3083,3083,3083
+TCL,Tuscaloosa Municipal,Tuscaloosa,AL,USA,3084,3084,3084
+TCS,Truth Or Consequences Municipal,Truth Or Consequences,NM,USA,3085,3085,3085
+TCT,Takotna,Takotna,AK,USA,3086,3086,3086
+TCY,Tracy Municipal,Tracy,CA,USA,3087,3087,3087
+TDF,Person County,Roxboro,NC,USA,3088,3088,3088
+TDO,Toledo-Winlock Ed Carlson Memorial ,Toledo,WA,USA,3089,3089,3089
+TDZ,Toledo Metcalf,Toledo,OH,USA,3090,3090,3090
+TEB,Teterboro,Teterboro,NJ,USA,3091,3091,3091
+TEL,Perry County Municipal,Tell City,IN,USA,3092,3092,3092
+TEW,Mason Jewett ,Mason,MI,USA,3093,3093,3093
+TEX,Telluride Regional,Telluride,CO,USA,3094,3094,3094
+TGC,Gibson County,Trenton,TN,USA,3095,3095,3095
+TGI,Tangier Island,Tangier,VA,USA,3096,3096,3096
+THA,Tullahoma Regional,Tullahoma,TN,USA,3097,3097,3097
+THM,Thompson Falls,Thompson Falls,MT,USA,3098,3098,3098
+THP,Hot Springs County-Thermopolis Municipal,Thermopolis,WY,USA,3099,3099,3099
+THV,York,York,PA,USA,3100,3100,3100
+TIW,Tacoma Narrows,Tacoma,WA,USA,3101,3101,3101
+TIX,Space Cost Regional,Titusville,FL,USA,3102,3102,3102
+TKA,Talkeetna,Talkeetna,AK,USA,3103,3103,3103
+TKE,Tenakee SPB,Tenakee Springs,AK,USA,3104,3104,3104
+TKI,McKinney Municipal,McKinney,TX,USA,3105,3105,3105
+TKX,Kennett Memorial,Kennett,MO,USA,3106,3106,3106
+TLH,Tallahassee Regional,Tallahassee,FL,USA,3107,3107,3107
+TLR,Mefford ,Tulare,CA,USA,3108,3108,3108
+TLT,Tuluksak,Tuluksak,AK,USA,3109,3109,3109
+TMA,Henry Tift Myers,Tifton,GA,USA,3110,3110,3110
+TMB,Kendall-Tamiami Executive,Miami,FL,USA,3111,3111,3111
+TNI,West Tinian,Peipeinimaru,CQ,USA,3112,3112,3112
+TNP,Twentynine Palms,Twentynine Palms,CA,USA,3113,3113,3113
+TNT,Dade Collier T And T,Miami,FL,USA,3114,3114,3114
+TNU,Newton Municipal,Newton,IA,USA,3115,3115,3115
+TOA,Zamperini ,Torrance,CA,USA,3116,3116,3116
+TOB,Dodge Center,Dodge Center,MN,USA,3117,3117,3117
+TOC,"Toccoa, R G Le Tourneau ",Toccoa,GA,USA,3118,3118,3118
+TOG,Togiak Village,Togiak,AK,USA,3119,3119,3119
+TOI,Troy Municipal,Troy,AL,USA,3120,3120,3120
+TOL,Toledo Express,Toledo,OH,USA,3121,3121,3121
+TOP,Philip Billard Municipal,Topeka,KS,USA,3122,3122,3122
+TOR,Torrington Muni,Torrington,WY,USA,3123,3123,3123
+TPA,Tampa International ,Tampa,FL,USA,3124,3124,3124
+TPF,Peter O. Knight,Tampa,FL,USA,3125,3125,3125
+TPH,Tonopah,Tonopah,NV,USA,3126,3126,3126
+TPL,Draughon-Miller Central Texas Regional,Temple,TX,USA,3127,3127,3127
+TPO,Port Alsworth,Port Alsworth,AK,USA,3128,3128,3128
+TQE,Municipal,Tekamah,NE,USA,3129,3129,3129
+TQH,Tahlequah Municipal,Tahlequah,OK,USA,3130,3130,3130
+TQK,Scott City Municipal,Scott City,KS,USA,3131,3131,3131
+TRI,Tri-Cities Regional,Bristol,TN,USA,3132,3132,3132
+TRK,Truckee-Tahoe,Truckee,CA,USA,3133,3133,3133
+TRL,Terrell Municipal,Terrell,TX,USA,3134,3134,3134
+TRM,Desert Resorts Regional,Palm Springs,CA,USA,3135,3135,3135
+TRX,Trenton Municipal,Trenton,MO,USA,3136,3136,3136
+TSO,Carroll County-Tolson,Carrollton,OH,USA,3137,3137,3137
+TSP,Tehachapi Municipal,Tehachapi,CA,USA,3138,3138,3138
+TT01,Pagan Airstrip,Shomu-Shon,CQ,USA,3139,3139,3139
+TTA,Sanford-Lee County Regional,Sanford,NC,USA,3140,3140,3140
+TTD,Portland-Troutdale,Portland,OR,USA,3141,3141,3141
+TTF,Monroe Custer,Monroe,MI,USA,3142,3142,3142
+TTN,Trenton-Mercer County ,Trenton,NJ,USA,3143,3143,3143
+TUL,Tulsa International,Tulsa,OK,USA,3144,3144,3144
+TUP,Tupelo Municipal ,Tupelo,MS,USA,3145,3145,3145
+TUS,Tucson International,Tucson,AZ,USA,3146,3146,3146
+TVB,Cabool Memorial,Cabool,MO,USA,3147,3147,3147
+TVC,Cherry Capital,Traverse City,MI,USA,3148,3148,3148
+TVF,Thief River Falls Regional,Thief River Falls,MN,USA,3149,3149,3149
+TVI,Thomasville Municipal,Thomasville,GA,USA,3150,3150,3150
+TVK,Centerville Municipal,Centerville,IA,USA,3151,3151,3151
+TVL,Lake Tahoe,South Lake Tahoe,CA,USA,3152,3152,3152
+TVR,Vicksburg Tallulah Regional,Tallulah,LA,USA,3153,3153,3153
+TVY,Tooele Valley,Tooele,UT,USA,3154,3154,3154
+TWF,Joslin Field - Magic Valley,Twin Falls,ID,USA,3155,3155,3155
+TWM,Richard B. Helgeson,Two Harbors,MN,USA,3156,3156,3156
+TXK,Texarkana Regional-Webb ,Texarkana,AR,USA,3157,3157,3157
+TYL,Taylor,Taylor,AZ,USA,3158,3158,3158
+TYQ,Indianapolis Terry,Indianapolis,IN,USA,3159,3159,3159
+TYR,Tyler Pounds ,Tyler,TX,USA,3160,3160,3160
+TYS,McGhee-Tyson,Knoxville,TN,USA,3161,3161,3161
+TZR,Bolton ,Columbus,OH,USA,3162,3162,3162
+TZT,Belle Plaine Municipal,Belle Plaine,IA,USA,3163,3163,3163
+TZV,Tompkinsville-Monroe County,Tompkinsville,KY,USA,3164,3164,3164
+U02,McCarley,Blackfoot,ID,USA,3165,3165,3165
+U03,Buhl Municipal,Buhl,ID,USA,3166,3166,3166
+U05,Riddick ,Philipsburg,MT,USA,3167,3167,3167
+U08,Perkins ,Overton,NV,USA,3168,3168,3168
+U10,Preston,Preston,ID,USA,3169,3169,3169
+U14,Nephi Municipal,Nephi,UT,USA,3170,3170,3170
+U25,Dubois Municipal,Dubois,WY,USA,3171,3171,3171
+U30,Temple Bar,Temple Bar,AZ,USA,3172,3172,3172
+U34,Green River Muni,Green River,UT,USA,3173,3173,3173
+U36,Aberdeen Municipal,Aberdeen,ID,USA,3174,3174,3174
+U42,Salt Lake City Municipal 2,Salt Lake City,UT,USA,3175,3175,3175
+U43,Monticello,Monticello,UT,USA,3176,3176,3176
+U52,Beaver Municipal,Beaver,UT,USA,3177,3177,3177
+U55,Panguitch Municipal,Panguitch,UT,USA,3178,3178,3178
+U59,Driggs-Reed Memorial,Driggs,ID,USA,3179,3179,3179
+U68,North Big Horn County,Cowley/Lovell/Byron,WY,USA,3180,3180,3180
+U69,Duchesne Municipal,Duchesne,UT,USA,3181,3181,3181
+U70,Cascade,Cascade,ID,USA,3182,3182,3182
+U76,Mountain Home Municipal,Mountain Home,ID,USA,3183,3183,3183
+U77,Spanish Fork-Springville,Spanish Fork,UT,USA,3184,3184,3184
+U82,Council Municipal,Council,ID,USA,3185,3185,3185
+U96,Cal Black Memorial,Halls Crossing,UT,USA,3186,3186,3186
+UAO,Aurora State,Aurora,OR,USA,3187,3187,3187
+UBE,Cumberland Municipal ,Cumberland,WI,USA,3188,3188,3188
+UBS,Columbus-Lowndes County,Columbus,MS,USA,3189,3189,3189
+UBX,Cuba Municipal,Cuba,MO,USA,3190,3190,3190
+UCA,Oneida Cty,Utica,NY,USA,3191,3191,3191
+UCP,New Castle Muni,New Castle,PA,USA,3192,3192,3192
+UCY,Everett-Stewart,Union City,TN,USA,3193,3193,3193
+UDD,Bermuda Dunes,Palm Springs,CA,USA,3194,3194,3194
+UDG,Darlington County,Darlington,SC,USA,3195,3195,3195
+UES,Waukesha County,Waukesha,WI,USA,3196,3196,3196
+UGN,Waukegan Regional,Chicago/Waukegan,IL,USA,3197,3197,3197
+UIL,Quillayute,Forks,WA,USA,3198,3198,3198
+UIN,Quincy Municipal-Baldwin ,Quincy,IL,USA,3199,3199,3199
+UIZ,Berz-Macomb,Utica,MI,USA,3200,3200,3200
+UKF,Wilkes County,North Wilkesboro,NC,USA,3201,3201,3201
+UKI,Ukiah Municipal,Ukiah,CA,USA,3202,3202,3202
+UKL,Coffey County,Burlington,KS,USA,3203,3203,3203
+UKT,Quakertown,Quakertown,PA,USA,3204,3204,3204
+ULM,New Ulm Municipal,New Ulm,MN,USA,3205,3205,3205
+ULS,Ulysses,Ulysses,KS,USA,3206,3206,3206
+UMP,Indianapolis Metropolitan,Indianapolis,IN,USA,3207,3207,3207
+UNI,Ohio University,Athens/Albany,OH,USA,3208,3208,3208
+UNK,Unalakleet,Unalakleet,AK,USA,3209,3209,3209
+UNO,West Plains Municipal,West Plains,MO,USA,3210,3210,3210
+UNU,Dodge County,Juneau,WI,USA,3211,3211,3211
+UNV,University Park,State College,PA,USA,3212,3212,3212
+UOS,Franklin County,Sewanee,TN,USA,3213,3213,3213
+UOX,University-Oxford,Oxford,MS,USA,3214,3214,3214
+UPP,Upolu,Hawi,HI,USA,3215,3215,3215
+USE,Fulton County,Wauseon,OH,USA,3216,3216,3216
+UTS,Huntsville Municipal,Huntsville,TX,USA,3217,3217,3217
+UUO,Willow,Willow,AK,USA,3218,3218,3218
+UUU,Newport State,Newport,RI,USA,3219,3219,3219
+UUV,Sullivan Regional,Sullivan,MO,USA,3220,3220,3220
+UVA,Garner ,Uvalde,TX,USA,3221,3221,3221
+UWL,New Castle-Henry Co ,New Castle,IN,USA,3222,3222,3222
+UYF,Madison County,London,OH,USA,3223,3223,3223
+UZA,Rock Hill Municipal/Bryant ,Rock Hill,SC,USA,3224,3224,3224
+VAK,Chevak,Chevak,AK,USA,3225,3225,3225
+VAY,South Jersey Reg,Mount Holly,NJ,USA,3226,3226,3226
+VBT,Bentonville Municipal,Bentonville,AR,USA,3227,3227,3227
+VCB,Nut Tree,Vacaville,CA,USA,3228,3228,3228
+VCT,Victoria Regional,Victoria,TX,USA,3229,3229,3229
+VCV,Southern California Logistic ,Victorville,CA,USA,3230,3230,3230
+VDI,Vidalia Municipal,Vidalia,GA,USA,3231,3231,3231
+VDZ,Valdez,Valdez,AK,USA,3232,3232,3232
+VEE,Venetie,Venetie,AK,USA,3233,3233,3233
+VEL,Vernal,Vernal,UT,USA,3234,3234,3234
+VER,Jesse Viertel Memorial,Boonville,MO,USA,3235,3235,3235
+VES,Darke County,Versailles,OH,USA,3236,3236,3236
+VGT,North Las Vegas,Las Vegas,NV,USA,3237,3237,3237
+VHN,Culberson County,Van Horn,TX,USA,3238,3238,3238
+VIH,Rolla National,Rolla/Vichy,MO,USA,3239,3239,3239
+VIQ,Neillsville Municipal,Neillsville,WI,USA,3240,3240,3240
+VIS,Visalia Municipal,Visalia,CA,USA,3241,3241,3241
+VJI,Virginia Highlands,Abingdon,VA,USA,3242,3242,3242
+VLA,Vandalia Municipal,Vandalia,IL,USA,3243,3243,3243
+VLD,Valdosta Regional,Valdosta,GA,USA,3244,3244,3244
+VMR,Harold Davidson ,Vermillion,SD,USA,3245,3245,3245
+VNC,Venice Municipal,Venice,FL,USA,3246,3246,3246
+VNW,Van Wert County,Van Wert,OH,USA,3247,3247,3247
+VNY,Van Nuys,Van Nuys,CA,USA,3248,3248,3248
+VPC,Cartersville,Cartersville,GA,USA,3249,3249,3249
+VPS,Eglin Air Force Base,Valparaiso,FL,USA,3250,3250,3250
+VPZ,Porter County Municipal,Valparaiso,IN,USA,3251,3251,3251
+VQQ,Cecil ,Jacksonville,FL,USA,3252,3252,3252
+VQS,Antonio Rivera Rodriguez,Isla De Vieques,PR,USA,3253,3253,3253
+VRB,Vero Beach Municipal,Vero Beach,FL,USA,3254,3254,3254
+VSF,Springfield State/Hartness,Springfield,VT,USA,3255,3255,3255
+VTA,Newark-Heath,Newark,OH,USA,3256,3256,3256
+VTI,Vinton Veterans Memorial Airpark,Vinton,IA,USA,3257,3257,3257
+VTN,Miller ,Valentine,NE,USA,3258,3258,3258
+VUJ,Stanly County,Albemarle,NC,USA,3259,3259,3259
+VUO,Pearson Airpark,Vancouver,WA,USA,3260,3260,3260
+VVV,Ortonville Municipal,Ortonville,MN,USA,3261,3261,3261
+VYS,Illinois Valley Regional,Peru/Lasalle,IL,USA,3262,3262,3262
+W04,Ocean Shores Municipal,Ocean Shores,WA,USA,3263,3263,3263
+W05,Gettysburg  & Travel Center,Gettysburg,PA,USA,3264,3264,3264
+W11,Menomonie Municipal - Score ,Menomonie,WI,USA,3265,3265,3265
+W22,Upshur County Regional,Buckhannon,WV,USA,3266,3266,3266
+W29,Bay Bridge Industrial,Stevensville,MD,USA,3267,3267,3267
+W31,Lunenburg County,Kenbridge,VA,USA,3268,3268,3268
+W33,Friday Harbor,Friday Harbor,WA,USA,3269,3269,3269
+W40,Mt Olive Municipal,Mt Olive,NC,USA,3270,3270,3270
+W41,Crisfield Municipal,Crisfield,MD,USA,3271,3271,3271
+W44,Asheboro Municipal,Asheboro,NC,USA,3272,3272,3272
+W45,Luray Caverns,Luray,VA,USA,3273,3273,3273
+W66,Warrenton-Fauquier,Warrenton,VA,USA,3274,3274,3274
+W78,William M Tuck,South Boston,VA,USA,3275,3275,3275
+W95,Ocracoke Island,Ocracoke,NC,USA,3276,3276,3276
+W96,New Kent County,Quinton,VA,USA,3277,3277,3277
+W97,Middle Peninsula Regional,West Point,VA,USA,3278,3278,3278
+W99,Grant County,Petersburg,WV,USA,3279,3279,3279
+WA10,Grove ,Camas/Washougal,WA,USA,3280,3280,3280
+WA21,Grand Coulee Dam,Electric City,WA,USA,3281,3281,3281
+WA31,Whidbey Air Park,Langley,WA,USA,3282,3282,3282
+WA43,Odessa Municipal,Odessa,WA,USA,3283,3283,3283
+WAY,Greene Cty,Waynesburg,PA,USA,3284,3284,3284
+WBB,Stebbins,Stebbins,AK,USA,3285,3285,3285
+WBQ,Beaver,Beaver,AK,USA,3286,3286,3286
+WBW,Wilkes-Barre Wyoming Valley,Wilkes-Barre,PA,USA,3287,3287,3287
+WCR,Chandalar Lake,Chandalar Lake,AK,USA,3288,3288,3288
+WDG,Enid Woodring Municipal,Enid,OK,USA,3289,3289,3289
+WDR,Winder,Winder,GA,USA,3290,3290,3290
+WHP,Whiteman,Los Angeles,CA,USA,3291,3291,3291
+WJF,General Wm. J. Fox Airfield,Lancaster,CA,USA,3292,3292,3292
+WLD,Strother ,Winfield/Arkansas City,KS,USA,3293,3293,3293
+WLK,Selawik,Selawik,AK,USA,3294,3294,3294
+WLW,Willows-Glenn County,Willows,CA,USA,3295,3295,3295
+WMC,Winnemucca Municipal,Winnemucca,NV,USA,3296,3296,3296
+WMO,White Mountain,White Mountain,AK,USA,3297,3297,3297
+WNA,Napakiak,Napakiak,AK,USA,3298,3298,3298
+WRG,Wrangell,Wrangell,AK,USA,3299,3299,3299
+WRL,Worland Muni,Worland,WY,USA,3300,3300,3300
+WSM,Wiseman,Wiseman,AK,USA,3301,3301,3301
+WSN,South Naknek 2,South Naknek,AK,USA,3302,3302,3302
+WST,Westerly State,Westerly,RI,USA,3303,3303,3303
+WTK,Noatak,Noatak,AK,USA,3304,3304,3304
+WVI,Watsonville Municipal,Watsonville,CA,USA,3305,3305,3305
+WVL,Waterville-Robert Lafleur,Waterville,ME,USA,3306,3306,3306
+WWD,Cape May Cty ,Wildwood,NJ,USA,3307,3307,3307
+WWR,West Woodward,Woodward,OK,USA,3308,3308,3308
+WYS,Yellowstone,West Yellowstone,MT,USA,3309,3309,3309
+X01,Everglades,Everglades,FL,USA,3310,3310,3310
+X06,Arcadia Municipal,Arcadia,FL,USA,3311,3311,3311
+X07,Lake Wales Municipal,Lake Wales,FL,USA,3312,3312,3312
+X10,Belle Glade Municipal,Belle Glade,FL,USA,3313,3313,3313
+X14,Labelle Municipal,Labelle,FL,USA,3314,3314,3314
+X16,Vandenberg ,Tampa,FL,USA,3315,3315,3315
+X21,Arthur Dunn Airpark,Titusville,FL,USA,3316,3316,3316
+X23,Umatilla Municipal,Umatilla,FL,USA,3317,3317,3317
+X26,Sebastian Municipal,Sebastian,FL,USA,3318,3318,3318
+X35,Dunnellon/Marion Co.,Dunellon,FL,USA,3319,3319,3319
+X40,Inverness,Inverness,FL,USA,3320,3320,3320
+X44,Watson Island Base,Miami,FL,USA,3321,3321,3321
+X46,Opa-Locka West,Miami,FL,USA,3322,3322,3322
+X47,Flagler County,Bunnell,FL,USA,3323,3323,3323
+X51,Homestead General Aviation,Homestead,FL,USA,3324,3324,3324
+X59,Valkaria,Valkaria,FL,USA,3325,3325,3325
+X60,Williston Municipal,Williston,FL,USA,3326,3326,3326
+X63,Humacao,Humacao,PR,USA,3327,3327,3327
+X66,Charlotte Amalie Harbor Seaplane Base,Charlotte Amalie,VI,USA,3328,3328,3328
+X67,Christiansted Harbor Seaplane Base,Christiansted,VI,USA,3329,3329,3329
+X95,Diego Jimenez Torres,Fajardo,PR,USA,3330,3330,3330
+X96,Cruz Bay Harbor Seaplane Base,Cruz Bay,VI,USA,3331,3331,3331
+XNA,Northwest Arkansas Regional,Fayetteville/Springdale/Rogers,AR,USA,3332,3332,3332
+XVG,Longville Municipal,Longville,MN,USA,3333,3333,3333
+Y03,Springfield Municipal,Springfield,SD,USA,3334,3334,3334
+Y14,Marv Skie-Lincoln County,Tea,SD,USA,3335,3335,3335
+Y15,Cheboygan City-County,Cheboygan,MI,USA,3336,3336,3336
+Y19,Mandan Municipal,Mandan,ND,USA,3337,3337,3337
+Y27,Standing Rock,Fort Yates,ND,USA,3338,3338,3338
+Y31,West Branch Community,West Branch,MI,USA,3339,3339,3339
+Y37,Park River Municipal,Park River,ND,USA,3340,3340,3340
+Y47,New Hudson,New Hudson,MI,USA,3341,3341,3341
+Y50,Wautoma Municipal,Wautoma,WI,USA,3342,3342,3342
+Y51,Viroqua Municipal,Viroqua,WI,USA,3343,3343,3343
+Y55,Crandon Municipal,Crandon,WI,USA,3344,3344,3344
+Y63,Elbow Lake Municipal,Elbow Lake,MN,USA,3345,3345,3345
+Y66,Drummond Island,Drummond Island,MI,USA,3346,3346,3346
+Y68,Tracy Municipal,Tracy,MN,USA,3347,3347,3347
+Y70,Ionia County,Ionia,MI,USA,3348,3348,3348
+Y74,Hankins ,Parshall,ND,USA,3349,3349,3349
+Y83,Sandusky City,Sandusky,MI,USA,3350,3350,3350
+Y93,Atlanta Municipal,Atlanta,MI,USA,3351,3351,3351
+YAK,Yakutat,Yakutat,AK,USA,3352,3352,3352
+YIP,Willow Run,Detroit,MI,USA,3353,3353,3353
+YKM,Yakima Air Terminal,Yakima,WA,USA,3354,3354,3354
+YKN,Chan Gurney Municipal,Yankton,SD,USA,3355,3355,3355
+YNG,Youngstown-Warren Regional,Youngstown,OH,USA,3356,3356,3356
+YUM,Yuma MCAS-Yuma International,Yuma,AZ,USA,3357,3357,3357
+Z08,Ofu,Ofu Village,AS,USA,3358,3358,3358
+Z09,Kasigluk,Kasigluk,AK,USA,3359,3359,3359
+Z13,Akiachak,Akiachak,AK,USA,3360,3360,3360
+Z17,Ophir,Ophir,AK,USA,3361,3361,3361
+Z40,Goose Bay,Goose Bay,AK,USA,3362,3362,3362
+Z55,Lake Louise,Lake Louise,AK,USA,3363,3363,3363
+Z73,Nelson Lagoon,Nelson Lagoon,AK,USA,3364,3364,3364
+Z84,Clear,Clear A.F.B.,AK,USA,3365,3365,3365
+Z91,Birch Creek,Birch Creek,AK,USA,3366,3366,3366
+Z95,Cibecue,Cibecue,AZ,USA,3367,3367,3367
+ZEF,Elkin Municipal,Elkin,NC,USA,3368,3368,3368
+ZER,Schuylkill Cty/Joe Zerbey,Pottsville,PA,USA,3369,3369,3369
+ZPH,Zephyrhills Municipal,Zephyrhills,FL,USA,3370,3370,3370
+ZUN,Black Rock,Zuni,NM,USA,3371,3371,3371
+ZZV,Zanesville Municipal,Zanesville,OH,USA,3372,3372,3372
