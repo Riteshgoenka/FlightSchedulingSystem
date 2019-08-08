@@ -1,5 +1,7 @@
 # FlightSchedulingSystem
 Course Project: Database and Information Systems Lab (CS 387) <br>
+
+## Team Members
 Ritesh Goenka       (160050047) <br>
 Manoj Middepogu     (160050075)<br>
 Sathvik Kollu Reddy (160050077)<br>
